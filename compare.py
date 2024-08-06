@@ -36,8 +36,8 @@ def main():
     team_a, team_b = teams_playing
 
     # Additional widgets for Event-player
-    event_player_team_a = st.selectbox(f'Select Event Player for {team_a}', ['Mid-lane', 'Jungler-line', 'Exp-lane', 'Gold-lane', 'Roamer-lane'])
-    event_player_team_b = st.selectbox(f'Select Event Player for {team_b}', ['Mid-lane', 'Jungler-line', 'Exp-lane', 'Gold-lane', 'Roamer-lane'])
+    event_player_team_a = st.selectbox(f'Select Event Player for {team_a}', ['Mid-lane', 'Jungler-line', 'Exp-lane', 'gold-lane', 'Roamer-lane'])
+    event_player_team_b = st.selectbox(f'Select Event Player for {team_b}', ['Mid-lane', 'Jungler-line', 'Exp-lane', 'gold-lane', 'Roamer-lane'])
 
     # Checkboxes for Event Game
     event_game_death = st.checkbox('Death', value=True)
