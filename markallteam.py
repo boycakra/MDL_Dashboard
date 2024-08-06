@@ -29,17 +29,16 @@ img_height, img_width = map_img.shape[:2]
 def radar_chart(data, teams, fig_width=10, fig_height=8):
     # Create radar chart for multiple teams
     metrics = [
-        'Death Mid-lane',
-        'Kill Jungler-line',
-        'Death Jungler-line',
-        'Kill Roamer-lane',
-        'Death Roamer-lane',
-        'Death Exp-lane',
         'Kill Mid-lane',
+        'Death Exp-lane',
+        'Death Jungler-line',
+        'Kill Jungler-line',
+        'Death Roamer-lane',
+        'Kill Roamer-lane',
+        'Death Mid-lane',
         'Kill Exp-lane',
-        'Death Gold-lane',
-        'Turtle Exp-lane',
-        'Kill Gold-lane'
+        'Kill Gold-lane',
+        'Death Gold-lane'
     ]
     
     num_vars = len(metrics)
@@ -92,30 +91,5 @@ def homepage1():
     ax1.legend(bbox_to_anchor=(1.05, 1), loc='upper left')  # Place legend outside the plot
     st.pyplot(fig1)
 
-    # Radar chart for selected metrics
-    if len(teams) == 2:
-        radar_fig = radar_chart(filtered_df, teams, fig_width, fig_height)
-        st.pyplot(radar_fig)
-
-    # Additional widgets for Event-player and Event-Game
-    event_player = st.selectbox('Select Event Player', ['Mid-lane', 'Jungler-line', 'Exp-lane', 'Gold-lane', 'Roamer-lane'])
-    event_game = st.selectbox('Select Event Game', ['Death', 'Kill'])
-
-    # Filter data for the selected Event-player and Event-Game
-    filtered_player_df = df[(df['Event-player'] == event_player) & (df['Event-Game'] == event_game) & (df['Round'] == round_id) & (df['Team'].isin(teams))]
-
-    # Convert percentage coordinates to pixel values
-    filtered_player_df['Coordinates x'] = filtered_player_df['Coordinates x'] * img_width / 100
-    filtered_player_df['Coordinates y'] = filtered_player_df['Coordinates y'] * img_height / 100
-
-    # Second figure: Specific events for the selected player role and event game
-    fig2, ax2 = plt.subplots(figsize=(fig_width, fig_height))
-    ax2.imshow(map_img, extent=[0, img_width, img_height, 0])
-    sns.scatterplot(data=filtered_player_df, x='Coordinates x', y='Coordinates y', hue='Event-Game', ax=ax2, s=100, legend='brief')
-    ax2.set_title(f'{event_player} - {event_game} Events Map {", ".join(teams)}')
-    ax2.legend(bbox_to_anchor=(1.05, 1), loc='upper left')  # Place legend outside the plot
-    st.pyplot(fig2)
-
 if __name__ == "__main__":
     homepage1()
-    
