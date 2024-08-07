@@ -1,341 +1,655 @@
-Competition_id,Date_id,Match_id,Round,Stage,Coordinates x,Coordinates y,Event,Event-Game,Event-player,Id_played,Team,Time
-MDL_mid2024,8/5/2024,mdl_gr1d1_m1,1,Group Stage,55.35%,58.50%,Kill Mid-lane,Kill,Mid-lane,Depezett,EVOS Icon,2:23
-MDL_mid2024,8/5/2024,mdl_gr1d1_m1,1,Group Stage,55.72%,57.17%,Death Exp-lane,Death,Exp-lane,Markk,Dewa United Morpheus,2:23
-MDL_mid2024,8/5/2024,mdl_gr1d1_m1,1,Group Stage,53.35%,66.50%,Kill Mid-lane,Kill,Mid-lane,Depezett,EVOS Icon,2:28
-MDL_mid2024,8/5/2024,mdl_gr1d1_m1,1,Group Stage,55.39%,62.83%,Death Jungler-line,Death,Jungler-line,Manta,Dewa United Morpheus,2:28
-MDL_mid2024,8/5/2024,mdl_gr1d1_m1,1,Group Stage,42.35%,32.17%,Death Jungler-line,Death,Jungler-line,Nazara,EVOS Icon,4:03
-MDL_mid2024,8/5/2024,mdl_gr1d1_m1,1,Group Stage,42.05%,32.17%,Kill Jungler-line,Kill,Jungler-line,Manta,Dewa United Morpheus,4:03
-MDL_mid2024,8/5/2024,mdl_gr1d1_m1,1,Group Stage,42.02%,36.83%,Death Roamer-lane,Death,Roamer-lane,Alevaa,EVOS Icon,4:11
-MDL_mid2024,8/5/2024,mdl_gr1d1_m1,1,Group Stage,42.05%,35.17%,Kill Roamer-lane,Kill,Roamer-lane,panpan,Dewa United Morpheus,4:11
-MDL_mid2024,8/5/2024,mdl_gr1d1_m1,1,Group Stage,46.69%,52.83%,Death Exp-lane,Death,Exp-lane,Saykots,EVOS Icon,4:23
-MDL_mid2024,8/5/2024,mdl_gr1d1_m1,1,Group Stage,46.39%,54.50%,Kill Roamer-lane,Kill,Roamer-lane,panpan,Dewa United Morpheus,4:23
-MDL_mid2024,8/5/2024,mdl_gr1d1_m1,1,Group Stage,44.35%,55.83%,Death Mid-lane,Death,Mid-lane,Depezett,EVOS Icon,4:55
-MDL_mid2024,8/5/2024,mdl_gr1d1_m1,1,Group Stage,47.05%,54.17%,Kill Jungler-line,Kill,Jungler-line,Manta,Dewa United Morpheus,4:55
-MDL_mid2024,8/5/2024,mdl_gr1d1_m1,1,Group Stage,56.35%,71.70%,Death Exp-lane,Death,Exp-lane,Saykots,EVOS Icon,7:15
-MDL_mid2024,8/5/2024,mdl_gr1d1_m1,1,Group Stage,57.05%,72.03%,Kill Exp-lane,Kill,Exp-lane,Markk,Dewa United Morpheus,7:15
-MDL_mid2024,8/5/2024,mdl_gr1d1_m1,1,Group Stage,6.35%,24.37%,Kill gold-lane,Kill,gold-lane,Inaya,EVOS Icon,7:16
-MDL_mid2024,8/5/2024,mdl_gr1d1_m1,1,Group Stage,7.39%,21.37%,Death gold-lane,Death,gold-lane,Maybe,Dewa United Morpheus,7:16
-MDL_mid2024,8/5/2024,mdl_gr1d1_m1,1,Group Stage,52.69%,75.70%,Death Roamer-lane,Death,Roamer-lane,Alevaa,EVOS Icon,7:21
-MDL_mid2024,8/5/2024,mdl_gr1d1_m1,1,Group Stage,54.39%,70.37%,Kill Exp-lane,Kill,Exp-lane,Markk,Dewa United Morpheus,7:21
-MDL_mid2024,8/5/2024,mdl_gr1d1_m1,1,Group Stage,55.69%,87.37%,Kill Mid-lane,Kill,Mid-lane,Depezett,EVOS Icon,7:26
-MDL_mid2024,8/5/2024,mdl_gr1d1_m1,1,Group Stage,60.05%,87.70%,Death Roamer-lane,Death,Roamer-lane,panpan,Dewa United Morpheus,7:26
-MDL_mid2024,8/5/2024,mdl_gr1d1_m1,1,Group Stage,36.35%,25.37%,Kill Exp-lane,Kill,Exp-lane,Saykots,EVOS Icon,8:22
-MDL_mid2024,8/5/2024,mdl_gr1d1_m1,1,Group Stage,36.05%,24.37%,Death Mid-lane,Death,Mid-lane,Dahlan,Dewa United Morpheus,8:22
-MDL_mid2024,8/5/2024,mdl_gr1d1_m1,1,Group Stage,37.69%,25.70%,Kill Jungler-line,Kill,Jungler-line,Nazara,EVOS Icon,8:24
-MDL_mid2024,8/5/2024,mdl_gr1d1_m1,1,Group Stage,37.39%,24.37%,Death Roamer-lane,Death,Roamer-lane,panpan,Dewa United Morpheus,8:24
-MDL_mid2024,8/5/2024,mdl_gr1d1_m1,1,Group Stage,34.35%,32.03%,Kill Exp-lane,Kill,Exp-lane,Saykots,EVOS Icon,10:44
-MDL_mid2024,8/5/2024,mdl_gr1d1_m1,1,Group Stage,33.72%,32.03%,Death Jungler-line,Death,Jungler-line,Manta,Dewa United Morpheus,10:44
-MDL_mid2024,8/5/2024,mdl_gr1d1_m1,1,Group Stage,28.69%,39.70%,Death gold-lane,Death,gold-lane,Inaya,EVOS Icon,10:47
-MDL_mid2024,8/5/2024,mdl_gr1d1_m1,1,Group Stage,28.39%,40.03%,Kill gold-lane,Kill,gold-lane,Maybe,Dewa United Morpheus,10:47
-MDL_mid2024,8/5/2024,mdl_gr1d1_m1,1,Group Stage,40.69%,27.37%,Kill Exp-lane,Kill,Exp-lane,Saykots,EVOS Icon,10:48
-MDL_mid2024,8/5/2024,mdl_gr1d1_m1,1,Group Stage,42.05%,25.70%,Death Roamer-lane,Death,Roamer-lane,panpan,Dewa United Morpheus,10:48
-MDL_mid2024,8/5/2024,mdl_gr1d1_m1,1,Group Stage,43.69%,32.37%,Kill Exp-lane,Kill,Exp-lane,Saykots,EVOS Icon,10:52
-MDL_mid2024,8/5/2024,mdl_gr1d1_m1,1,Group Stage,44.35%,33.03%,Death Exp-lane,Death,Exp-lane,Saykots,EVOS Icon,10:52
-MDL_mid2024,8/5/2024,mdl_gr1d1_m1,1,Group Stage,44.39%,33.70%,Death Exp-lane,Death,Exp-lane,Markk,Dewa United Morpheus,10:52
-MDL_mid2024,8/5/2024,mdl_gr1d1_m1,1,Group Stage,45.39%,34.03%,Kill Mid-lane,Kill,Mid-lane,Dahlan,Dewa United Morpheus,10:52
-MDL_mid2024,8/5/2024,mdl_gr1d1_m1,1,Group Stage,88.02%,52.03%,Death Roamer-lane,Death,Roamer-lane,Alevaa,EVOS Icon,13:01
-MDL_mid2024,8/5/2024,mdl_gr1d1_m1,1,Group Stage,87.72%,51.03%,Kill Exp-lane,Kill,Exp-lane,Markk,Dewa United Morpheus,13:01
-MDL_mid2024,8/5/2024,mdl_gr1d1_m1,1,Group Stage,95.35%,51.37%,Kill gold-lane,Kill,gold-lane,Inaya,EVOS Icon,13:06
-MDL_mid2024,8/5/2024,mdl_gr1d1_m1,1,Group Stage,96.05%,51.70%,Death Exp-lane,Death,Exp-lane,Markk,Dewa United Morpheus,13:06
-MDL_mid2024,8/5/2024,mdl_gr1d1_m1,1,Group Stage,93.69%,55.03%,Kill Jungler-line,Kill,Jungler-line,Nazara,EVOS Icon,13:08
-MDL_mid2024,8/5/2024,mdl_gr1d1_m1,1,Group Stage,93.39%,56.03%,Death gold-lane,Death,gold-lane,Maybe,Dewa United Morpheus,13:08
-MDL_mid2024,8/5/2024,mdl_gr1d1_m1,1,Group Stage,94.69%,52.37%,Kill gold-lane,Kill,gold-lane,Inaya,EVOS Icon,13:09
-MDL_mid2024,8/5/2024,mdl_gr1d1_m1,1,Group Stage,94.39%,50.37%,Death Roamer-lane,Death,Roamer-lane,panpan,Dewa United Morpheus,13:09
-MDL_mid2024,8/5/2024,mdl_gr1d1_m1,1,Group Stage,95.35%,54.03%,Kill Mid-lane,Kill,Mid-lane,Depezett,EVOS Icon,13:11
-MDL_mid2024,8/5/2024,mdl_gr1d1_m1,1,Group Stage,95.72%,55.03%,Death Mid-lane,Death,Mid-lane,Dahlan,Dewa United Morpheus,13:11
-MDL_mid2024,8/5/2024,mdl_gr1d1_m1,1,Group Stage,88.02%,41.37%,Kill Jungler-line,Kill,Jungler-line,Nazara,EVOS Icon,13:18
-MDL_mid2024,8/5/2024,mdl_gr1d1_m1,1,Group Stage,88.05%,42.03%,Death Jungler-line,Death,Jungler-line,Manta,Dewa United Morpheus,13:18
-MDL_mid2024,8/5/2024,mdl_gr1d1_m1,2,Group Stage,60.69%,56.30%,Death Roamer-lane,Death,Roamer-lane,panpan,Dewa United Morpheus,35:15:00
-MDL_mid2024,8/5/2024,mdl_gr1d1_m1,2,Group Stage,61.39%,56.30%,Kill Exp-lane,Kill,Exp-lane,Saykots,EVOS Icon,35:15:00
-MDL_mid2024,8/5/2024,mdl_gr1d1_m1,2,Group Stage,60.02%,55.63%,Death Mid-lane,Death,Mid-lane,Dahlan,Dewa United Morpheus,35:18:00
-MDL_mid2024,8/5/2024,mdl_gr1d1_m1,2,Group Stage,59.39%,55.97%,Kill Exp-lane,Kill,Exp-lane,Saykots,EVOS Icon,35:18:00
-MDL_mid2024,8/5/2024,mdl_gr1d1_m1,2,Group Stage,52.02%,68.30%,Death Jungler-line,Death,Jungler-line,Manta,Dewa United Morpheus,35:27:00
-MDL_mid2024,8/5/2024,mdl_gr1d1_m1,2,Group Stage,51.72%,67.90%,Kill Exp-lane,Kill,Exp-lane,Saykots,EVOS Icon,35:27:00
-MDL_mid2024,8/5/2024,mdl_gr1d1_m1,2,Group Stage,68.69%,66.10%,Death Jungler-line,Death,Jungler-line,Manta,Dewa United Morpheus,37:21:00
-MDL_mid2024,8/5/2024,mdl_gr1d1_m1,2,Group Stage,66.72%,66.57%,Kill Jungler-line,Kill,Jungler-line,Nazara,EVOS Icon,37:21:00
-MDL_mid2024,8/5/2024,mdl_gr1d1_m1,2,Group Stage,69.35%,86.57%,Death Exp-lane,Death,Exp-lane,Markk,Dewa United Morpheus,37:30:00
-MDL_mid2024,8/5/2024,mdl_gr1d1_m1,2,Group Stage,67.39%,88.57%,Kill Mid-lane,Kill,Mid-lane,Depezett,EVOS Icon,37:30:00
-MDL_mid2024,8/5/2024,mdl_gr1d1_m1,2,Group Stage,35.35%,68.90%,Death Jungler-line,Death,Jungler-line,Manta,Dewa United Morpheus,38:03:00
-MDL_mid2024,8/5/2024,mdl_gr1d1_m1,2,Group Stage,36.39%,67.57%,Kill Mid-lane,Kill,Mid-lane,Depezett,EVOS Icon,38:03:00
-MDL_mid2024,8/5/2024,mdl_gr1d1_m1,2,Group Stage,20.02%,33.57%,Kill Jungler-line,Kill,Jungler-line,Manta,Dewa United Morpheus,38:48:00
-MDL_mid2024,8/5/2024,mdl_gr1d1_m1,2,Group Stage,19.72%,33.57%,Death Exp-lane,Death,Exp-lane,Saykots,EVOS Icon,38:48:00
-MDL_mid2024,8/5/2024,mdl_gr1d1_m1,2,Group Stage,22.02%,31.90%,Kill Exp-lane,Kill,Exp-lane,Markk,Dewa United Morpheus,38:49:00
-MDL_mid2024,8/5/2024,mdl_gr1d1_m1,2,Group Stage,22.39%,31.57%,Death Jungler-line,Death,Jungler-line,Nazara,EVOS Icon,38:49:00
-MDL_mid2024,8/5/2024,mdl_gr1d1_m1,2,Group Stage,21.35%,36.90%,Kill Jungler-line,Kill,Jungler-line,Manta,Dewa United Morpheus,38:54:00
-MDL_mid2024,8/5/2024,mdl_gr1d1_m1,2,Group Stage,21.39%,35.90%,Death Roamer-lane,Death,Roamer-lane,Alevaa,EVOS Icon,38:54:00
-MDL_mid2024,8/5/2024,mdl_gr1d1_m1,2,Group Stage,67.69%,65.23%,Kill Exp-lane,Kill,Exp-lane,Markk,Dewa United Morpheus,39:40:00
-MDL_mid2024,8/5/2024,mdl_gr1d1_m1,2,Group Stage,66.72%,63.57%,Death Jungler-line,Death,Jungler-line,Nazara,EVOS Icon,39:40:00
-MDL_mid2024,8/5/2024,mdl_gr1d1_m1,2,Group Stage,56.02%,62.90%,Death gold-lane,Death,gold-lane,Maybe,Dewa United Morpheus,39:42:00
-MDL_mid2024,8/5/2024,mdl_gr1d1_m1,2,Group Stage,57.05%,63.23%,Kill Exp-lane,Kill,Exp-lane,Saykots,EVOS Icon,39:42:00
-MDL_mid2024,8/5/2024,mdl_gr1d1_m1,2,Group Stage,60.69%,64.57%,Death Mid-lane,Death,Mid-lane,Dahlan,Dewa United Morpheus,39:46:00
-MDL_mid2024,8/5/2024,mdl_gr1d1_m1,2,Group Stage,60.39%,64.90%,Kill Mid-lane,Kill,Mid-lane,Depezett,EVOS Icon,39:46:00
-MDL_mid2024,8/5/2024,mdl_gr1d1_m1,2,Group Stage,64.69%,58.57%,Kill Jungler-line,Kill,Jungler-line,Manta,Dewa United Morpheus,39:48:00
-MDL_mid2024,8/5/2024,mdl_gr1d1_m1,2,Group Stage,66.39%,57.90%,Death Roamer-lane,Death,Roamer-lane,Alevaa,EVOS Icon,39:48:00
-MDL_mid2024,8/5/2024,mdl_gr1d1_m1,2,Group Stage,75.69%,65.23%,Kill Exp-lane,Kill,Exp-lane,Markk,Dewa United Morpheus,42:55:00
-MDL_mid2024,8/5/2024,mdl_gr1d1_m1,2,Group Stage,76.39%,64.90%,Death Jungler-line,Death,Jungler-line,Nazara,EVOS Icon,42:55:00
-MDL_mid2024,8/5/2024,mdl_gr1d1_m1,2,Group Stage,44.69%,23.57%,Death Exp-lane,Death,Exp-lane,Markk,Dewa United Morpheus,43:44:00
-MDL_mid2024,8/5/2024,mdl_gr1d1_m1,2,Group Stage,43.39%,24.90%,Kill Mid-lane,Kill,Mid-lane,Depezett,EVOS Icon,43:44:00
-MDL_mid2024,8/5/2024,mdl_gr1d1_m1,2,Group Stage,40.69%,28.57%,Death Mid-lane,Death,Mid-lane,Dahlan,Dewa United Morpheus,43:49:00
-MDL_mid2024,8/5/2024,mdl_gr1d1_m1,2,Group Stage,39.05%,30.57%,Kill gold-lane,Kill,gold-lane,Inaya,EVOS Icon,43:49:00
-MDL_mid2024,8/5/2024,mdl_gr1d1_m1,2,Group Stage,35.69%,36.90%,Death Roamer-lane,Death,Roamer-lane,panpan,Dewa United Morpheus,45:02:00
-MDL_mid2024,8/5/2024,mdl_gr1d1_m1,2,Group Stage,36.72%,36.90%,Kill gold-lane,Kill,gold-lane,Inaya,EVOS Icon,45:02:00
-MDL_mid2024,8/5/2024,mdl_gr1d1_m1,2,Group Stage,41.35%,31.90%,Kill Mid-lane,Kill,Mid-lane,Dahlan,Dewa United Morpheus,45:03:00
-MDL_mid2024,8/5/2024,mdl_gr1d1_m1,2,Group Stage,39.39%,33.23%,Death Roamer-lane,Death,Roamer-lane,Alevaa,EVOS Icon,45:03:00
-MDL_mid2024,8/5/2024,mdl_gr1d1_m1,2,Group Stage,37.69%,33.57%,Death Mid-lane,Death,Mid-lane,Dahlan,Dewa United Morpheus,45:04:00
-MDL_mid2024,8/5/2024,mdl_gr1d1_m1,2,Group Stage,36.72%,33.90%,Kill Mid-lane,Kill,Mid-lane,Depezett,EVOS Icon,45:04:00
-MDL_mid2024,8/5/2024,mdl_gr1d1_m1,2,Group Stage,33.69%,35.90%,Kill Jungler-line,Kill,Jungler-line,Manta,Dewa United Morpheus,45:06:00
-MDL_mid2024,8/5/2024,mdl_gr1d1_m1,2,Group Stage,32.72%,35.57%,Death Exp-lane,Death,Exp-lane,Saykots,EVOS Icon,45:06:00
-MDL_mid2024,8/5/2024,mdl_gr1d1_m1,2,Group Stage,40.69%,33.23%,Death Exp-lane,Death,Exp-lane,Markk,Dewa United Morpheus,45:07:00
-MDL_mid2024,8/5/2024,mdl_gr1d1_m1,2,Group Stage,40.72%,33.57%,Kill gold-lane,Kill,gold-lane,Inaya,EVOS Icon,45:07:00
-MDL_mid2024,8/5/2024,mdl_gr1d1_m1,2,Group Stage,40.02%,31.23%,Death Jungler-line,Death,Jungler-line,Manta,Dewa United Morpheus,45:09:00
-MDL_mid2024,8/5/2024,mdl_gr1d1_m1,2,Group Stage,39.39%,34.57%,Kill gold-lane,Kill,gold-lane,Inaya,EVOS Icon,45:09:00
-MDL_mid2024,8/5/2024,mdl_gr1d1_m1,2,Group Stage,41.69%,28.57%,Kill gold-lane,Kill,gold-lane,Maybe,Dewa United Morpheus,45:14:00
-MDL_mid2024,8/5/2024,mdl_gr1d1_m1,2,Group Stage,45.02%,23.23%,Death gold-lane,Death,gold-lane,Maybe,Dewa United Morpheus,45:14:00
-MDL_mid2024,8/5/2024,mdl_gr1d1_m1,2,Group Stage,39.72%,30.90%,Death Jungler-line,Death,Jungler-line,Nazara,EVOS Icon,45:14:00
-MDL_mid2024,8/5/2024,mdl_gr1d1_m1,2,Group Stage,43.72%,20.90%,Kill gold-lane,Kill,gold-lane,Inaya,EVOS Icon,45:14:00
-MDL_mid2024,8/5/2024,mdl_gr1d1_m1,2,Group Stage,69.35%,64.57%,Death Exp-lane,Death,Exp-lane,Markk,Dewa United Morpheus,47:14:00
-MDL_mid2024,8/5/2024,mdl_gr1d1_m1,2,Group Stage,69.39%,63.90%,Kill Exp-lane,Kill,Exp-lane,Saykots,EVOS Icon,47:14:00
-MDL_mid2024,8/5/2024,mdl_gr1d1_m1,2,Group Stage,63.69%,68.90%,Death Jungler-line,Death,Jungler-line,Manta,Dewa United Morpheus,47:17:00
-MDL_mid2024,8/5/2024,mdl_gr1d1_m1,2,Group Stage,63.05%,66.90%,Kill Mid-lane,Kill,Mid-lane,Depezett,EVOS Icon,47:17:00
-MDL_mid2024,8/5/2024,mdl_gr1d1_m1,2,Group Stage,61.02%,70.90%,Death gold-lane,Death,gold-lane,Maybe,Dewa United Morpheus,47:19:00
-MDL_mid2024,8/5/2024,mdl_gr1d1_m1,2,Group Stage,63.39%,69.90%,Kill gold-lane,Kill,gold-lane,Inaya,EVOS Icon,47:19:00
-MDL_mid2024,8/5/2024,mdl_gr1d1_m1,2,Group Stage,61.35%,67.90%,Death Roamer-lane,Death,Roamer-lane,panpan,Dewa United Morpheus,47:21:00
-MDL_mid2024,8/5/2024,mdl_gr1d1_m1,2,Group Stage,62.72%,66.90%,Kill gold-lane,Kill,gold-lane,Inaya,EVOS Icon,47:21:00
-MDL_mid2024,8/5/2024,mdl_gr1d1_m1,2,Group Stage,49.02%,88.57%,Death Mid-lane,Death,Mid-lane,Dahlan,Dewa United Morpheus,47:28:00
-MDL_mid2024,8/5/2024,mdl_gr1d1_m1,2,Group Stage,47.72%,87.57%,Kill Exp-lane,Kill,Exp-lane,Saykots,EVOS Icon,47:28:00
-MDL_mid2024,8/5/2024,mdl_gr1d1_m2,1,Group Stage,93.69%,73.63%,Kill gold-lane,Kill,gold-lane,Zeltron,Geek Fam ID Jr,3:35
-MDL_mid2024,8/5/2024,mdl_gr1d1_m2,1,Group Stage,93.05%,73.70%,Death gold-lane,Death,gold-lane,Restless,Raja Phoenix,3:35
-MDL_mid2024,8/5/2024,mdl_gr1d1_m2,1,Group Stage,94.69%,73.50%,Kill Roamer-lane,Kill,Roamer-lane,Mupinqt,Geek Fam ID Jr,3:38
-MDL_mid2024,8/5/2024,mdl_gr1d1_m2,1,Group Stage,93.72%,73.63%,Death Roamer-lane,Death,Roamer-lane,Vittong,Raja Phoenix,3:38
-MDL_mid2024,8/5/2024,mdl_gr1d1_m2,1,Group Stage,34.02%,12.03%,Kill Roamer-lane,Kill,Roamer-lane,Mupinqt,Geek Fam ID Jr,4:44
-MDL_mid2024,8/5/2024,mdl_gr1d1_m2,1,Group Stage,33.05%,12.70%,Death gold-lane,Death,gold-lane,Restless,Raja Phoenix,4:44
-MDL_mid2024,8/5/2024,mdl_gr1d1_m2,1,Group Stage,26.69%,7.70%,Kill Mid-lane,Kill,Mid-lane,ALAM,Geek Fam ID Jr,5:07
-MDL_mid2024,8/5/2024,mdl_gr1d1_m2,1,Group Stage,25.39%,6.70%,Death Jungler-line,Death,Jungler-line,Exortt,Raja Phoenix,5:07
-MDL_mid2024,8/5/2024,mdl_gr1d1_m2,1,Group Stage,63.69%,36.03%,Death Exp-lane,Death,Exp-lane,Guinskie,Geek Fam ID Jr,5:39
-MDL_mid2024,8/5/2024,mdl_gr1d1_m2,1,Group Stage,64.39%,38.10%,Kill Mid-lane,Kill,Mid-lane,Dhit,Raja Phoenix,5:39
-MDL_mid2024,8/5/2024,mdl_gr1d1_m2,1,Group Stage,42.69%,35.70%,Kill gold-lane,Kill,gold-lane,Zeltron,Geek Fam ID Jr,6:36
-MDL_mid2024,8/5/2024,mdl_gr1d1_m2,1,Group Stage,42.39%,34.70%,Death gold-lane,Death,gold-lane,Restless,Raja Phoenix,6:36
-MDL_mid2024,8/5/2024,mdl_gr1d1_m2,1,Group Stage,60.69%,16.70%,Kill gold-lane,Kill,gold-lane,Zeltron,Geek Fam ID Jr,6:43
-MDL_mid2024,8/5/2024,mdl_gr1d1_m2,1,Group Stage,57.72%,15.70%,Death Jungler-line,Death,Jungler-line,Exortt,Raja Phoenix,6:43
-MDL_mid2024,8/5/2024,mdl_gr1d1_m2,1,Group Stage,61.02%,16.03%,Kill gold-lane,Kill,gold-lane,Zeltron,Geek Fam ID Jr,6:48
-MDL_mid2024,8/5/2024,mdl_gr1d1_m2,1,Group Stage,61.05%,14.77%,Death Exp-lane,Death,Exp-lane,JuparrTzy,Raja Phoenix,6:48
-MDL_mid2024,8/5/2024,mdl_gr1d1_m2,1,Group Stage,90.02%,29.97%,Kill Jungler-line,Kill,Jungler-line,Ozi N1,Geek Fam ID Jr,10:00
-MDL_mid2024,8/5/2024,mdl_gr1d1_m2,1,Group Stage,90.39%,28.77%,Death Exp-lane,Death,Exp-lane,JuparrTzy,Raja Phoenix,10:00
-MDL_mid2024,8/5/2024,mdl_gr1d1_m2,1,Group Stage,94.69%,27.90%,Death Exp-lane,Death,Exp-lane,Guinskie,Geek Fam ID Jr,10:03
-MDL_mid2024,8/5/2024,mdl_gr1d1_m2,1,Group Stage,89.05%,24.03%,Kill Mid-lane,Kill,Mid-lane,Dhit,Raja Phoenix,10:03
-MDL_mid2024,8/5/2024,mdl_gr1d1_m2,1,Group Stage,96.02%,23.70%,Kill gold-lane,Kill,gold-lane,Zeltron,Geek Fam ID Jr,10:05
-MDL_mid2024,8/5/2024,mdl_gr1d1_m2,1,Group Stage,94.39%,24.70%,Death Jungler-line,Death,Jungler-line,Exortt,Raja Phoenix,10:05
-MDL_mid2024,8/5/2024,mdl_gr1d1_m2,1,Group Stage,95.69%,14.70%,Kill gold-lane,Kill,gold-lane,Zeltron,Geek Fam ID Jr,10:07
-MDL_mid2024,8/5/2024,mdl_gr1d1_m2,1,Group Stage,96.72%,16.37%,Death gold-lane,Death,gold-lane,Restless,Raja Phoenix,10:07
-MDL_mid2024,8/5/2024,mdl_gr1d1_m2,1,Group Stage,92.69%,5.37%,Kill gold-lane,Kill,gold-lane,Zeltron,Geek Fam ID Jr,10:15
-MDL_mid2024,8/5/2024,mdl_gr1d1_m2,1,Group Stage,92.39%,8.97%,Death Roamer-lane,Death,Roamer-lane,Vittong,Raja Phoenix,10:15
-MDL_mid2024,8/5/2024,mdl_gr1d1_m2,2,Group Stage,93.69%,73.70%,Kill Jungler-line,Kill,Jungler-line,Exortt,Raja Phoenix,1:24
-MDL_mid2024,8/5/2024,mdl_gr1d1_m2,2,Group Stage,93.72%,71.37%,Death Exp-lane,Death,Exp-lane,Guinskie,Geek Fam ID Jr,1:24
-MDL_mid2024,8/5/2024,mdl_gr1d1_m2,2,Group Stage,94.69%,70.37%,Death Jungler-line,Death,Jungler-line,Exortt,Raja Phoenix,1:26
-MDL_mid2024,8/5/2024,mdl_gr1d1_m2,2,Group Stage,93.39%,71.63%,Kill Roamer-lane,Kill,Roamer-lane,Mupinqt,Geek Fam ID Jr,1:26
-MDL_mid2024,8/5/2024,mdl_gr1d1_m2,2,Group Stage,61.35%,63.10%,Kill Mid-lane,Kill,Mid-lane,Dhit,Raja Phoenix,2:09
-MDL_mid2024,8/5/2024,mdl_gr1d1_m2,2,Group Stage,61.72%,57.63%,Death Exp-lane,Death,Exp-lane,Guinskie,Geek Fam ID Jr,2:09
-MDL_mid2024,8/5/2024,mdl_gr1d1_m2,2,Group Stage,61.69%,55.70%,Death Exp-lane,Death,Exp-lane,JuparrTzy,Raja Phoenix,2:11
-MDL_mid2024,8/5/2024,mdl_gr1d1_m2,2,Group Stage,64.39%,53.97%,Kill Mid-lane,Kill,Mid-lane,ALAM,Geek Fam ID Jr,2:11
-MDL_mid2024,8/5/2024,mdl_gr1d1_m2,2,Group Stage,67.35%,71.23%,Kill Jungler-line,Kill,Jungler-line,Exortt,Raja Phoenix,3:40
-MDL_mid2024,8/5/2024,mdl_gr1d1_m2,2,Group Stage,68.72%,70.70%,Death Jungler-line,Death,Jungler-line,Ozi N1,Geek Fam ID Jr,3:40
-MDL_mid2024,8/5/2024,mdl_gr1d1_m2,2,Group Stage,84.02%,74.90%,Kill Mid-lane,Kill,Mid-lane,Dhit,Raja Phoenix,3:48
-MDL_mid2024,8/5/2024,mdl_gr1d1_m2,2,Group Stage,85.39%,74.77%,Death Exp-lane,Death,Exp-lane,Guinskie,Geek Fam ID Jr,3:48
-MDL_mid2024,8/5/2024,mdl_gr1d1_m2,2,Group Stage,79.02%,61.30%,Kill Exp-lane,Kill,Exp-lane,JuparrTzy,Raja Phoenix,4:09
-MDL_mid2024,8/5/2024,mdl_gr1d1_m2,2,Group Stage,79.39%,61.10%,Death Roamer-lane,Death,Roamer-lane,Mupinqt,Geek Fam ID Jr,4:09
-MDL_mid2024,8/5/2024,mdl_gr1d1_m2,2,Group Stage,22.02%,12.03%,Kill Mid-lane,Kill,Mid-lane,Dhit,Raja Phoenix,5:37
-MDL_mid2024,8/5/2024,mdl_gr1d1_m2,2,Group Stage,23.39%,10.77%,Death Roamer-lane,Death,Roamer-lane,Mupinqt,Geek Fam ID Jr,5:37
-MDL_mid2024,8/5/2024,mdl_gr1d1_m2,2,Group Stage,67.02%,56.37%,Kill gold-lane,Kill,gold-lane,Restless,Raja Phoenix,6:54
-MDL_mid2024,8/5/2024,mdl_gr1d1_m2,2,Group Stage,65.72%,56.37%,Death Exp-lane,Death,Exp-lane,Guinskie,Geek Fam ID Jr,6:54
-MDL_mid2024,8/5/2024,mdl_gr1d1_m2,2,Group Stage,65.35%,55.70%,Kill gold-lane,Kill,gold-lane,Restless,Raja Phoenix,6:56
-MDL_mid2024,8/5/2024,mdl_gr1d1_m2,2,Group Stage,63.05%,56.03%,Death Roamer-lane,Death,Roamer-lane,Mupinqt,Geek Fam ID Jr,6:56
-MDL_mid2024,8/5/2024,mdl_gr1d1_m2,2,Group Stage,41.02%,95.90%,Kill gold-lane,Kill,gold-lane,Restless,Raja Phoenix,9:51
-MDL_mid2024,8/5/2024,mdl_gr1d1_m2,2,Group Stage,41.39%,92.57%,Death gold-lane,Death,gold-lane,Zeltron,Geek Fam ID Jr,9:51
-MDL_mid2024,8/5/2024,mdl_gr1d1_m2,2,Group Stage,51.69%,30.70%,Kill Jungler-line,Kill,Jungler-line,Exortt,Raja Phoenix,10:02
-MDL_mid2024,8/5/2024,mdl_gr1d1_m2,2,Group Stage,53.39%,29.63%,Death Roamer-lane,Death,Roamer-lane,Mupinqt,Geek Fam ID Jr,10:02
-MDL_mid2024,8/5/2024,mdl_gr1d1_m2,2,Group Stage,49.35%,29.70%,Kill Mid-lane,Kill,Mid-lane,Dhit,Raja Phoenix,10:03
-MDL_mid2024,8/5/2024,mdl_gr1d1_m2,2,Group Stage,51.39%,28.10%,Death Exp-lane,Death,Exp-lane,Guinskie,Geek Fam ID Jr,10:03
-MDL_mid2024,8/5/2024,mdl_gr1d1_m2,2,Group Stage,71.69%,54.03%,Kill Mid-lane,Kill,Mid-lane,Dhit,Raja Phoenix,14:10
-MDL_mid2024,8/5/2024,mdl_gr1d1_m2,2,Group Stage,70.39%,52.90%,Death Exp-lane,Death,Exp-lane,Guinskie,Geek Fam ID Jr,14:10
-MDL_mid2024,8/5/2024,mdl_gr1d1_m2,2,Group Stage,73.02%,54.70%,Death Jungler-line,Death,Jungler-line,Exortt,Raja Phoenix,14:12
-MDL_mid2024,8/5/2024,mdl_gr1d1_m2,2,Group Stage,71.39%,53.97%,Kill Jungler-line,Kill,Jungler-line,Ozi N1,Geek Fam ID Jr,14:12
-MDL_mid2024,8/5/2024,mdl_gr1d1_m2,2,Group Stage,72.02%,53.70%,Kill gold-lane,Kill,gold-lane,Restless,Raja Phoenix,14:14
-MDL_mid2024,8/5/2024,mdl_gr1d1_m2,2,Group Stage,74.72%,54.43%,Death Jungler-line,Death,Jungler-line,Ozi N1,Geek Fam ID Jr,14:14
-MDL_mid2024,8/5/2024,mdl_gr1d1_m2,2,Group Stage,71.02%,54.03%,Kill gold-lane,Kill,gold-lane,Restless,Raja Phoenix,14:15
-MDL_mid2024,8/5/2024,mdl_gr1d1_m2,2,Group Stage,72.72%,53.10%,Death Roamer-lane,Death,Roamer-lane,Mupinqt,Geek Fam ID Jr,14:15
-MDL_mid2024,8/5/2024,mdl_gr1d1_m2,2,Group Stage,74.69%,8.03%,Death Exp-lane,Death,Exp-lane,JuparrTzy,Raja Phoenix,16:00
-MDL_mid2024,8/5/2024,mdl_gr1d1_m2,2,Group Stage,75.39%,5.90%,Kill Mid-lane,Kill,Mid-lane,ALAM,Geek Fam ID Jr,16:00
-MDL_mid2024,8/5/2024,mdl_gr1d1_m2,2,Group Stage,81.35%,4.03%,Kill Jungler-line,Kill,Jungler-line,Exortt,Raja Phoenix,16:01
-MDL_mid2024,8/5/2024,mdl_gr1d1_m2,2,Group Stage,80.39%,3.23%,Death gold-lane,Death,gold-lane,Zeltron,Geek Fam ID Jr,16:01
-MDL_mid2024,8/5/2024,mdl_gr1d1_m2,2,Group Stage,39.69%,27.70%,Kill gold-lane,Kill,gold-lane,Restless,Raja Phoenix,17:46
-MDL_mid2024,8/5/2024,mdl_gr1d1_m2,2,Group Stage,39.05%,28.77%,Death Exp-lane,Death,Exp-lane,Guinskie,Geek Fam ID Jr,17:46
-MDL_mid2024,8/5/2024,mdl_gr1d1_m2,2,Group Stage,41.69%,28.70%,Kill gold-lane,Kill,gold-lane,Restless,Raja Phoenix,17:50
-MDL_mid2024,8/5/2024,mdl_gr1d1_m2,2,Group Stage,40.72%,26.37%,Death Mid-lane,Death,Mid-lane,ALAM,Geek Fam ID Jr,17:50
-MDL_mid2024,8/5/2024,mdl_gr1d1_m2,2,Group Stage,27.69%,24.37%,Kill Exp-lane,Kill,Exp-lane,JuparrTzy,Raja Phoenix,17:55
-MDL_mid2024,8/5/2024,mdl_gr1d1_m2,2,Group Stage,27.72%,23.70%,Death Roamer-lane,Death,Roamer-lane,Mupinqt,Geek Fam ID Jr,17:55
-MDL_mid2024,8/5/2024,mdl_gr1d1_m2,2,Group Stage,62.02%,16.37%,Kill gold-lane,Kill,gold-lane,Restless,Raja Phoenix,18:00
-MDL_mid2024,8/5/2024,mdl_gr1d1_m2,2,Group Stage,61.72%,14.30%,Death Jungler-line,Death,Jungler-line,Ozi N1,Geek Fam ID Jr,18:00
-MDL_mid2024,8/5/2024,mdl_gr1d1_m2,2,Group Stage,78.02%,7.37%,Kill Jungler-line,Kill,Jungler-line,Exortt,Raja Phoenix,18:17
-MDL_mid2024,8/5/2024,mdl_gr1d1_m2,2,Group Stage,78.72%,4.03%,Death gold-lane,Death,gold-lane,Zeltron,Geek Fam ID Jr,18:17
-MDL_mid2024,8/5/2024,mdl_gr1d1_m2,3,Group Stage,9.35%,40.90%,Death Jungler-line,Death,Jungler-line,Ozi N1,Geek Fam ID Jr,1:25
-MDL_mid2024,8/5/2024,mdl_gr1d1_m2,3,Group Stage,9.72%,41.90%,Kill Jungler-line,Kill,Jungler-line,Exortt,Raja Phoenix,1:25
-MDL_mid2024,8/5/2024,mdl_gr1d1_m2,3,Group Stage,9.35%,26.90%,Death gold-lane,Death,gold-lane,Zeltron,Geek Fam ID Jr,2:13
-MDL_mid2024,8/5/2024,mdl_gr1d1_m2,3,Group Stage,10.39%,27.57%,Kill gold-lane,Kill,gold-lane,Restless,Raja Phoenix,2:13
-MDL_mid2024,8/5/2024,mdl_gr1d1_m2,3,Group Stage,71.02%,93.90%,Death Exp-lane,Death,Exp-lane,Guinskie,Geek Fam ID Jr,2:41
-MDL_mid2024,8/5/2024,mdl_gr1d1_m2,3,Group Stage,69.72%,94.57%,Kill Jungler-line,Kill,Jungler-line,Exortt,Raja Phoenix,2:41
-MDL_mid2024,8/5/2024,mdl_gr1d1_m2,3,Group Stage,70.02%,56.57%,Death Jungler-line,Death,Jungler-line,Ozi N1,Geek Fam ID Jr,4:04
-MDL_mid2024,8/5/2024,mdl_gr1d1_m2,3,Group Stage,69.39%,55.57%,Kill Mid-lane,Kill,Mid-lane,Dhit,Raja Phoenix,4:04
-MDL_mid2024,8/5/2024,mdl_gr1d1_m2,3,Group Stage,65.35%,66.90%,Death Exp-lane,Death,Exp-lane,Guinskie,Geek Fam ID Jr,4:11
-MDL_mid2024,8/5/2024,mdl_gr1d1_m2,3,Group Stage,64.72%,67.23%,Kill Mid-lane,Kill,Mid-lane,Dhit,Raja Phoenix,4:11
-MDL_mid2024,8/5/2024,mdl_gr1d1_m2,3,Group Stage,27.35%,42.30%,Death Mid-lane,Death,Mid-lane,ALAM,Geek Fam ID Jr,5:09
-MDL_mid2024,8/5/2024,mdl_gr1d1_m2,3,Group Stage,27.39%,42.70%,Kill Mid-lane,Kill,Mid-lane,Dhit,Raja Phoenix,5:09
-MDL_mid2024,8/5/2024,mdl_gr1d1_m2,3,Group Stage,31.02%,55.70%,Death Jungler-line,Death,Jungler-line,Ozi N1,Geek Fam ID Jr,5:22
-MDL_mid2024,8/5/2024,mdl_gr1d1_m2,3,Group Stage,30.72%,55.70%,Kill Jungler-line,Kill,Jungler-line,Exortt,Raja Phoenix,5:22
-MDL_mid2024,8/5/2024,mdl_gr1d1_m2,3,Group Stage,31.69%,59.70%,Death Roamer-lane,Death,Roamer-lane,Mupinqt,Geek Fam ID Jr,5:24
-MDL_mid2024,8/5/2024,mdl_gr1d1_m2,3,Group Stage,31.72%,59.70%,Kill Mid-lane,Kill,Mid-lane,Dhit,Raja Phoenix,5:24
-MDL_mid2024,8/5/2024,mdl_gr1d1_m2,3,Group Stage,29.69%,56.43%,Kill Exp-lane,Kill,Exp-lane,Guinskie,Geek Fam ID Jr,5:26
-MDL_mid2024,8/5/2024,mdl_gr1d1_m2,3,Group Stage,29.72%,57.90%,Death Roamer-lane,Death,Roamer-lane,Vittong,Raja Phoenix,5:26
-MDL_mid2024,8/5/2024,mdl_gr1d1_m2,3,Group Stage,66.69%,69.23%,Death Exp-lane,Death,Exp-lane,Guinskie,Geek Fam ID Jr,9:02
-MDL_mid2024,8/5/2024,mdl_gr1d1_m2,3,Group Stage,67.39%,69.57%,Kill gold-lane,Kill,gold-lane,Restless,Raja Phoenix,9:02
-MDL_mid2024,8/5/2024,mdl_gr1d1_m2,3,Group Stage,67.35%,67.23%,Death Mid-lane,Death,Mid-lane,ALAM,Geek Fam ID Jr,9:03
-MDL_mid2024,8/5/2024,mdl_gr1d1_m2,3,Group Stage,67.05%,69.90%,Kill Jungler-line,Kill,Jungler-line,Exortt,Raja Phoenix,9:03
-MDL_mid2024,8/5/2024,mdl_gr1d1_m2,3,Group Stage,67.02%,67.57%,Death Roamer-lane,Death,Roamer-lane,Mupinqt,Geek Fam ID Jr,9:07
-MDL_mid2024,8/5/2024,mdl_gr1d1_m2,3,Group Stage,64.39%,69.23%,Kill gold-lane,Kill,gold-lane,Restless,Raja Phoenix,9:07
-MDL_mid2024,8/5/2024,mdl_gr1d1_m2,3,Group Stage,29.02%,89.90%,Death Exp-lane,Death,Exp-lane,Guinskie,Geek Fam ID Jr,10:11
-MDL_mid2024,8/5/2024,mdl_gr1d1_m2,3,Group Stage,28.72%,92.57%,Kill gold-lane,Kill,gold-lane,Restless,Raja Phoenix,10:11
-MDL_mid2024,8/5/2024,mdl_gr1d1_m2,3,Group Stage,19.35%,88.57%,Death Roamer-lane,Death,Roamer-lane,Mupinqt,Geek Fam ID Jr,10:13
-MDL_mid2024,8/5/2024,mdl_gr1d1_m2,3,Group Stage,18.72%,88.57%,Kill Exp-lane,Kill,Exp-lane,JuparrTzy,Raja Phoenix,10:13
-MDL_mid2024,8/5/2024,mdl_gr1d1_m2,3,Group Stage,21.69%,89.90%,Kill gold-lane,Kill,gold-lane,Zeltron,Geek Fam ID Jr,10:17
-MDL_mid2024,8/5/2024,mdl_gr1d1_m2,3,Group Stage,21.39%,88.90%,Death Exp-lane,Death,Exp-lane,JuparrTzy,Raja Phoenix,10:17
-MDL_mid2024,8/5/2024,mdl_gr1d1_m2,3,Group Stage,14.69%,89.10%,Death Jungler-line,Death,Jungler-line,Ozi N1,Geek Fam ID Jr,10:20
-MDL_mid2024,8/5/2024,mdl_gr1d1_m2,3,Group Stage,15.05%,90.77%,Kill Jungler-line,Kill,Jungler-line,Exortt,Raja Phoenix,10:20
-MDL_mid2024,8/5/2024,mdl_gr1d1_m2,3,Group Stage,4.02%,84.43%,Death Mid-lane,Death,Mid-lane,ALAM,Geek Fam ID Jr,10:36
-MDL_mid2024,8/5/2024,mdl_gr1d1_m2,3,Group Stage,3.05%,84.10%,Kill Jungler-line,Kill,Jungler-line,Exortt,Raja Phoenix,10:36
-MDL_mid2024,8/5/2024,mdl_gr1d1_m3,1,Group Stage,49.69%,33.63%,Kill Roamer-lane,Kill,Roamer-lane,Magma,Alter Ego X,0:53
-MDL_mid2024,8/5/2024,mdl_gr1d1_m3,1,Group Stage,49.72%,32.43%,Death Mid-lane,Death,Mid-lane,Killua,ONIC Prodigy,0:53
-MDL_mid2024,8/5/2024,mdl_gr1d1_m3,1,Group Stage,45.02%,24.70%,Kill Jungler-line,Kill,Jungler-line,Tazz,Alter Ego X,0:57
-MDL_mid2024,8/5/2024,mdl_gr1d1_m3,1,Group Stage,44.39%,24.97%,Death Roamer-lane,Death,Roamer-lane,SamueL,ONIC Prodigy,0:57
-MDL_mid2024,8/5/2024,mdl_gr1d1_m3,1,Group Stage,50.02%,6.03%,Kill Jungler-line,Kill,Jungler-line,Tazz,Alter Ego X,3:17
-MDL_mid2024,8/5/2024,mdl_gr1d1_m3,1,Group Stage,49.72%,5.23%,Death Jungler-line,Death,Jungler-line,Bouy,ONIC Prodigy,3:17
-MDL_mid2024,8/5/2024,mdl_gr1d1_m3,1,Group Stage,75.69%,65.70%,Death Exp-lane,Death,Exp-lane,Fawndeer,Alter Ego X,4:08
-MDL_mid2024,8/5/2024,mdl_gr1d1_m3,1,Group Stage,75.39%,64.90%,Kill gold-lane,Kill,gold-lane,Medzz,ONIC Prodigy,4:08
-MDL_mid2024,8/5/2024,mdl_gr1d1_m3,1,Group Stage,55.02%,50.03%,Death Roamer-lane,Death,Roamer-lane,Magma,Alter Ego X,4:16
-MDL_mid2024,8/5/2024,mdl_gr1d1_m3,1,Group Stage,55.39%,51.37%,Kill Exp-lane,Kill,Exp-lane,Rezzz,ONIC Prodigy,4:16
-MDL_mid2024,8/5/2024,mdl_gr1d1_m3,1,Group Stage,33.69%,22.57%,Kill gold-lane,Kill,gold-lane,Arfy,Alter Ego X,6:35
-MDL_mid2024,8/5/2024,mdl_gr1d1_m3,1,Group Stage,35.05%,23.57%,Death gold-lane,Death,gold-lane,Medzz,ONIC Prodigy,6:35
-MDL_mid2024,8/5/2024,mdl_gr1d1_m3,1,Group Stage,66.69%,66.57%,Death Jungler-line,Death,Jungler-line,Tazz,Alter Ego X,6:38
-MDL_mid2024,8/5/2024,mdl_gr1d1_m3,1,Group Stage,65.72%,67.57%,Kill Exp-lane,Kill,Exp-lane,Rezzz,ONIC Prodigy,6:38
-MDL_mid2024,8/5/2024,mdl_gr1d1_m3,1,Group Stage,68.02%,69.63%,Death Exp-lane,Death,Exp-lane,Fawndeer,Alter Ego X,6:43
-MDL_mid2024,8/5/2024,mdl_gr1d1_m3,1,Group Stage,67.72%,68.43%,Kill Mid-lane,Kill,Mid-lane,Killua,ONIC Prodigy,6:43
-MDL_mid2024,8/5/2024,mdl_gr1d1_m3,1,Group Stage,51.69%,6.37%,Kill gold-lane,Kill,gold-lane,Arfy,Alter Ego X,7:18
-MDL_mid2024,8/5/2024,mdl_gr1d1_m3,1,Group Stage,49.72%,6.10%,Death gold-lane,Death,gold-lane,Medzz,ONIC Prodigy,7:18
-MDL_mid2024,8/5/2024,mdl_gr1d1_m3,1,Group Stage,68.02%,49.37%,Death Roamer-lane,Death,Roamer-lane,Magma,Alter Ego X,8:18
-MDL_mid2024,8/5/2024,mdl_gr1d1_m3,1,Group Stage,68.72%,49.37%,Kill gold-lane,Kill,gold-lane,Medzz,ONIC Prodigy,8:18
-MDL_mid2024,8/5/2024,mdl_gr1d1_m3,1,Group Stage,77.02%,64.97%,Death gold-lane,Death,gold-lane,Arfy,Alter Ego X,8:24
-MDL_mid2024,8/5/2024,mdl_gr1d1_m3,1,Group Stage,75.39%,68.43%,Kill Jungler-line,Kill,Jungler-line,Bouy,ONIC Prodigy,8:24
-MDL_mid2024,8/5/2024,mdl_gr1d1_m3,1,Group Stage,76.69%,67.23%,Death Exp-lane,Death,Exp-lane,Fawndeer,Alter Ego X,8:28
-MDL_mid2024,8/5/2024,mdl_gr1d1_m3,1,Group Stage,77.05%,67.97%,Kill Exp-lane,Kill,Exp-lane,Rezzz,ONIC Prodigy,8:28
-MDL_mid2024,8/5/2024,mdl_gr1d1_m3,1,Group Stage,30.02%,43.90%,Kill gold-lane,Kill,gold-lane,Arfy,Alter Ego X,9:07
-MDL_mid2024,8/5/2024,mdl_gr1d1_m3,1,Group Stage,29.05%,44.90%,Death Exp-lane,Death,Exp-lane,Rezzz,ONIC Prodigy,9:07
-MDL_mid2024,8/5/2024,mdl_gr1d1_m3,1,Group Stage,20.02%,20.57%,Death Roamer-lane,Death,Roamer-lane,Magma,Alter Ego X,9:10
-MDL_mid2024,8/5/2024,mdl_gr1d1_m3,1,Group Stage,19.72%,19.23%,Kill gold-lane,Kill,gold-lane,Medzz,ONIC Prodigy,9:10
-MDL_mid2024,8/5/2024,mdl_gr1d1_m3,1,Group Stage,36.02%,9.70%,Kill Exp-lane,Kill,Exp-lane,Fawndeer,Alter Ego X,9:21
-MDL_mid2024,8/5/2024,mdl_gr1d1_m3,1,Group Stage,36.39%,10.10%,Death Jungler-line,Death,Jungler-line,Bouy,ONIC Prodigy,9:21
-MDL_mid2024,8/5/2024,mdl_gr1d1_m3,1,Group Stage,25.69%,93.37%,Death Jungler-line,Death,Jungler-line,Tazz,Alter Ego X,10:45
-MDL_mid2024,8/5/2024,mdl_gr1d1_m3,1,Group Stage,27.05%,92.70%,Kill gold-lane,Kill,gold-lane,Medzz,ONIC Prodigy,10:45
-MDL_mid2024,8/5/2024,mdl_gr1d1_m3,1,Group Stage,55.35%,82.70%,Kill Exp-lane,Kill,Exp-lane,Fawndeer,Alter Ego X,11:00
-MDL_mid2024,8/5/2024,mdl_gr1d1_m3,1,Group Stage,55.05%,83.23%,Death Roamer-lane,Death,Roamer-lane,SamueL,ONIC Prodigy,11:00
-MDL_mid2024,8/5/2024,mdl_gr1d1_m3,1,Group Stage,53.35%,82.57%,Kill Exp-lane,Kill,Exp-lane,Fawndeer,Alter Ego X,11:04
-MDL_mid2024,8/5/2024,mdl_gr1d1_m3,1,Group Stage,54.39%,82.10%,Death gold-lane,Death,gold-lane,Medzz,ONIC Prodigy,11:04
-MDL_mid2024,8/5/2024,mdl_gr1d1_m3,1,Group Stage,53.02%,76.30%,Death Roamer-lane,Death,Roamer-lane,Magma,Alter Ego X,11:08
-MDL_mid2024,8/5/2024,mdl_gr1d1_m3,1,Group Stage,52.72%,73.77%,Kill Exp-lane,Kill,Exp-lane,Rezzz,ONIC Prodigy,11:08
-MDL_mid2024,8/5/2024,mdl_gr1d1_m3,1,Group Stage,35.02%,32.30%,Death Roamer-lane,Death,Roamer-lane,Magma,Alter Ego X,12:13
-MDL_mid2024,8/5/2024,mdl_gr1d1_m3,1,Group Stage,35.72%,34.30%,Kill Roamer-lane,Kill,Roamer-lane,SamueL,ONIC Prodigy,12:13
-MDL_mid2024,8/5/2024,mdl_gr1d1_m3,1,Group Stage,35.69%,39.97%,Death Jungler-line,Death,Jungler-line,Tazz,Alter Ego X,12:23
-MDL_mid2024,8/5/2024,mdl_gr1d1_m3,1,Group Stage,33.72%,40.77%,Kill Jungler-line,Kill,Jungler-line,Bouy,ONIC Prodigy,12:23
-MDL_mid2024,8/5/2024,mdl_gr1d1_m3,1,Group Stage,22.02%,74.90%,Death Exp-lane,Death,Exp-lane,Fawndeer,Alter Ego X,14:01
-MDL_mid2024,8/5/2024,mdl_gr1d1_m3,1,Group Stage,21.39%,75.77%,Kill Mid-lane,Kill,Mid-lane,Killua,ONIC Prodigy,14:01
-MDL_mid2024,8/5/2024,mdl_gr1d1_m3,1,Group Stage,18.02%,81.90%,Death gold-lane,Death,gold-lane,Arfy,Alter Ego X,14:26
-MDL_mid2024,8/5/2024,mdl_gr1d1_m3,1,Group Stage,14.39%,82.37%,Kill Mid-lane,Kill,Mid-lane,Killua,ONIC Prodigy,14:26
-MDL_mid2024,8/5/2024,mdl_gr1d1_m3,1,Group Stage,19.69%,92.30%,Death Roamer-lane,Death,Roamer-lane,Magma,Alter Ego X,14:31
-MDL_mid2024,8/5/2024,mdl_gr1d1_m3,1,Group Stage,19.39%,93.17%,Kill Exp-lane,Kill,Exp-lane,Rezzz,ONIC Prodigy,14:31
-MDL_mid2024,8/5/2024,mdl_gr1d1_m3,2,Group Stage,37.69%,10.70%,Kill Jungler-line,Kill,Jungler-line,Bouy,ONIC Prodigy,1:21
-MDL_mid2024,8/5/2024,mdl_gr1d1_m3,2,Group Stage,37.72%,11.63%,Death Jungler-line,Death,Jungler-line,Tazz,Alter Ego X,1:21
-MDL_mid2024,8/5/2024,mdl_gr1d1_m3,2,Group Stage,63.35%,67.57%,Kill Jungler-line,Kill,Jungler-line,Bouy,ONIC Prodigy,2:35
-MDL_mid2024,8/5/2024,mdl_gr1d1_m3,2,Group Stage,62.72%,67.57%,Death Exp-lane,Death,Exp-lane,Fawndeer,Alter Ego X,2:35
-MDL_mid2024,8/5/2024,mdl_gr1d1_m3,2,Group Stage,65.02%,66.77%,Death Exp-lane,Death,Exp-lane,Rezzz,ONIC Prodigy,2:36
-MDL_mid2024,8/5/2024,mdl_gr1d1_m3,2,Group Stage,65.05%,66.43%,Kill Jungler-line,Kill,Jungler-line,Tazz,Alter Ego X,2:36
-MDL_mid2024,8/5/2024,mdl_gr1d1_m3,2,Group Stage,70.02%,30.70%,Kill Jungler-line,Kill,Jungler-line,Bouy,ONIC Prodigy,4:29
-MDL_mid2024,8/5/2024,mdl_gr1d1_m3,2,Group Stage,70.72%,32.37%,Death Mid-lane,Death,Mid-lane,Celiboy,Alter Ego X,4:29
-MDL_mid2024,8/5/2024,mdl_gr1d1_m3,2,Group Stage,37.69%,29.70%,Kill Exp-lane,Kill,Exp-lane,Rezzz,ONIC Prodigy,4:50
-MDL_mid2024,8/5/2024,mdl_gr1d1_m3,2,Group Stage,37.05%,32.57%,Death Roamer-lane,Death,Roamer-lane,Magma,Alter Ego X,4:50
-MDL_mid2024,8/5/2024,mdl_gr1d1_m3,2,Group Stage,37.69%,33.23%,Death Exp-lane,Death,Exp-lane,Rezzz,ONIC Prodigy,4:52
-MDL_mid2024,8/5/2024,mdl_gr1d1_m3,2,Group Stage,35.39%,33.90%,Kill Jungler-line,Kill,Jungler-line,Tazz,Alter Ego X,4:52
-MDL_mid2024,8/5/2024,mdl_gr1d1_m3,2,Group Stage,38.02%,24.90%,Kill gold-lane,Kill,gold-lane,Medzz,ONIC Prodigy,4:59
-MDL_mid2024,8/5/2024,mdl_gr1d1_m3,2,Group Stage,37.72%,25.97%,Death Exp-lane,Death,Exp-lane,Fawndeer,Alter Ego X,4:59
-MDL_mid2024,8/5/2024,mdl_gr1d1_m3,2,Group Stage,37.35%,41.70%,Kill Exp-lane,Kill,Exp-lane,Rezzz,ONIC Prodigy,6:11
-MDL_mid2024,8/5/2024,mdl_gr1d1_m3,2,Group Stage,37.05%,40.70%,Death Roamer-lane,Death,Roamer-lane,Magma,Alter Ego X,6:11
-MDL_mid2024,8/5/2024,mdl_gr1d1_m3,2,Group Stage,56.69%,44.97%,Kill Mid-lane,Kill,Mid-lane,Killua,ONIC Prodigy,6:27
-MDL_mid2024,8/5/2024,mdl_gr1d1_m3,2,Group Stage,55.39%,43.90%,Death Exp-lane,Death,Exp-lane,Fawndeer,Alter Ego X,6:27
-MDL_mid2024,8/5/2024,mdl_gr1d1_m3,2,Group Stage,63.02%,39.23%,Kill Jungler-line,Kill,Jungler-line,Bouy,ONIC Prodigy,6:31
-MDL_mid2024,8/5/2024,mdl_gr1d1_m3,2,Group Stage,64.39%,38.43%,Death gold-lane,Death,gold-lane,Arfy,Alter Ego X,6:31
-MDL_mid2024,8/5/2024,mdl_gr1d1_m3,2,Group Stage,65.35%,31.37%,Kill Mid-lane,Kill,Mid-lane,Killua,ONIC Prodigy,6:32
-MDL_mid2024,8/5/2024,mdl_gr1d1_m3,2,Group Stage,62.72%,32.77%,Death Mid-lane,Death,Mid-lane,Celiboy,Alter Ego X,6:32
-MDL_mid2024,8/5/2024,mdl_gr1d1_m3,2,Group Stage,76.02%,23.37%,Kill Jungler-line,Kill,Jungler-line,Bouy,ONIC Prodigy,7:22
-MDL_mid2024,8/5/2024,mdl_gr1d1_m3,2,Group Stage,77.05%,22.30%,Death Mid-lane,Death,Mid-lane,Celiboy,Alter Ego X,7:22
-MDL_mid2024,8/5/2024,mdl_gr1d1_m3,2,Group Stage,81.02%,43.57%,Death Exp-lane,Death,Exp-lane,Rezzz,ONIC Prodigy,7:26
-MDL_mid2024,8/5/2024,mdl_gr1d1_m3,2,Group Stage,80.39%,43.30%,Kill Jungler-line,Kill,Jungler-line,Tazz,Alter Ego X,7:26
-MDL_mid2024,8/5/2024,mdl_gr1d1_m3,2,Group Stage,19.69%,3.70%,Kill gold-lane,Kill,gold-lane,Medzz,ONIC Prodigy,8:29
-MDL_mid2024,8/5/2024,mdl_gr1d1_m3,2,Group Stage,19.05%,4.30%,Death Exp-lane,Death,Exp-lane,Fawndeer,Alter Ego X,8:29
-MDL_mid2024,8/5/2024,mdl_gr1d1_m3,2,Group Stage,55.35%,12.03%,Death Exp-lane,Death,Exp-lane,Rezzz,ONIC Prodigy,9:07
-MDL_mid2024,8/5/2024,mdl_gr1d1_m3,2,Group Stage,54.39%,10.97%,Kill gold-lane,Kill,gold-lane,Arfy,Alter Ego X,9:07
-MDL_mid2024,8/5/2024,mdl_gr1d1_m3,2,Group Stage,42.69%,33.23%,Death gold-lane,Death,gold-lane,Medzz,ONIC Prodigy,10:06
-MDL_mid2024,8/5/2024,mdl_gr1d1_m3,2,Group Stage,41.05%,33.63%,Kill Jungler-line,Kill,Jungler-line,Tazz,Alter Ego X,10:06
-MDL_mid2024,8/5/2024,mdl_gr1d1_m3,2,Group Stage,35.35%,33.57%,Kill Exp-lane,Kill,Exp-lane,Rezzz,ONIC Prodigy,10:07
-MDL_mid2024,8/5/2024,mdl_gr1d1_m3,2,Group Stage,37.39%,31.57%,Death Exp-lane,Death,Exp-lane,Fawndeer,Alter Ego X,10:07
-MDL_mid2024,8/5/2024,mdl_gr1d1_m3,2,Group Stage,38.69%,28.70%,Death Mid-lane,Death,Mid-lane,Killua,ONIC Prodigy,10:09
-MDL_mid2024,8/5/2024,mdl_gr1d1_m3,2,Group Stage,35.72%,27.90%,Kill gold-lane,Kill,gold-lane,Arfy,Alter Ego X,10:09
-MDL_mid2024,8/5/2024,mdl_gr1d1_m3,2,Group Stage,38.69%,33.57%,Kill Jungler-line,Kill,Jungler-line,Bouy,ONIC Prodigy,10:10
-MDL_mid2024,8/5/2024,mdl_gr1d1_m3,2,Group Stage,41.05%,31.10%,Death Roamer-lane,Death,Roamer-lane,Magma,Alter Ego X,10:10
-MDL_mid2024,8/5/2024,mdl_gr1d1_m3,2,Group Stage,38.02%,33.10%,Death Exp-lane,Death,Exp-lane,Rezzz,ONIC Prodigy,10:12
-MDL_mid2024,8/5/2024,mdl_gr1d1_m3,2,Group Stage,39.39%,28.37%,Kill gold-lane,Kill,gold-lane,Arfy,Alter Ego X,10:12
-MDL_mid2024,8/5/2024,mdl_gr1d1_m3,2,Group Stage,34.02%,31.70%,Death Roamer-lane,Death,Roamer-lane,SamueL,ONIC Prodigy,10:14
-MDL_mid2024,8/5/2024,mdl_gr1d1_m3,2,Group Stage,42.39%,29.77%,Kill gold-lane,Kill,gold-lane,Arfy,Alter Ego X,10:14
-MDL_mid2024,8/5/2024,mdl_gr1d1_m3,2,Group Stage,3.69%,42.10%,Death gold-lane,Death,gold-lane,Medzz,ONIC Prodigy,11:06
-MDL_mid2024,8/5/2024,mdl_gr1d1_m3,2,Group Stage,5.05%,43.10%,Kill Exp-lane,Kill,Exp-lane,Fawndeer,Alter Ego X,11:06
-MDL_mid2024,8/5/2024,mdl_gr1d1_m3,2,Group Stage,5.02%,44.37%,Death Roamer-lane,Death,Roamer-lane,SamueL,ONIC Prodigy,11:09
-MDL_mid2024,8/5/2024,mdl_gr1d1_m3,2,Group Stage,1.72%,40.70%,Kill gold-lane,Kill,gold-lane,Arfy,Alter Ego X,11:09
-MDL_mid2024,8/5/2024,mdl_gr1d1_m3,2,Group Stage,31.69%,57.90%,Kill Mid-lane,Kill,Mid-lane,Killua,ONIC Prodigy,12:37
-MDL_mid2024,8/5/2024,mdl_gr1d1_m3,2,Group Stage,33.72%,60.70%,Death Exp-lane,Death,Exp-lane,Fawndeer,Alter Ego X,12:37
-MDL_mid2024,8/5/2024,mdl_gr1d1_m3,2,Group Stage,40.69%,62.70%,Death Exp-lane,Death,Exp-lane,Rezzz,ONIC Prodigy,12:38
-MDL_mid2024,8/5/2024,mdl_gr1d1_m3,2,Group Stage,42.39%,60.43%,Kill gold-lane,Kill,gold-lane,Arfy,Alter Ego X,12:38
-MDL_mid2024,8/5/2024,mdl_gr1d1_m3,2,Group Stage,39.69%,59.77%,Kill gold-lane,Kill,gold-lane,Medzz,ONIC Prodigy,12:39
-MDL_mid2024,8/5/2024,mdl_gr1d1_m3,2,Group Stage,42.39%,56.90%,Death Mid-lane,Death,Mid-lane,Celiboy,Alter Ego X,12:39
-MDL_mid2024,8/5/2024,mdl_gr1d1_m3,2,Group Stage,49.69%,68.90%,Kill Mid-lane,Kill,Mid-lane,Killua,ONIC Prodigy,12:43
-MDL_mid2024,8/5/2024,mdl_gr1d1_m3,2,Group Stage,49.39%,69.23%,Death gold-lane,Death,gold-lane,Arfy,Alter Ego X,12:43
-MDL_mid2024,8/5/2024,mdl_gr1d1_m3,2,Group Stage,38.69%,30.70%,Kill gold-lane,Kill,gold-lane,Medzz,ONIC Prodigy,13:29
-MDL_mid2024,8/5/2024,mdl_gr1d1_m3,2,Group Stage,40.72%,29.23%,Death Roamer-lane,Death,Roamer-lane,Magma,Alter Ego X,13:29
-MDL_mid2024,8/5/2024,mdl_gr1d1_m3,2,Group Stage,43.02%,24.30%,Kill gold-lane,Kill,gold-lane,Medzz,ONIC Prodigy,13:34
-MDL_mid2024,8/5/2024,mdl_gr1d1_m3,2,Group Stage,42.39%,25.90%,Death Exp-lane,Death,Exp-lane,Fawndeer,Alter Ego X,13:34
-MDL_mid2024,8/5/2024,mdl_gr1d1_m3,2,Group Stage,47.02%,18.70%,Kill Jungler-line,Kill,Jungler-line,Bouy,ONIC Prodigy,13:38
-MDL_mid2024,8/5/2024,mdl_gr1d1_m3,2,Group Stage,48.72%,16.10%,Death gold-lane,Death,gold-lane,Arfy,Alter Ego X,13:38
-MDL_mid2024,8/5/2024,mdl_gr1d1_m3,2,Group Stage,47.02%,21.70%,Death Mid-lane,Death,Mid-lane,Killua,ONIC Prodigy,13:42
-MDL_mid2024,8/5/2024,mdl_gr1d1_m3,2,Group Stage,46.39%,18.97%,Kill Jungler-line,Kill,Jungler-line,Tazz,Alter Ego X,13:42
-MDL_mid2024,8/5/2024,mdl_gr1d1_m3,2,Group Stage,69.02%,45.70%,Kill gold-lane,Kill,gold-lane,Medzz,ONIC Prodigy,14:25
-MDL_mid2024,8/5/2024,mdl_gr1d1_m3,2,Group Stage,67.39%,46.43%,Death Jungler-line,Death,Jungler-line,Tazz,Alter Ego X,14:25
-MDL_mid2024,8/5/2024,mdl_gr1d1_m3,2,Group Stage,59.35%,54.70%,Kill Jungler-line,Kill,Jungler-line,Bouy,ONIC Prodigy,16:49
-MDL_mid2024,8/5/2024,mdl_gr1d1_m3,2,Group Stage,63.72%,53.10%,Death Exp-lane,Death,Exp-lane,Fawndeer,Alter Ego X,16:49
-MDL_mid2024,8/5/2024,mdl_gr1d1_m3,2,Group Stage,57.02%,53.77%,Kill Mid-lane,Kill,Mid-lane,Killua,ONIC Prodigy,16:51
-MDL_mid2024,8/5/2024,mdl_gr1d1_m3,2,Group Stage,56.72%,54.10%,Death Roamer-lane,Death,Roamer-lane,Magma,Alter Ego X,16:51
-MDL_mid2024,8/5/2024,mdl_gr1d1_m3,2,Group Stage,61.02%,13.37%,Death Roamer-lane,Death,Roamer-lane,SamueL,ONIC Prodigy,19:06
-MDL_mid2024,8/5/2024,mdl_gr1d1_m3,2,Group Stage,59.72%,12.77%,Kill gold-lane,Kill,gold-lane,Arfy,Alter Ego X,19:06
-MDL_mid2024,8/5/2024,mdl_gr1d1_m3,2,Group Stage,62.69%,11.77%,Kill gold-lane,Kill,gold-lane,Medzz,ONIC Prodigy,19:13
-MDL_mid2024,8/5/2024,mdl_gr1d1_m3,2,Group Stage,73.02%,17.77%,Kill Jungler-line,Kill,Jungler-line,Bouy,ONIC Prodigy,19:13
-MDL_mid2024,8/5/2024,mdl_gr1d1_m3,2,Group Stage,63.05%,11.77%,Death Exp-lane,Death,Exp-lane,Fawndeer,Alter Ego X,19:13
-MDL_mid2024,8/5/2024,mdl_gr1d1_m3,2,Group Stage,72.72%,17.10%,Death Roamer-lane,Death,Roamer-lane,Magma,Alter Ego X,19:13
-MDL_mid2024,8/5/2024,mdl_gr1d1_m3,2,Group Stage,75.35%,6.70%,Kill Jungler-line,Kill,Jungler-line,Bouy,ONIC Prodigy,19:21
-MDL_mid2024,8/5/2024,mdl_gr1d1_m3,2,Group Stage,74.39%,7.37%,Death Mid-lane,Death,Mid-lane,Celiboy,Alter Ego X,19:21
-MDL_mid2024,8/5/2024,mdl_gr1d1_m3,2,Group Stage,82.69%,12.57%,Kill gold-lane,Kill,gold-lane,Medzz,ONIC Prodigy,19:54
-MDL_mid2024,8/5/2024,mdl_gr1d1_m3,2,Group Stage,83.39%,12.97%,Death Roamer-lane,Death,Roamer-lane,Magma,Alter Ego X,19:54
-MDL_mid2024,8/5/2024,mdl_gr1d1_m3,2,Group Stage,85.35%,16.57%,Kill gold-lane,Kill,gold-lane,Medzz,ONIC Prodigy,19:55
-MDL_mid2024,8/5/2024,mdl_gr1d1_m3,2,Group Stage,88.39%,15.90%,Death Jungler-line,Death,Jungler-line,Tazz,Alter Ego X,19:55
+Competition_id,Date_id,Match_id,Round,Stage,Coordinates x,Coordinates y,Event,Event-Game,Event-player,Id_played,Hero,Team,Time
+MDL_mid2024,8/5/2024,mdl_gr1d1_m1,1,Group Stage,55.35%,58.50%,Kill Mid-lane,Kill,Mid-lane,Depezett,Zhask,EVOS Icon,2:23
+MDL_mid2024,8/5/2024,mdl_gr1d1_m1,1,Group Stage,55.72%,57.17%,Death Exp-lane,Death,Exp-lane,Markk,Thamuz,Dewa United Morpheus,2:23
+MDL_mid2024,8/5/2024,mdl_gr1d1_m1,1,Group Stage,53.35%,66.50%,Kill Mid-lane,Kill,Mid-lane,Depezett,Zhask,EVOS Icon,2:28
+MDL_mid2024,8/5/2024,mdl_gr1d1_m1,1,Group Stage,55.39%,62.83%,Death Jungler-line,Death,Jungler-line,Manta,Hayabusa,Dewa United Morpheus,2:28
+MDL_mid2024,8/5/2024,mdl_gr1d1_m1,1,Group Stage,42.35%,32.17%,Death Jungler-line,Death,Jungler-line,Nazara,Lancelot,EVOS Icon,4:03
+MDL_mid2024,8/5/2024,mdl_gr1d1_m1,1,Group Stage,42.05%,32.17%,Kill Jungler-line,Kill,Jungler-line,Manta,Hayabusa,Dewa United Morpheus,4:03
+MDL_mid2024,8/5/2024,mdl_gr1d1_m1,1,Group Stage,42.02%,36.83%,Death Roamer-lane,Death,Roamer-lane,Alevaa,Khufra,EVOS Icon,4:11
+MDL_mid2024,8/5/2024,mdl_gr1d1_m1,1,Group Stage,42.05%,35.17%,Kill Roamer-lane,Kill,Roamer-lane,panpan,Minotaur,Dewa United Morpheus,4:11
+MDL_mid2024,8/5/2024,mdl_gr1d1_m1,1,Group Stage,46.69%,52.83%,Death Exp-lane,Death,Exp-lane,Saykots,Terizla,EVOS Icon,4:23
+MDL_mid2024,8/5/2024,mdl_gr1d1_m1,1,Group Stage,46.39%,54.50%,Kill Roamer-lane,Kill,Roamer-lane,panpan,Minotaur,Dewa United Morpheus,4:23
+MDL_mid2024,8/5/2024,mdl_gr1d1_m1,1,Group Stage,44.35%,55.83%,Death Mid-lane,Death,Mid-lane,Depezett,Zhask,EVOS Icon,4:55
+MDL_mid2024,8/5/2024,mdl_gr1d1_m1,1,Group Stage,47.05%,54.17%,Kill Jungler-line,Kill,Jungler-line,Manta,Hayabusa,Dewa United Morpheus,4:55
+MDL_mid2024,8/5/2024,mdl_gr1d1_m1,1,Group Stage,56.35%,71.70%,Death Exp-lane,Death,Exp-lane,Saykots,Terizla,EVOS Icon,7:15
+MDL_mid2024,8/5/2024,mdl_gr1d1_m1,1,Group Stage,57.05%,72.03%,Kill Exp-lane,Kill,Exp-lane,Markk,Thamuz,Dewa United Morpheus,7:15
+MDL_mid2024,8/5/2024,mdl_gr1d1_m1,1,Group Stage,6.35%,24.37%,Kill gold-lane,Kill,gold-lane,Inaya,Claude,EVOS Icon,7:16
+MDL_mid2024,8/5/2024,mdl_gr1d1_m1,1,Group Stage,7.39%,21.37%,Death gold-lane,Death,gold-lane,Maybe,Roger,Dewa United Morpheus,7:16
+MDL_mid2024,8/5/2024,mdl_gr1d1_m1,1,Group Stage,52.69%,75.70%,Death Roamer-lane,Death,Roamer-lane,Alevaa,Khufra,EVOS Icon,7:21
+MDL_mid2024,8/5/2024,mdl_gr1d1_m1,1,Group Stage,54.39%,70.37%,Kill Exp-lane,Kill,Exp-lane,Markk,Thamuz,Dewa United Morpheus,7:21
+MDL_mid2024,8/5/2024,mdl_gr1d1_m1,1,Group Stage,55.69%,87.37%,Kill Mid-lane,Kill,Mid-lane,Depezett,Zhask,EVOS Icon,7:26
+MDL_mid2024,8/5/2024,mdl_gr1d1_m1,1,Group Stage,60.05%,87.70%,Death Roamer-lane,Death,Roamer-lane,panpan,Minotaur,Dewa United Morpheus,7:26
+MDL_mid2024,8/5/2024,mdl_gr1d1_m1,1,Group Stage,36.35%,25.37%,Kill Exp-lane,Kill,Exp-lane,Saykots,Terizla,EVOS Icon,8:22
+MDL_mid2024,8/5/2024,mdl_gr1d1_m1,1,Group Stage,36.05%,24.37%,Death Mid-lane,Death,Mid-lane,Dahlan,Zhuxin,Dewa United Morpheus,8:22
+MDL_mid2024,8/5/2024,mdl_gr1d1_m1,1,Group Stage,37.69%,25.70%,Kill Jungler-line,Kill,Jungler-line,Nazara,Lancelot,EVOS Icon,8:24
+MDL_mid2024,8/5/2024,mdl_gr1d1_m1,1,Group Stage,37.39%,24.37%,Death Roamer-lane,Death,Roamer-lane,panpan,Minotaur,Dewa United Morpheus,8:24
+MDL_mid2024,8/5/2024,mdl_gr1d1_m1,1,Group Stage,34.35%,32.03%,Kill Exp-lane,Kill,Exp-lane,Saykots,Terizla,EVOS Icon,10:44
+MDL_mid2024,8/5/2024,mdl_gr1d1_m1,1,Group Stage,33.72%,32.03%,Death Jungler-line,Death,Jungler-line,Manta,Hayabusa,Dewa United Morpheus,10:44
+MDL_mid2024,8/5/2024,mdl_gr1d1_m1,1,Group Stage,28.69%,39.70%,Death gold-lane,Death,gold-lane,Inaya,Claude,EVOS Icon,10:47
+MDL_mid2024,8/5/2024,mdl_gr1d1_m1,1,Group Stage,28.39%,40.03%,Kill gold-lane,Kill,gold-lane,Maybe,Roger,Dewa United Morpheus,10:47
+MDL_mid2024,8/5/2024,mdl_gr1d1_m1,1,Group Stage,40.69%,27.37%,Kill Exp-lane,Kill,Exp-lane,Saykots,Terizla,EVOS Icon,10:48
+MDL_mid2024,8/5/2024,mdl_gr1d1_m1,1,Group Stage,42.05%,25.70%,Death Roamer-lane,Death,Roamer-lane,panpan,Minotaur,Dewa United Morpheus,10:48
+MDL_mid2024,8/5/2024,mdl_gr1d1_m1,1,Group Stage,43.69%,32.37%,Kill Exp-lane,Kill,Exp-lane,Saykots,Terizla,EVOS Icon,10:52
+MDL_mid2024,8/5/2024,mdl_gr1d1_m1,1,Group Stage,44.35%,33.03%,Death Exp-lane,Death,Exp-lane,Saykots,Terizla,EVOS Icon,10:52
+MDL_mid2024,8/5/2024,mdl_gr1d1_m1,1,Group Stage,44.39%,33.70%,Death Exp-lane,Death,Exp-lane,Markk,Thamuz,Dewa United Morpheus,10:52
+MDL_mid2024,8/5/2024,mdl_gr1d1_m1,1,Group Stage,45.39%,34.03%,Kill Mid-lane,Kill,Mid-lane,Dahlan,Zhuxin,Dewa United Morpheus,10:52
+MDL_mid2024,8/5/2024,mdl_gr1d1_m1,1,Group Stage,88.02%,52.03%,Death Roamer-lane,Death,Roamer-lane,Alevaa,Khufra,EVOS Icon,13:01
+MDL_mid2024,8/5/2024,mdl_gr1d1_m1,1,Group Stage,87.72%,51.03%,Kill Exp-lane,Kill,Exp-lane,Markk,Thamuz,Dewa United Morpheus,13:01
+MDL_mid2024,8/5/2024,mdl_gr1d1_m1,1,Group Stage,95.35%,51.37%,Kill gold-lane,Kill,gold-lane,Inaya,Claude,EVOS Icon,13:06
+MDL_mid2024,8/5/2024,mdl_gr1d1_m1,1,Group Stage,96.05%,51.70%,Death Exp-lane,Death,Exp-lane,Markk,Thamuz,Dewa United Morpheus,13:06
+MDL_mid2024,8/5/2024,mdl_gr1d1_m1,1,Group Stage,93.69%,55.03%,Kill Jungler-line,Kill,Jungler-line,Nazara,Lancelot,EVOS Icon,13:08
+MDL_mid2024,8/5/2024,mdl_gr1d1_m1,1,Group Stage,93.39%,56.03%,Death gold-lane,Death,gold-lane,Maybe,Roger,Dewa United Morpheus,13:08
+MDL_mid2024,8/5/2024,mdl_gr1d1_m1,1,Group Stage,94.69%,52.37%,Kill gold-lane,Kill,gold-lane,Inaya,Claude,EVOS Icon,13:09
+MDL_mid2024,8/5/2024,mdl_gr1d1_m1,1,Group Stage,94.39%,50.37%,Death Roamer-lane,Death,Roamer-lane,panpan,Minotaur,Dewa United Morpheus,13:09
+MDL_mid2024,8/5/2024,mdl_gr1d1_m1,1,Group Stage,95.35%,54.03%,Kill Mid-lane,Kill,Mid-lane,Depezett,Zhask,EVOS Icon,13:11
+MDL_mid2024,8/5/2024,mdl_gr1d1_m1,1,Group Stage,95.72%,55.03%,Death Mid-lane,Death,Mid-lane,Dahlan,Zhuxin,Dewa United Morpheus,13:11
+MDL_mid2024,8/5/2024,mdl_gr1d1_m1,1,Group Stage,88.02%,41.37%,Kill Jungler-line,Kill,Jungler-line,Nazara,Lancelot,EVOS Icon,13:18
+MDL_mid2024,8/5/2024,mdl_gr1d1_m1,1,Group Stage,88.05%,42.03%,Death Jungler-line,Death,Jungler-line,Manta,Hayabusa,Dewa United Morpheus,13:18
+MDL_mid2024,8/5/2024,mdl_gr1d1_m1,2,Group Stage,60.69%,56.30%,Death Roamer-lane,Death,Roamer-lane,panpan,Hylos,Dewa United Morpheus,35:15
+MDL_mid2024,8/5/2024,mdl_gr1d1_m1,2,Group Stage,61.39%,56.30%,Kill Exp-lane,Kill,Exp-lane,Saykots,Arlott,EVOS Icon,35:15
+MDL_mid2024,8/5/2024,mdl_gr1d1_m1,2,Group Stage,60.02%,55.63%,Death Mid-lane,Death,Mid-lane,Dahlan,Aurora,Dewa United Morpheus,35:18
+MDL_mid2024,8/5/2024,mdl_gr1d1_m1,2,Group Stage,59.39%,55.97%,Kill Exp-lane,Kill,Exp-lane,Saykots,Arlott,EVOS Icon,35:18
+MDL_mid2024,8/5/2024,mdl_gr1d1_m1,2,Group Stage,52.02%,68.30%,Death Jungler-line,Death,Jungler-line,Manta,Alpha,Dewa United Morpheus,35:27
+MDL_mid2024,8/5/2024,mdl_gr1d1_m1,2,Group Stage,51.72%,67.90%,Kill Exp-lane,Kill,Exp-lane,Saykots,Arlott,EVOS Icon,35:27
+MDL_mid2024,8/5/2024,mdl_gr1d1_m1,2,Group Stage,68.69%,66.10%,Death Jungler-line,Death,Jungler-line,Manta,Alpha,Dewa United Morpheus,37:21
+MDL_mid2024,8/5/2024,mdl_gr1d1_m1,2,Group Stage,66.72%,66.57%,Kill Jungler-line,Kill,Jungler-line,Nazara,Julian,EVOS Icon,37:21
+MDL_mid2024,8/5/2024,mdl_gr1d1_m1,2,Group Stage,69.35%,86.57%,Death Exp-lane,Death,Exp-lane,Markk,Terizla,Dewa United Morpheus,37:30
+MDL_mid2024,8/5/2024,mdl_gr1d1_m1,2,Group Stage,67.39%,88.57%,Kill Mid-lane,Kill,Mid-lane,Depezett,Valentina,EVOS Icon,37:30
+MDL_mid2024,8/5/2024,mdl_gr1d1_m1,2,Group Stage,35.35%,68.90%,Death Jungler-line,Death,Jungler-line,Manta,Alpha,Dewa United Morpheus,38:03
+MDL_mid2024,8/5/2024,mdl_gr1d1_m1,2,Group Stage,36.39%,67.57%,Kill Mid-lane,Kill,Mid-lane,Depezett,Valentina,EVOS Icon,38:03
+MDL_mid2024,8/5/2024,mdl_gr1d1_m1,2,Group Stage,20.02%,33.57%,Kill Jungler-line,Kill,Jungler-line,Manta,Alpha,Dewa United Morpheus,38:48
+MDL_mid2024,8/5/2024,mdl_gr1d1_m1,2,Group Stage,19.72%,33.57%,Death Exp-lane,Death,Exp-lane,Saykots,Arlott,EVOS Icon,38:48
+MDL_mid2024,8/5/2024,mdl_gr1d1_m1,2,Group Stage,22.02%,31.90%,Kill Exp-lane,Kill,Exp-lane,Markk,Terizla,Dewa United Morpheus,38:49
+MDL_mid2024,8/5/2024,mdl_gr1d1_m1,2,Group Stage,22.39%,31.57%,Death Jungler-line,Death,Jungler-line,Nazara,Julian,EVOS Icon,38:49
+MDL_mid2024,8/5/2024,mdl_gr1d1_m1,2,Group Stage,21.35%,36.90%,Kill Jungler-line,Kill,Jungler-line,Manta,Alpha,Dewa United Morpheus,38:54
+MDL_mid2024,8/5/2024,mdl_gr1d1_m1,2,Group Stage,21.39%,35.90%,Death Roamer-lane,Death,Roamer-lane,Alevaa,Chou,EVOS Icon,38:54
+MDL_mid2024,8/5/2024,mdl_gr1d1_m1,2,Group Stage,67.69%,65.23%,Kill Exp-lane,Kill,Exp-lane,Markk,Terizla,Dewa United Morpheus,39:40
+MDL_mid2024,8/5/2024,mdl_gr1d1_m1,2,Group Stage,66.72%,63.57%,Death Jungler-line,Death,Jungler-line,Nazara,Julian,EVOS Icon,39:40
+MDL_mid2024,8/5/2024,mdl_gr1d1_m1,2,Group Stage,56.02%,62.90%,Death gold-lane,Death,gold-lane,Maybe,Moskov,Dewa United Morpheus,39:42
+MDL_mid2024,8/5/2024,mdl_gr1d1_m1,2,Group Stage,57.05%,63.23%,Kill Exp-lane,Kill,Exp-lane,Saykots,Arlott,EVOS Icon,39:42
+MDL_mid2024,8/5/2024,mdl_gr1d1_m1,2,Group Stage,60.69%,64.57%,Death Mid-lane,Death,Mid-lane,Dahlan,Aurora,Dewa United Morpheus,39:46
+MDL_mid2024,8/5/2024,mdl_gr1d1_m1,2,Group Stage,60.39%,64.90%,Kill Mid-lane,Kill,Mid-lane,Depezett,Valentina,EVOS Icon,39:46
+MDL_mid2024,8/5/2024,mdl_gr1d1_m1,2,Group Stage,64.69%,58.57%,Kill Jungler-line,Kill,Jungler-line,Manta,Alpha,Dewa United Morpheus,39:48
+MDL_mid2024,8/5/2024,mdl_gr1d1_m1,2,Group Stage,66.39%,57.90%,Death Roamer-lane,Death,Roamer-lane,Alevaa,Chou,EVOS Icon,39:48
+MDL_mid2024,8/5/2024,mdl_gr1d1_m1,2,Group Stage,75.69%,65.23%,Kill Exp-lane,Kill,Exp-lane,Markk,Terizla,Dewa United Morpheus,42:55
+MDL_mid2024,8/5/2024,mdl_gr1d1_m1,2,Group Stage,76.39%,64.90%,Death Jungler-line,Death,Jungler-line,Nazara,Julian,EVOS Icon,42:55
+MDL_mid2024,8/5/2024,mdl_gr1d1_m1,2,Group Stage,44.69%,23.57%,Death Exp-lane,Death,Exp-lane,Markk,Terizla,Dewa United Morpheus,43:44
+MDL_mid2024,8/5/2024,mdl_gr1d1_m1,2,Group Stage,43.39%,24.90%,Kill Mid-lane,Kill,Mid-lane,Depezett,Valentina,EVOS Icon,43:44
+MDL_mid2024,8/5/2024,mdl_gr1d1_m1,2,Group Stage,40.69%,28.57%,Death Mid-lane,Death,Mid-lane,Dahlan,Aurora,Dewa United Morpheus,43:49
+MDL_mid2024,8/5/2024,mdl_gr1d1_m1,2,Group Stage,39.05%,30.57%,Kill gold-lane,Kill,gold-lane,Inaya,Karrie,EVOS Icon,43:49
+MDL_mid2024,8/5/2024,mdl_gr1d1_m1,2,Group Stage,35.69%,36.90%,Death Roamer-lane,Death,Roamer-lane,panpan,Hylos,Dewa United Morpheus,45:02
+MDL_mid2024,8/5/2024,mdl_gr1d1_m1,2,Group Stage,36.72%,36.90%,Kill gold-lane,Kill,gold-lane,Inaya,Karrie,EVOS Icon,45:02
+MDL_mid2024,8/5/2024,mdl_gr1d1_m1,2,Group Stage,41.35%,31.90%,Kill Mid-lane,Kill,Mid-lane,Dahlan,Aurora,Dewa United Morpheus,45:03
+MDL_mid2024,8/5/2024,mdl_gr1d1_m1,2,Group Stage,39.39%,33.23%,Death Roamer-lane,Death,Roamer-lane,Alevaa,Chou,EVOS Icon,45:03
+MDL_mid2024,8/5/2024,mdl_gr1d1_m1,2,Group Stage,37.69%,33.57%,Death Mid-lane,Death,Mid-lane,Dahlan,Aurora,Dewa United Morpheus,45:04
+MDL_mid2024,8/5/2024,mdl_gr1d1_m1,2,Group Stage,36.72%,33.90%,Kill Mid-lane,Kill,Mid-lane,Depezett,Valentina,EVOS Icon,45:04
+MDL_mid2024,8/5/2024,mdl_gr1d1_m1,2,Group Stage,33.69%,35.90%,Kill Jungler-line,Kill,Jungler-line,Manta,Alpha,Dewa United Morpheus,45:06
+MDL_mid2024,8/5/2024,mdl_gr1d1_m1,2,Group Stage,32.72%,35.57%,Death Exp-lane,Death,Exp-lane,Saykots,Arlott,EVOS Icon,45:06
+MDL_mid2024,8/5/2024,mdl_gr1d1_m1,2,Group Stage,40.69%,33.23%,Death Exp-lane,Death,Exp-lane,Markk,Terizla,Dewa United Morpheus,45:07
+MDL_mid2024,8/5/2024,mdl_gr1d1_m1,2,Group Stage,40.72%,33.57%,Kill gold-lane,Kill,gold-lane,Inaya,Karrie,EVOS Icon,45:07
+MDL_mid2024,8/5/2024,mdl_gr1d1_m1,2,Group Stage,40.02%,31.23%,Death Jungler-line,Death,Jungler-line,Manta,Alpha,Dewa United Morpheus,45:09
+MDL_mid2024,8/5/2024,mdl_gr1d1_m1,2,Group Stage,39.39%,34.57%,Kill gold-lane,Kill,gold-lane,Inaya,Karrie,EVOS Icon,45:09
+MDL_mid2024,8/5/2024,mdl_gr1d1_m1,2,Group Stage,41.69%,28.57%,Kill gold-lane,Kill,gold-lane,Maybe,Moskov,Dewa United Morpheus,45:14
+MDL_mid2024,8/5/2024,mdl_gr1d1_m1,2,Group Stage,45.02%,23.23%,Death gold-lane,Death,gold-lane,Maybe,Moskov,Dewa United Morpheus,45:14
+MDL_mid2024,8/5/2024,mdl_gr1d1_m1,2,Group Stage,39.72%,30.90%,Death Jungler-line,Death,Jungler-line,Nazara,Julian,EVOS Icon,45:14
+MDL_mid2024,8/5/2024,mdl_gr1d1_m1,2,Group Stage,43.72%,20.90%,Kill gold-lane,Kill,gold-lane,Inaya,Karrie,EVOS Icon,45:14
+MDL_mid2024,8/5/2024,mdl_gr1d1_m1,2,Group Stage,69.35%,64.57%,Death Exp-lane,Death,Exp-lane,Markk,Terizla,Dewa United Morpheus,47:14
+MDL_mid2024,8/5/2024,mdl_gr1d1_m1,2,Group Stage,69.39%,63.90%,Kill Exp-lane,Kill,Exp-lane,Saykots,Arlott,EVOS Icon,47:14
+MDL_mid2024,8/5/2024,mdl_gr1d1_m1,2,Group Stage,63.69%,68.90%,Death Jungler-line,Death,Jungler-line,Manta,Alpha,Dewa United Morpheus,47:17
+MDL_mid2024,8/5/2024,mdl_gr1d1_m1,2,Group Stage,63.05%,66.90%,Kill Mid-lane,Kill,Mid-lane,Depezett,Valentina,EVOS Icon,47:17
+MDL_mid2024,8/5/2024,mdl_gr1d1_m1,2,Group Stage,61.02%,70.90%,Death gold-lane,Death,gold-lane,Maybe,Moskov,Dewa United Morpheus,47:19
+MDL_mid2024,8/5/2024,mdl_gr1d1_m1,2,Group Stage,63.39%,69.90%,Kill gold-lane,Kill,gold-lane,Inaya,Karrie,EVOS Icon,47:19
+MDL_mid2024,8/5/2024,mdl_gr1d1_m1,2,Group Stage,61.35%,67.90%,Death Roamer-lane,Death,Roamer-lane,panpan,Hylos,Dewa United Morpheus,47:21
+MDL_mid2024,8/5/2024,mdl_gr1d1_m1,2,Group Stage,62.72%,66.90%,Kill gold-lane,Kill,gold-lane,Inaya,Karrie,EVOS Icon,47:21
+MDL_mid2024,8/5/2024,mdl_gr1d1_m1,2,Group Stage,49.02%,88.57%,Death Mid-lane,Death,Mid-lane,Dahlan,Aurora,Dewa United Morpheus,47:28
+MDL_mid2024,8/5/2024,mdl_gr1d1_m1,2,Group Stage,47.72%,87.57%,Kill Exp-lane,Kill,Exp-lane,Saykots,Arlott,EVOS Icon,47:28
+MDL_mid2024,8/5/2024,mdl_gr1d1_m2,1,Group Stage,93.69%,73.63%,Kill gold-lane,Kill,gold-lane,Zeltron,Roger,Geek Fam ID Jr,3:35
+MDL_mid2024,8/5/2024,mdl_gr1d1_m2,1,Group Stage,93.05%,73.70%,Death gold-lane,Death,gold-lane,Restless,Ruby,Raja Phoenix,3:35
+MDL_mid2024,8/5/2024,mdl_gr1d1_m2,1,Group Stage,94.69%,73.50%,Kill Roamer-lane,Kill,Roamer-lane,Mupinqt,Edith,Geek Fam ID Jr,3:38
+MDL_mid2024,8/5/2024,mdl_gr1d1_m2,1,Group Stage,93.72%,73.63%,Death Roamer-lane,Death,Roamer-lane,Vittong,Angela,Raja Phoenix,3:38
+MDL_mid2024,8/5/2024,mdl_gr1d1_m2,1,Group Stage,34.02%,12.03%,Kill Roamer-lane,Kill,Roamer-lane,Mupinqt,Edith,Geek Fam ID Jr,4:44
+MDL_mid2024,8/5/2024,mdl_gr1d1_m2,1,Group Stage,33.05%,12.70%,Death gold-lane,Death,gold-lane,Restless,Ruby,Raja Phoenix,4:44
+MDL_mid2024,8/5/2024,mdl_gr1d1_m2,1,Group Stage,26.69%,7.70%,Kill Mid-lane,Kill,Mid-lane,ALAM,Aurora,Geek Fam ID Jr,5:07
+MDL_mid2024,8/5/2024,mdl_gr1d1_m2,1,Group Stage,25.39%,6.70%,Death Jungler-line,Death,Jungler-line,Exortt,Alpha,Raja Phoenix,5:07
+MDL_mid2024,8/5/2024,mdl_gr1d1_m2,1,Group Stage,63.69%,36.03%,Death Exp-lane,Death,Exp-lane,Guinskie,Hylos,Geek Fam ID Jr,5:39
+MDL_mid2024,8/5/2024,mdl_gr1d1_m2,1,Group Stage,64.39%,38.10%,Kill Mid-lane,Kill,Mid-lane,Dhit,Yve,Raja Phoenix,5:39
+MDL_mid2024,8/5/2024,mdl_gr1d1_m2,1,Group Stage,42.69%,35.70%,Kill gold-lane,Kill,gold-lane,Zeltron,Roger,Geek Fam ID Jr,6:36
+MDL_mid2024,8/5/2024,mdl_gr1d1_m2,1,Group Stage,42.39%,34.70%,Death gold-lane,Death,gold-lane,Restless,Ruby,Raja Phoenix,6:36
+MDL_mid2024,8/5/2024,mdl_gr1d1_m2,1,Group Stage,60.69%,16.70%,Kill gold-lane,Kill,gold-lane,Zeltron,Roger,Geek Fam ID Jr,6:43
+MDL_mid2024,8/5/2024,mdl_gr1d1_m2,1,Group Stage,57.72%,15.70%,Death Jungler-line,Death,Jungler-line,Exortt,Alpha,Raja Phoenix,6:43
+MDL_mid2024,8/5/2024,mdl_gr1d1_m2,1,Group Stage,61.02%,16.03%,Kill gold-lane,Kill,gold-lane,Zeltron,Roger,Geek Fam ID Jr,6:48
+MDL_mid2024,8/5/2024,mdl_gr1d1_m2,1,Group Stage,61.05%,14.77%,Death Exp-lane,Death,Exp-lane,JuparrTzy,Thamuz,Raja Phoenix,6:48
+MDL_mid2024,8/5/2024,mdl_gr1d1_m2,1,Group Stage,90.02%,29.97%,Kill Jungler-line,Kill,Jungler-line,Ozi N1,Julian,Geek Fam ID Jr,10:00
+MDL_mid2024,8/5/2024,mdl_gr1d1_m2,1,Group Stage,90.39%,28.77%,Death Exp-lane,Death,Exp-lane,JuparrTzy,Thamuz,Raja Phoenix,10:00
+MDL_mid2024,8/5/2024,mdl_gr1d1_m2,1,Group Stage,94.69%,27.90%,Death Exp-lane,Death,Exp-lane,Guinskie,Hylos,Geek Fam ID Jr,10:03
+MDL_mid2024,8/5/2024,mdl_gr1d1_m2,1,Group Stage,89.05%,24.03%,Kill Mid-lane,Kill,Mid-lane,Dhit,Yve,Raja Phoenix,10:03
+MDL_mid2024,8/5/2024,mdl_gr1d1_m2,1,Group Stage,96.02%,23.70%,Kill gold-lane,Kill,gold-lane,Zeltron,Roger,Geek Fam ID Jr,10:05
+MDL_mid2024,8/5/2024,mdl_gr1d1_m2,1,Group Stage,94.39%,24.70%,Death Jungler-line,Death,Jungler-line,Exortt,Alpha,Raja Phoenix,10:05
+MDL_mid2024,8/5/2024,mdl_gr1d1_m2,1,Group Stage,95.69%,14.70%,Kill gold-lane,Kill,gold-lane,Zeltron,Roger,Geek Fam ID Jr,10:07
+MDL_mid2024,8/5/2024,mdl_gr1d1_m2,1,Group Stage,96.72%,16.37%,Death gold-lane,Death,gold-lane,Restless,Ruby,Raja Phoenix,10:07
+MDL_mid2024,8/5/2024,mdl_gr1d1_m2,1,Group Stage,92.69%,5.37%,Kill gold-lane,Kill,gold-lane,Zeltron,Roger,Geek Fam ID Jr,10:15
+MDL_mid2024,8/5/2024,mdl_gr1d1_m2,1,Group Stage,92.39%,8.97%,Death Roamer-lane,Death,Roamer-lane,Vittong,Angela,Raja Phoenix,10:15
+MDL_mid2024,8/5/2024,mdl_gr1d1_m2,2,Group Stage,93.69%,73.70%,Kill Jungler-line,Kill,Jungler-line,Exortt,Ling,Raja Phoenix,1:24
+MDL_mid2024,8/5/2024,mdl_gr1d1_m2,2,Group Stage,93.72%,71.37%,Death Exp-lane,Death,Exp-lane,Guinskie,Thamuz,Geek Fam ID Jr,1:24
+MDL_mid2024,8/5/2024,mdl_gr1d1_m2,2,Group Stage,94.69%,70.37%,Death Jungler-line,Death,Jungler-line,Exortt,Ling,Raja Phoenix,1:26
+MDL_mid2024,8/5/2024,mdl_gr1d1_m2,2,Group Stage,93.39%,71.63%,Kill Roamer-lane,Kill,Roamer-lane,Mupinqt,Khufra,Geek Fam ID Jr,1:26
+MDL_mid2024,8/5/2024,mdl_gr1d1_m2,2,Group Stage,61.35%,63.10%,Kill Mid-lane,Kill,Mid-lane,Dhit,Vexana,Raja Phoenix,2:09
+MDL_mid2024,8/5/2024,mdl_gr1d1_m2,2,Group Stage,61.72%,57.63%,Death Exp-lane,Death,Exp-lane,Guinskie,Thamuz,Geek Fam ID Jr,2:09
+MDL_mid2024,8/5/2024,mdl_gr1d1_m2,2,Group Stage,61.69%,55.70%,Death Exp-lane,Death,Exp-lane,JuparrTzy,Yu Zhong,Raja Phoenix,2:11
+MDL_mid2024,8/5/2024,mdl_gr1d1_m2,2,Group Stage,64.39%,53.97%,Kill Mid-lane,Kill,Mid-lane,ALAM,Zhask,Geek Fam ID Jr,2:11
+MDL_mid2024,8/5/2024,mdl_gr1d1_m2,2,Group Stage,67.35%,71.23%,Kill Jungler-line,Kill,Jungler-line,Exortt,Ling,Raja Phoenix,3:40
+MDL_mid2024,8/5/2024,mdl_gr1d1_m2,2,Group Stage,68.72%,70.70%,Death Jungler-line,Death,Jungler-line,Ozi N1,Alpha,Geek Fam ID Jr,3:40
+MDL_mid2024,8/5/2024,mdl_gr1d1_m2,2,Group Stage,84.02%,74.90%,Kill Mid-lane,Kill,Mid-lane,Dhit,Vexana,Raja Phoenix,3:48
+MDL_mid2024,8/5/2024,mdl_gr1d1_m2,2,Group Stage,85.39%,74.77%,Death Exp-lane,Death,Exp-lane,Guinskie,Thamuz,Geek Fam ID Jr,3:48
+MDL_mid2024,8/5/2024,mdl_gr1d1_m2,2,Group Stage,79.02%,61.30%,Kill Exp-lane,Kill,Exp-lane,JuparrTzy,Yu Zhong,Raja Phoenix,4:09
+MDL_mid2024,8/5/2024,mdl_gr1d1_m2,2,Group Stage,79.39%,61.10%,Death Roamer-lane,Death,Roamer-lane,Mupinqt,Khufra,Geek Fam ID Jr,4:09
+MDL_mid2024,8/5/2024,mdl_gr1d1_m2,2,Group Stage,22.02%,12.03%,Kill Mid-lane,Kill,Mid-lane,Dhit,Vexana,Raja Phoenix,5:37
+MDL_mid2024,8/5/2024,mdl_gr1d1_m2,2,Group Stage,23.39%,10.77%,Death Roamer-lane,Death,Roamer-lane,Mupinqt,Khufra,Geek Fam ID Jr,5:37
+MDL_mid2024,8/5/2024,mdl_gr1d1_m2,2,Group Stage,67.02%,56.37%,Kill gold-lane,Kill,gold-lane,Restless,Harith,Raja Phoenix,6:54
+MDL_mid2024,8/5/2024,mdl_gr1d1_m2,2,Group Stage,65.72%,56.37%,Death Exp-lane,Death,Exp-lane,Guinskie,Thamuz,Geek Fam ID Jr,6:54
+MDL_mid2024,8/5/2024,mdl_gr1d1_m2,2,Group Stage,65.35%,55.70%,Kill gold-lane,Kill,gold-lane,Restless,Harith,Raja Phoenix,6:56
+MDL_mid2024,8/5/2024,mdl_gr1d1_m2,2,Group Stage,63.05%,56.03%,Death Roamer-lane,Death,Roamer-lane,Mupinqt,Khufra,Geek Fam ID Jr,6:56
+MDL_mid2024,8/5/2024,mdl_gr1d1_m2,2,Group Stage,41.02%,95.90%,Kill gold-lane,Kill,gold-lane,Restless,Harith,Raja Phoenix,9:51
+MDL_mid2024,8/5/2024,mdl_gr1d1_m2,2,Group Stage,41.39%,92.57%,Death gold-lane,Death,gold-lane,Zeltron,Moskov,Geek Fam ID Jr,9:51
+MDL_mid2024,8/5/2024,mdl_gr1d1_m2,2,Group Stage,51.69%,30.70%,Kill Jungler-line,Kill,Jungler-line,Exortt,Ling,Raja Phoenix,10:02
+MDL_mid2024,8/5/2024,mdl_gr1d1_m2,2,Group Stage,53.39%,29.63%,Death Roamer-lane,Death,Roamer-lane,Mupinqt,Khufra,Geek Fam ID Jr,10:02
+MDL_mid2024,8/5/2024,mdl_gr1d1_m2,2,Group Stage,49.35%,29.70%,Kill Mid-lane,Kill,Mid-lane,Dhit,Vexana,Raja Phoenix,10:03
+MDL_mid2024,8/5/2024,mdl_gr1d1_m2,2,Group Stage,51.39%,28.10%,Death Exp-lane,Death,Exp-lane,Guinskie,Thamuz,Geek Fam ID Jr,10:03
+MDL_mid2024,8/5/2024,mdl_gr1d1_m2,2,Group Stage,71.69%,54.03%,Kill Mid-lane,Kill,Mid-lane,Dhit,Vexana,Raja Phoenix,14:10
+MDL_mid2024,8/5/2024,mdl_gr1d1_m2,2,Group Stage,70.39%,52.90%,Death Exp-lane,Death,Exp-lane,Guinskie,Thamuz,Geek Fam ID Jr,14:10
+MDL_mid2024,8/5/2024,mdl_gr1d1_m2,2,Group Stage,73.02%,54.70%,Death Jungler-line,Death,Jungler-line,Exortt,Ling,Raja Phoenix,14:12
+MDL_mid2024,8/5/2024,mdl_gr1d1_m2,2,Group Stage,71.39%,53.97%,Kill Jungler-line,Kill,Jungler-line,Ozi N1,Alpha,Geek Fam ID Jr,14:12
+MDL_mid2024,8/5/2024,mdl_gr1d1_m2,2,Group Stage,72.02%,53.70%,Kill gold-lane,Kill,gold-lane,Restless,Harith,Raja Phoenix,14:14
+MDL_mid2024,8/5/2024,mdl_gr1d1_m2,2,Group Stage,74.72%,54.43%,Death Jungler-line,Death,Jungler-line,Ozi N1,Alpha,Geek Fam ID Jr,14:14
+MDL_mid2024,8/5/2024,mdl_gr1d1_m2,2,Group Stage,71.02%,54.03%,Kill gold-lane,Kill,gold-lane,Restless,Harith,Raja Phoenix,14:15
+MDL_mid2024,8/5/2024,mdl_gr1d1_m2,2,Group Stage,72.72%,53.10%,Death Roamer-lane,Death,Roamer-lane,Mupinqt,Khufra,Geek Fam ID Jr,14:15
+MDL_mid2024,8/5/2024,mdl_gr1d1_m2,2,Group Stage,74.69%,8.03%,Death Exp-lane,Death,Exp-lane,JuparrTzy,Yu Zhong,Raja Phoenix,16:00
+MDL_mid2024,8/5/2024,mdl_gr1d1_m2,2,Group Stage,75.39%,5.90%,Kill Mid-lane,Kill,Mid-lane,ALAM,Zhask,Geek Fam ID Jr,16:00
+MDL_mid2024,8/5/2024,mdl_gr1d1_m2,2,Group Stage,81.35%,4.03%,Kill Jungler-line,Kill,Jungler-line,Exortt,Ling,Raja Phoenix,16:01
+MDL_mid2024,8/5/2024,mdl_gr1d1_m2,2,Group Stage,80.39%,3.23%,Death gold-lane,Death,gold-lane,Zeltron,Moskov,Geek Fam ID Jr,16:01
+MDL_mid2024,8/5/2024,mdl_gr1d1_m2,2,Group Stage,39.69%,27.70%,Kill gold-lane,Kill,gold-lane,Restless,Harith,Raja Phoenix,17:46
+MDL_mid2024,8/5/2024,mdl_gr1d1_m2,2,Group Stage,39.05%,28.77%,Death Exp-lane,Death,Exp-lane,Guinskie,Thamuz,Geek Fam ID Jr,17:46
+MDL_mid2024,8/5/2024,mdl_gr1d1_m2,2,Group Stage,41.69%,28.70%,Kill gold-lane,Kill,gold-lane,Restless,Harith,Raja Phoenix,17:50
+MDL_mid2024,8/5/2024,mdl_gr1d1_m2,2,Group Stage,40.72%,26.37%,Death Mid-lane,Death,Mid-lane,ALAM,Zhask,Geek Fam ID Jr,17:50
+MDL_mid2024,8/5/2024,mdl_gr1d1_m2,2,Group Stage,27.69%,24.37%,Kill Exp-lane,Kill,Exp-lane,JuparrTzy,Yu Zhong,Raja Phoenix,17:55
+MDL_mid2024,8/5/2024,mdl_gr1d1_m2,2,Group Stage,27.72%,23.70%,Death Roamer-lane,Death,Roamer-lane,Mupinqt,Khufra,Geek Fam ID Jr,17:55
+MDL_mid2024,8/5/2024,mdl_gr1d1_m2,2,Group Stage,62.02%,16.37%,Kill gold-lane,Kill,gold-lane,Restless,Harith,Raja Phoenix,18:00
+MDL_mid2024,8/5/2024,mdl_gr1d1_m2,2,Group Stage,61.72%,14.30%,Death Jungler-line,Death,Jungler-line,Ozi N1,Alpha,Geek Fam ID Jr,18:00
+MDL_mid2024,8/5/2024,mdl_gr1d1_m2,2,Group Stage,78.02%,7.37%,Kill Jungler-line,Kill,Jungler-line,Exortt,Ling,Raja Phoenix,18:17
+MDL_mid2024,8/5/2024,mdl_gr1d1_m2,2,Group Stage,78.72%,4.03%,Death gold-lane,Death,gold-lane,Zeltron,Moskov,Geek Fam ID Jr,18:17
+MDL_mid2024,8/5/2024,mdl_gr1d1_m2,3,Group Stage,9.35%,40.90%,Death Jungler-line,Death,Jungler-line,Ozi N1,Nolan,Geek Fam ID Jr,1:25
+MDL_mid2024,8/5/2024,mdl_gr1d1_m2,3,Group Stage,9.72%,41.90%,Kill Jungler-line,Kill,Jungler-line,Exortt,Hayabusa,Raja Phoenix,1:25
+MDL_mid2024,8/5/2024,mdl_gr1d1_m2,3,Group Stage,9.35%,26.90%,Death gold-lane,Death,gold-lane,Zeltron,Claude,Geek Fam ID Jr,2:13
+MDL_mid2024,8/5/2024,mdl_gr1d1_m2,3,Group Stage,10.39%,27.57%,Kill gold-lane,Kill,gold-lane,Restless,Moskov,Raja Phoenix,2:13
+MDL_mid2024,8/5/2024,mdl_gr1d1_m2,3,Group Stage,71.02%,93.90%,Death Exp-lane,Death,Exp-lane,Guinskie,Terizla,Geek Fam ID Jr,2:41
+MDL_mid2024,8/5/2024,mdl_gr1d1_m2,3,Group Stage,69.72%,94.57%,Kill Jungler-line,Kill,Jungler-line,Exortt,Hayabusa,Raja Phoenix,2:41
+MDL_mid2024,8/5/2024,mdl_gr1d1_m2,3,Group Stage,70.02%,56.57%,Death Jungler-line,Death,Jungler-line,Ozi N1,Nolan,Geek Fam ID Jr,4:04
+MDL_mid2024,8/5/2024,mdl_gr1d1_m2,3,Group Stage,69.39%,55.57%,Kill Mid-lane,Kill,Mid-lane,Dhit,Pharsa,Raja Phoenix,4:04
+MDL_mid2024,8/5/2024,mdl_gr1d1_m2,3,Group Stage,65.35%,66.90%,Death Exp-lane,Death,Exp-lane,Guinskie,Terizla,Geek Fam ID Jr,4:11
+MDL_mid2024,8/5/2024,mdl_gr1d1_m2,3,Group Stage,64.72%,67.23%,Kill Mid-lane,Kill,Mid-lane,Dhit,Pharsa,Raja Phoenix,4:11
+MDL_mid2024,8/5/2024,mdl_gr1d1_m2,3,Group Stage,27.35%,42.30%,Death Mid-lane,Death,Mid-lane,ALAM,Valentina,Geek Fam ID Jr,5:09
+MDL_mid2024,8/5/2024,mdl_gr1d1_m2,3,Group Stage,27.39%,42.70%,Kill Mid-lane,Kill,Mid-lane,Dhit,Pharsa,Raja Phoenix,5:09
+MDL_mid2024,8/5/2024,mdl_gr1d1_m2,3,Group Stage,31.02%,55.70%,Death Jungler-line,Death,Jungler-line,Ozi N1,Nolan,Geek Fam ID Jr,5:22
+MDL_mid2024,8/5/2024,mdl_gr1d1_m2,3,Group Stage,30.72%,55.70%,Kill Jungler-line,Kill,Jungler-line,Exortt,Hayabusa,Raja Phoenix,5:22
+MDL_mid2024,8/5/2024,mdl_gr1d1_m2,3,Group Stage,31.69%,59.70%,Death Roamer-lane,Death,Roamer-lane,Mupinqt,Grock,Geek Fam ID Jr,5:24
+MDL_mid2024,8/5/2024,mdl_gr1d1_m2,3,Group Stage,31.72%,59.70%,Kill Mid-lane,Kill,Mid-lane,Dhit,Pharsa,Raja Phoenix,5:24
+MDL_mid2024,8/5/2024,mdl_gr1d1_m2,3,Group Stage,29.69%,56.43%,Kill Exp-lane,Kill,Exp-lane,Guinskie,Terizla,Geek Fam ID Jr,5:26
+MDL_mid2024,8/5/2024,mdl_gr1d1_m2,3,Group Stage,29.72%,57.90%,Death Roamer-lane,Death,Roamer-lane,Vittong,Minotaur,Raja Phoenix,5:26
+MDL_mid2024,8/5/2024,mdl_gr1d1_m2,3,Group Stage,66.69%,69.23%,Death Exp-lane,Death,Exp-lane,Guinskie,Terizla,Geek Fam ID Jr,9:02
+MDL_mid2024,8/5/2024,mdl_gr1d1_m2,3,Group Stage,67.39%,69.57%,Kill gold-lane,Kill,gold-lane,Restless,Moskov,Raja Phoenix,9:02
+MDL_mid2024,8/5/2024,mdl_gr1d1_m2,3,Group Stage,67.35%,67.23%,Death Mid-lane,Death,Mid-lane,ALAM,Valentina,Geek Fam ID Jr,9:03
+MDL_mid2024,8/5/2024,mdl_gr1d1_m2,3,Group Stage,67.05%,69.90%,Kill Jungler-line,Kill,Jungler-line,Exortt,Hayabusa,Raja Phoenix,9:03
+MDL_mid2024,8/5/2024,mdl_gr1d1_m2,3,Group Stage,67.02%,67.57%,Death Roamer-lane,Death,Roamer-lane,Mupinqt,Grock,Geek Fam ID Jr,9:07
+MDL_mid2024,8/5/2024,mdl_gr1d1_m2,3,Group Stage,64.39%,69.23%,Kill gold-lane,Kill,gold-lane,Restless,Moskov,Raja Phoenix,9:07
+MDL_mid2024,8/5/2024,mdl_gr1d1_m2,3,Group Stage,29.02%,89.90%,Death Exp-lane,Death,Exp-lane,Guinskie,Terizla,Geek Fam ID Jr,10:11
+MDL_mid2024,8/5/2024,mdl_gr1d1_m2,3,Group Stage,28.72%,92.57%,Kill gold-lane,Kill,gold-lane,Restless,Moskov,Raja Phoenix,10:11
+MDL_mid2024,8/5/2024,mdl_gr1d1_m2,3,Group Stage,19.35%,88.57%,Death Roamer-lane,Death,Roamer-lane,Mupinqt,Grock,Geek Fam ID Jr,10:13
+MDL_mid2024,8/5/2024,mdl_gr1d1_m2,3,Group Stage,18.72%,88.57%,Kill Exp-lane,Kill,Exp-lane,JuparrTzy,Edith,Raja Phoenix,10:13
+MDL_mid2024,8/5/2024,mdl_gr1d1_m2,3,Group Stage,21.69%,89.90%,Kill gold-lane,Kill,gold-lane,Zeltron,Claude,Geek Fam ID Jr,10:17
+MDL_mid2024,8/5/2024,mdl_gr1d1_m2,3,Group Stage,21.39%,88.90%,Death Exp-lane,Death,Exp-lane,JuparrTzy,Edith,Raja Phoenix,10:17
+MDL_mid2024,8/5/2024,mdl_gr1d1_m2,3,Group Stage,14.69%,89.10%,Death Jungler-line,Death,Jungler-line,Ozi N1,Nolan,Geek Fam ID Jr,10:20
+MDL_mid2024,8/5/2024,mdl_gr1d1_m2,3,Group Stage,15.05%,90.77%,Kill Jungler-line,Kill,Jungler-line,Exortt,Hayabusa,Raja Phoenix,10:20
+MDL_mid2024,8/5/2024,mdl_gr1d1_m2,3,Group Stage,4.02%,84.43%,Death Mid-lane,Death,Mid-lane,ALAM,Valentina,Geek Fam ID Jr,10:36
+MDL_mid2024,8/5/2024,mdl_gr1d1_m2,3,Group Stage,3.05%,84.10%,Kill Jungler-line,Kill,Jungler-line,Exortt,Hayabusa,Raja Phoenix,10:36
+MDL_mid2024,8/5/2024,mdl_gr1d1_m3,1,Group Stage,49.69%,33.63%,Kill Roamer-lane,Kill,Roamer-lane,Magma,Chou,Alter Ego X,0:53
+MDL_mid2024,8/5/2024,mdl_gr1d1_m3,1,Group Stage,49.72%,32.43%,Death Mid-lane,Death,Mid-lane,Killua,Vexana,ONIC Prodigy,0:53
+MDL_mid2024,8/5/2024,mdl_gr1d1_m3,1,Group Stage,45.02%,24.70%,Kill Jungler-line,Kill,Jungler-line,Tazz,Roger,Alter Ego X,0:57
+MDL_mid2024,8/5/2024,mdl_gr1d1_m3,1,Group Stage,44.39%,24.97%,Death Roamer-lane,Death,Roamer-lane,SamueL,Minotaur,ONIC Prodigy,0:57
+MDL_mid2024,8/5/2024,mdl_gr1d1_m3,1,Group Stage,50.02%,6.03%,Kill Jungler-line,Kill,Jungler-line,Tazz,Roger,Alter Ego X,3:17
+MDL_mid2024,8/5/2024,mdl_gr1d1_m3,1,Group Stage,49.72%,5.23%,Death Jungler-line,Death,Jungler-line,Bouy,Julian,ONIC Prodigy,3:17
+MDL_mid2024,8/5/2024,mdl_gr1d1_m3,1,Group Stage,75.69%,65.70%,Death Exp-lane,Death,Exp-lane,Fawndeer,Terizla,Alter Ego X,4:08
+MDL_mid2024,8/5/2024,mdl_gr1d1_m3,1,Group Stage,75.39%,64.90%,Kill gold-lane,Kill,gold-lane,Medzz,Moskov,ONIC Prodigy,4:08
+MDL_mid2024,8/5/2024,mdl_gr1d1_m3,1,Group Stage,55.02%,50.03%,Death Roamer-lane,Death,Roamer-lane,Magma,Chou,Alter Ego X,4:16
+MDL_mid2024,8/5/2024,mdl_gr1d1_m3,1,Group Stage,55.39%,51.37%,Kill Exp-lane,Kill,Exp-lane,Rezzz,Arlott,ONIC Prodigy,4:16
+MDL_mid2024,8/5/2024,mdl_gr1d1_m3,1,Group Stage,33.69%,22.57%,Kill gold-lane,Kill,gold-lane,Arfy,Chang'e,Alter Ego X,6:35
+MDL_mid2024,8/5/2024,mdl_gr1d1_m3,1,Group Stage,35.05%,23.57%,Death gold-lane,Death,gold-lane,Medzz,Moskov,ONIC Prodigy,6:35
+MDL_mid2024,8/5/2024,mdl_gr1d1_m3,1,Group Stage,66.69%,66.57%,Death Jungler-line,Death,Jungler-line,Tazz,Roger,Alter Ego X,6:38
+MDL_mid2024,8/5/2024,mdl_gr1d1_m3,1,Group Stage,65.72%,67.57%,Kill Exp-lane,Kill,Exp-lane,Rezzz,Arlott,ONIC Prodigy,6:38
+MDL_mid2024,8/5/2024,mdl_gr1d1_m3,1,Group Stage,68.02%,69.63%,Death Exp-lane,Death,Exp-lane,Fawndeer,Terizla,Alter Ego X,6:43
+MDL_mid2024,8/5/2024,mdl_gr1d1_m3,1,Group Stage,67.72%,68.43%,Kill Mid-lane,Kill,Mid-lane,Killua,Vexana,ONIC Prodigy,6:43
+MDL_mid2024,8/5/2024,mdl_gr1d1_m3,1,Group Stage,51.69%,6.37%,Kill gold-lane,Kill,gold-lane,Arfy,Chang'e,Alter Ego X,7:18
+MDL_mid2024,8/5/2024,mdl_gr1d1_m3,1,Group Stage,49.72%,6.10%,Death gold-lane,Death,gold-lane,Medzz,Moskov,ONIC Prodigy,7:18
+MDL_mid2024,8/5/2024,mdl_gr1d1_m3,1,Group Stage,68.02%,49.37%,Death Roamer-lane,Death,Roamer-lane,Magma,Chou,Alter Ego X,8:18
+MDL_mid2024,8/5/2024,mdl_gr1d1_m3,1,Group Stage,68.72%,49.37%,Kill gold-lane,Kill,gold-lane,Medzz,Moskov,ONIC Prodigy,8:18
+MDL_mid2024,8/5/2024,mdl_gr1d1_m3,1,Group Stage,77.02%,64.97%,Death gold-lane,Death,gold-lane,Arfy,Chang'e,Alter Ego X,8:24
+MDL_mid2024,8/5/2024,mdl_gr1d1_m3,1,Group Stage,75.39%,68.43%,Kill Jungler-line,Kill,Jungler-line,Bouy,Julian,ONIC Prodigy,8:24
+MDL_mid2024,8/5/2024,mdl_gr1d1_m3,1,Group Stage,76.69%,67.23%,Death Exp-lane,Death,Exp-lane,Fawndeer,Terizla,Alter Ego X,8:28
+MDL_mid2024,8/5/2024,mdl_gr1d1_m3,1,Group Stage,77.05%,67.97%,Kill Exp-lane,Kill,Exp-lane,Rezzz,Arlott,ONIC Prodigy,8:28
+MDL_mid2024,8/5/2024,mdl_gr1d1_m3,1,Group Stage,30.02%,43.90%,Kill gold-lane,Kill,gold-lane,Arfy,Chang'e,Alter Ego X,9:07
+MDL_mid2024,8/5/2024,mdl_gr1d1_m3,1,Group Stage,29.05%,44.90%,Death Exp-lane,Death,Exp-lane,Rezzz,Arlott,ONIC Prodigy,9:07
+MDL_mid2024,8/5/2024,mdl_gr1d1_m3,1,Group Stage,20.02%,20.57%,Death Roamer-lane,Death,Roamer-lane,Magma,Chou,Alter Ego X,9:10
+MDL_mid2024,8/5/2024,mdl_gr1d1_m3,1,Group Stage,19.72%,19.23%,Kill gold-lane,Kill,gold-lane,Medzz,Moskov,ONIC Prodigy,9:10
+MDL_mid2024,8/5/2024,mdl_gr1d1_m3,1,Group Stage,36.02%,9.70%,Kill Exp-lane,Kill,Exp-lane,Fawndeer,Terizla,Alter Ego X,9:21
+MDL_mid2024,8/5/2024,mdl_gr1d1_m3,1,Group Stage,36.39%,10.10%,Death Jungler-line,Death,Jungler-line,Bouy,Julian,ONIC Prodigy,9:21
+MDL_mid2024,8/5/2024,mdl_gr1d1_m3,1,Group Stage,25.69%,93.37%,Death Jungler-line,Death,Jungler-line,Tazz,Roger,Alter Ego X,10:45
+MDL_mid2024,8/5/2024,mdl_gr1d1_m3,1,Group Stage,27.05%,92.70%,Kill gold-lane,Kill,gold-lane,Medzz,Moskov,ONIC Prodigy,10:45
+MDL_mid2024,8/5/2024,mdl_gr1d1_m3,1,Group Stage,55.35%,82.70%,Kill Exp-lane,Kill,Exp-lane,Fawndeer,Terizla,Alter Ego X,11:00
+MDL_mid2024,8/5/2024,mdl_gr1d1_m3,1,Group Stage,55.05%,83.23%,Death Roamer-lane,Death,Roamer-lane,SamueL,Minotaur,ONIC Prodigy,11:00
+MDL_mid2024,8/5/2024,mdl_gr1d1_m3,1,Group Stage,53.35%,82.57%,Kill Exp-lane,Kill,Exp-lane,Fawndeer,Terizla,Alter Ego X,11:04
+MDL_mid2024,8/5/2024,mdl_gr1d1_m3,1,Group Stage,54.39%,82.10%,Death gold-lane,Death,gold-lane,Medzz,Moskov,ONIC Prodigy,11:04
+MDL_mid2024,8/5/2024,mdl_gr1d1_m3,1,Group Stage,53.02%,76.30%,Death Roamer-lane,Death,Roamer-lane,Magma,Chou,Alter Ego X,11:08
+MDL_mid2024,8/5/2024,mdl_gr1d1_m3,1,Group Stage,52.72%,73.77%,Kill Exp-lane,Kill,Exp-lane,Rezzz,Arlott,ONIC Prodigy,11:08
+MDL_mid2024,8/5/2024,mdl_gr1d1_m3,1,Group Stage,35.02%,32.30%,Death Roamer-lane,Death,Roamer-lane,Magma,Chou,Alter Ego X,12:13
+MDL_mid2024,8/5/2024,mdl_gr1d1_m3,1,Group Stage,35.72%,34.30%,Kill Roamer-lane,Kill,Roamer-lane,SamueL,Minotaur,ONIC Prodigy,12:13
+MDL_mid2024,8/5/2024,mdl_gr1d1_m3,1,Group Stage,35.69%,39.97%,Death Jungler-line,Death,Jungler-line,Tazz,Roger,Alter Ego X,12:23
+MDL_mid2024,8/5/2024,mdl_gr1d1_m3,1,Group Stage,33.72%,40.77%,Kill Jungler-line,Kill,Jungler-line,Bouy,Julian,ONIC Prodigy,12:23
+MDL_mid2024,8/5/2024,mdl_gr1d1_m3,1,Group Stage,22.02%,74.90%,Death Exp-lane,Death,Exp-lane,Fawndeer,Terizla,Alter Ego X,14:01
+MDL_mid2024,8/5/2024,mdl_gr1d1_m3,1,Group Stage,21.39%,75.77%,Kill Mid-lane,Kill,Mid-lane,Killua,Vexana,ONIC Prodigy,14:01
+MDL_mid2024,8/5/2024,mdl_gr1d1_m3,1,Group Stage,18.02%,81.90%,Death gold-lane,Death,gold-lane,Arfy,Chang'e,Alter Ego X,14:26
+MDL_mid2024,8/5/2024,mdl_gr1d1_m3,1,Group Stage,14.39%,82.37%,Kill Mid-lane,Kill,Mid-lane,Killua,Vexana,ONIC Prodigy,14:26
+MDL_mid2024,8/5/2024,mdl_gr1d1_m3,1,Group Stage,19.69%,92.30%,Death Roamer-lane,Death,Roamer-lane,Magma,Chou,Alter Ego X,14:31
+MDL_mid2024,8/5/2024,mdl_gr1d1_m3,1,Group Stage,19.39%,93.17%,Kill Exp-lane,Kill,Exp-lane,Rezzz,Arlott,ONIC Prodigy,14:31
+MDL_mid2024,8/5/2024,mdl_gr1d1_m3,2,Group Stage,37.69%,10.70%,Kill Jungler-line,Kill,Jungler-line,Bouy,Hayabusa,ONIC Prodigy,1:21
+MDL_mid2024,8/5/2024,mdl_gr1d1_m3,2,Group Stage,37.72%,11.63%,Death Jungler-line,Death,Jungler-line,Tazz,Nolan,Alter Ego X,1:21
+MDL_mid2024,8/5/2024,mdl_gr1d1_m3,2,Group Stage,63.35%,67.57%,Kill Jungler-line,Kill,Jungler-line,Bouy,Hayabusa,ONIC Prodigy,2:35
+MDL_mid2024,8/5/2024,mdl_gr1d1_m3,2,Group Stage,62.72%,67.57%,Death Exp-lane,Death,Exp-lane,Fawndeer,Tigreal,Alter Ego X,2:35
+MDL_mid2024,8/5/2024,mdl_gr1d1_m3,2,Group Stage,65.02%,66.77%,Death Exp-lane,Death,Exp-lane,Rezzz,Edith,ONIC Prodigy,2:36
+MDL_mid2024,8/5/2024,mdl_gr1d1_m3,2,Group Stage,65.05%,66.43%,Kill Jungler-line,Kill,Jungler-line,Tazz,Nolan,Alter Ego X,2:36
+MDL_mid2024,8/5/2024,mdl_gr1d1_m3,2,Group Stage,70.02%,30.70%,Kill Jungler-line,Kill,Jungler-line,Bouy,Hayabusa,ONIC Prodigy,4:29
+MDL_mid2024,8/5/2024,mdl_gr1d1_m3,2,Group Stage,70.72%,32.37%,Death Mid-lane,Death,Mid-lane,Celiboy,Valentina,Alter Ego X,4:29
+MDL_mid2024,8/5/2024,mdl_gr1d1_m3,2,Group Stage,37.69%,29.70%,Kill Exp-lane,Kill,Exp-lane,Rezzz,Edith,ONIC Prodigy,4:50
+MDL_mid2024,8/5/2024,mdl_gr1d1_m3,2,Group Stage,37.05%,32.57%,Death Roamer-lane,Death,Roamer-lane,Magma,Kaja,Alter Ego X,4:50
+MDL_mid2024,8/5/2024,mdl_gr1d1_m3,2,Group Stage,37.69%,33.23%,Death Exp-lane,Death,Exp-lane,Rezzz,Edith,ONIC Prodigy,4:52
+MDL_mid2024,8/5/2024,mdl_gr1d1_m3,2,Group Stage,35.39%,33.90%,Kill Jungler-line,Kill,Jungler-line,Tazz,Nolan,Alter Ego X,4:52
+MDL_mid2024,8/5/2024,mdl_gr1d1_m3,2,Group Stage,38.02%,24.90%,Kill gold-lane,Kill,gold-lane,Medzz,Harith,ONIC Prodigy,4:59
+MDL_mid2024,8/5/2024,mdl_gr1d1_m3,2,Group Stage,37.72%,25.97%,Death Exp-lane,Death,Exp-lane,Fawndeer,Tigreal,Alter Ego X,4:59
+MDL_mid2024,8/5/2024,mdl_gr1d1_m3,2,Group Stage,37.35%,41.70%,Kill Exp-lane,Kill,Exp-lane,Rezzz,Edith,ONIC Prodigy,6:11
+MDL_mid2024,8/5/2024,mdl_gr1d1_m3,2,Group Stage,37.05%,40.70%,Death Roamer-lane,Death,Roamer-lane,Magma,Kaja,Alter Ego X,6:11
+MDL_mid2024,8/5/2024,mdl_gr1d1_m3,2,Group Stage,56.69%,44.97%,Kill Mid-lane,Kill,Mid-lane,Killua,Aurora,ONIC Prodigy,6:27
+MDL_mid2024,8/5/2024,mdl_gr1d1_m3,2,Group Stage,55.39%,43.90%,Death Exp-lane,Death,Exp-lane,Fawndeer,Tigreal,Alter Ego X,6:27
+MDL_mid2024,8/5/2024,mdl_gr1d1_m3,2,Group Stage,63.02%,39.23%,Kill Jungler-line,Kill,Jungler-line,Bouy,Hayabusa,ONIC Prodigy,6:31
+MDL_mid2024,8/5/2024,mdl_gr1d1_m3,2,Group Stage,64.39%,38.43%,Death gold-lane,Death,gold-lane,Arfy,Karrie,Alter Ego X,6:31
+MDL_mid2024,8/5/2024,mdl_gr1d1_m3,2,Group Stage,65.35%,31.37%,Kill Mid-lane,Kill,Mid-lane,Killua,Aurora,ONIC Prodigy,6:32
+MDL_mid2024,8/5/2024,mdl_gr1d1_m3,2,Group Stage,62.72%,32.77%,Death Mid-lane,Death,Mid-lane,Celiboy,Valentina,Alter Ego X,6:32
+MDL_mid2024,8/5/2024,mdl_gr1d1_m3,2,Group Stage,76.02%,23.37%,Kill Jungler-line,Kill,Jungler-line,Bouy,Hayabusa,ONIC Prodigy,7:22
+MDL_mid2024,8/5/2024,mdl_gr1d1_m3,2,Group Stage,77.05%,22.30%,Death Mid-lane,Death,Mid-lane,Celiboy,Valentina,Alter Ego X,7:22
+MDL_mid2024,8/5/2024,mdl_gr1d1_m3,2,Group Stage,81.02%,43.57%,Death Exp-lane,Death,Exp-lane,Rezzz,Edith,ONIC Prodigy,7:26
+MDL_mid2024,8/5/2024,mdl_gr1d1_m3,2,Group Stage,80.39%,43.30%,Kill Jungler-line,Kill,Jungler-line,Tazz,Nolan,Alter Ego X,7:26
+MDL_mid2024,8/5/2024,mdl_gr1d1_m3,2,Group Stage,19.69%,3.70%,Kill gold-lane,Kill,gold-lane,Medzz,Harith,ONIC Prodigy,8:29
+MDL_mid2024,8/5/2024,mdl_gr1d1_m3,2,Group Stage,19.05%,4.30%,Death Exp-lane,Death,Exp-lane,Fawndeer,Tigreal,Alter Ego X,8:29
+MDL_mid2024,8/5/2024,mdl_gr1d1_m3,2,Group Stage,55.35%,12.03%,Death Exp-lane,Death,Exp-lane,Rezzz,Edith,ONIC Prodigy,9:07
+MDL_mid2024,8/5/2024,mdl_gr1d1_m3,2,Group Stage,54.39%,10.97%,Kill gold-lane,Kill,gold-lane,Arfy,Karrie,Alter Ego X,9:07
+MDL_mid2024,8/5/2024,mdl_gr1d1_m3,2,Group Stage,42.69%,33.23%,Death gold-lane,Death,gold-lane,Medzz,Harith,ONIC Prodigy,10:06
+MDL_mid2024,8/5/2024,mdl_gr1d1_m3,2,Group Stage,41.05%,33.63%,Kill Jungler-line,Kill,Jungler-line,Tazz,Nolan,Alter Ego X,10:06
+MDL_mid2024,8/5/2024,mdl_gr1d1_m3,2,Group Stage,35.35%,33.57%,Kill Exp-lane,Kill,Exp-lane,Rezzz,Edith,ONIC Prodigy,10:07
+MDL_mid2024,8/5/2024,mdl_gr1d1_m3,2,Group Stage,37.39%,31.57%,Death Exp-lane,Death,Exp-lane,Fawndeer,Tigreal,Alter Ego X,10:07
+MDL_mid2024,8/5/2024,mdl_gr1d1_m3,2,Group Stage,38.69%,28.70%,Death Mid-lane,Death,Mid-lane,Killua,Aurora,ONIC Prodigy,10:09
+MDL_mid2024,8/5/2024,mdl_gr1d1_m3,2,Group Stage,35.72%,27.90%,Kill gold-lane,Kill,gold-lane,Arfy,Karrie,Alter Ego X,10:09
+MDL_mid2024,8/5/2024,mdl_gr1d1_m3,2,Group Stage,38.69%,33.57%,Kill Jungler-line,Kill,Jungler-line,Bouy,Hayabusa,ONIC Prodigy,10:10
+MDL_mid2024,8/5/2024,mdl_gr1d1_m3,2,Group Stage,41.05%,31.10%,Death Roamer-lane,Death,Roamer-lane,Magma,Kaja,Alter Ego X,10:10
+MDL_mid2024,8/5/2024,mdl_gr1d1_m3,2,Group Stage,38.02%,33.10%,Death Exp-lane,Death,Exp-lane,Rezzz,Edith,ONIC Prodigy,10:12
+MDL_mid2024,8/5/2024,mdl_gr1d1_m3,2,Group Stage,39.39%,28.37%,Kill gold-lane,Kill,gold-lane,Arfy,Karrie,Alter Ego X,10:12
+MDL_mid2024,8/5/2024,mdl_gr1d1_m3,2,Group Stage,34.02%,31.70%,Death Roamer-lane,Death,Roamer-lane,SamueL,Chou,ONIC Prodigy,10:14
+MDL_mid2024,8/5/2024,mdl_gr1d1_m3,2,Group Stage,42.39%,29.77%,Kill gold-lane,Kill,gold-lane,Arfy,Karrie,Alter Ego X,10:14
+MDL_mid2024,8/5/2024,mdl_gr1d1_m3,2,Group Stage,3.69%,42.10%,Death gold-lane,Death,gold-lane,Medzz,Harith,ONIC Prodigy,11:06
+MDL_mid2024,8/5/2024,mdl_gr1d1_m3,2,Group Stage,5.05%,43.10%,Kill Exp-lane,Kill,Exp-lane,Fawndeer,Tigreal,Alter Ego X,11:06
+MDL_mid2024,8/5/2024,mdl_gr1d1_m3,2,Group Stage,5.02%,44.37%,Death Roamer-lane,Death,Roamer-lane,SamueL,Chou,ONIC Prodigy,11:09
+MDL_mid2024,8/5/2024,mdl_gr1d1_m3,2,Group Stage,1.72%,40.70%,Kill gold-lane,Kill,gold-lane,Arfy,Karrie,Alter Ego X,11:09
+MDL_mid2024,8/5/2024,mdl_gr1d1_m3,2,Group Stage,31.69%,57.90%,Kill Mid-lane,Kill,Mid-lane,Killua,Aurora,ONIC Prodigy,12:37
+MDL_mid2024,8/5/2024,mdl_gr1d1_m3,2,Group Stage,33.72%,60.70%,Death Exp-lane,Death,Exp-lane,Fawndeer,Tigreal,Alter Ego X,12:37
+MDL_mid2024,8/5/2024,mdl_gr1d1_m3,2,Group Stage,40.69%,62.70%,Death Exp-lane,Death,Exp-lane,Rezzz,Edith,ONIC Prodigy,12:38
+MDL_mid2024,8/5/2024,mdl_gr1d1_m3,2,Group Stage,42.39%,60.43%,Kill gold-lane,Kill,gold-lane,Arfy,Karrie,Alter Ego X,12:38
+MDL_mid2024,8/5/2024,mdl_gr1d1_m3,2,Group Stage,39.69%,59.77%,Kill gold-lane,Kill,gold-lane,Medzz,Harith,ONIC Prodigy,12:39
+MDL_mid2024,8/5/2024,mdl_gr1d1_m3,2,Group Stage,42.39%,56.90%,Death Mid-lane,Death,Mid-lane,Celiboy,Valentina,Alter Ego X,12:39
+MDL_mid2024,8/5/2024,mdl_gr1d1_m3,2,Group Stage,49.69%,68.90%,Kill Mid-lane,Kill,Mid-lane,Killua,Aurora,ONIC Prodigy,12:43
+MDL_mid2024,8/5/2024,mdl_gr1d1_m3,2,Group Stage,49.39%,69.23%,Death gold-lane,Death,gold-lane,Arfy,Karrie,Alter Ego X,12:43
+MDL_mid2024,8/5/2024,mdl_gr1d1_m3,2,Group Stage,38.69%,30.70%,Kill gold-lane,Kill,gold-lane,Medzz,Harith,ONIC Prodigy,13:29
+MDL_mid2024,8/5/2024,mdl_gr1d1_m3,2,Group Stage,40.72%,29.23%,Death Roamer-lane,Death,Roamer-lane,Magma,Kaja,Alter Ego X,13:29
+MDL_mid2024,8/5/2024,mdl_gr1d1_m3,2,Group Stage,43.02%,24.30%,Kill gold-lane,Kill,gold-lane,Medzz,Harith,ONIC Prodigy,13:34
+MDL_mid2024,8/5/2024,mdl_gr1d1_m3,2,Group Stage,42.39%,25.90%,Death Exp-lane,Death,Exp-lane,Fawndeer,Tigreal,Alter Ego X,13:34
+MDL_mid2024,8/5/2024,mdl_gr1d1_m3,2,Group Stage,47.02%,18.70%,Kill Jungler-line,Kill,Jungler-line,Bouy,Hayabusa,ONIC Prodigy,13:38
+MDL_mid2024,8/5/2024,mdl_gr1d1_m3,2,Group Stage,48.72%,16.10%,Death gold-lane,Death,gold-lane,Arfy,Karrie,Alter Ego X,13:38
+MDL_mid2024,8/5/2024,mdl_gr1d1_m3,2,Group Stage,47.02%,21.70%,Death Mid-lane,Death,Mid-lane,Killua,Aurora,ONIC Prodigy,13:42
+MDL_mid2024,8/5/2024,mdl_gr1d1_m3,2,Group Stage,46.39%,18.97%,Kill Jungler-line,Kill,Jungler-line,Tazz,Nolan,Alter Ego X,13:42
+MDL_mid2024,8/5/2024,mdl_gr1d1_m3,2,Group Stage,69.02%,45.70%,Kill gold-lane,Kill,gold-lane,Medzz,Harith,ONIC Prodigy,14:25
+MDL_mid2024,8/5/2024,mdl_gr1d1_m3,2,Group Stage,67.39%,46.43%,Death Jungler-line,Death,Jungler-line,Tazz,Nolan,Alter Ego X,14:25
+MDL_mid2024,8/5/2024,mdl_gr1d1_m3,2,Group Stage,59.35%,54.70%,Kill Jungler-line,Kill,Jungler-line,Bouy,Hayabusa,ONIC Prodigy,16:49
+MDL_mid2024,8/5/2024,mdl_gr1d1_m3,2,Group Stage,63.72%,53.10%,Death Exp-lane,Death,Exp-lane,Fawndeer,Tigreal,Alter Ego X,16:49
+MDL_mid2024,8/5/2024,mdl_gr1d1_m3,2,Group Stage,57.02%,53.77%,Kill Mid-lane,Kill,Mid-lane,Killua,Aurora,ONIC Prodigy,16:51
+MDL_mid2024,8/5/2024,mdl_gr1d1_m3,2,Group Stage,56.72%,54.10%,Death Roamer-lane,Death,Roamer-lane,Magma,Kaja,Alter Ego X,16:51
+MDL_mid2024,8/5/2024,mdl_gr1d1_m3,2,Group Stage,61.02%,13.37%,Death Roamer-lane,Death,Roamer-lane,SamueL,Chou,ONIC Prodigy,19:06
+MDL_mid2024,8/5/2024,mdl_gr1d1_m3,2,Group Stage,59.72%,12.77%,Kill gold-lane,Kill,gold-lane,Arfy,Karrie,Alter Ego X,19:06
+MDL_mid2024,8/5/2024,mdl_gr1d1_m3,2,Group Stage,62.69%,11.77%,Kill gold-lane,Kill,gold-lane,Medzz,Harith,ONIC Prodigy,19:13
+MDL_mid2024,8/5/2024,mdl_gr1d1_m3,2,Group Stage,73.02%,17.77%,Kill Jungler-line,Kill,Jungler-line,Bouy,Hayabusa,ONIC Prodigy,19:13
+MDL_mid2024,8/5/2024,mdl_gr1d1_m3,2,Group Stage,63.05%,11.77%,Death Exp-lane,Death,Exp-lane,Fawndeer,Tigreal,Alter Ego X,19:13
+MDL_mid2024,8/5/2024,mdl_gr1d1_m3,2,Group Stage,72.72%,17.10%,Death Roamer-lane,Death,Roamer-lane,Magma,Kaja,Alter Ego X,19:13
+MDL_mid2024,8/5/2024,mdl_gr1d1_m3,2,Group Stage,75.35%,6.70%,Kill Jungler-line,Kill,Jungler-line,Bouy,Hayabusa,ONIC Prodigy,19:21
+MDL_mid2024,8/5/2024,mdl_gr1d1_m3,2,Group Stage,74.39%,7.37%,Death Mid-lane,Death,Mid-lane,Celiboy,Valentina,Alter Ego X,19:21
+MDL_mid2024,8/5/2024,mdl_gr1d1_m3,2,Group Stage,82.69%,12.57%,Kill gold-lane,Kill,gold-lane,Medzz,Harith,ONIC Prodigy,19:54
+MDL_mid2024,8/5/2024,mdl_gr1d1_m3,2,Group Stage,83.39%,12.97%,Death Roamer-lane,Death,Roamer-lane,Magma,Kaja,Alter Ego X,19:54
+MDL_mid2024,8/5/2024,mdl_gr1d1_m3,2,Group Stage,85.35%,16.57%,Kill gold-lane,Kill,gold-lane,Medzz,Harith,ONIC Prodigy,19:55
+MDL_mid2024,8/5/2024,mdl_gr1d1_m3,2,Group Stage,88.39%,15.90%,Death Jungler-line,Death,Jungler-line,Tazz,Nolan,Alter Ego X,19:55
+MDL_mid2024,8/6/2024,mdl_gr1d2_m1,1,Group Stage,72.02%,61.70%,Kill Mid-lane,Kill,Mid-lane,Speechless,Zhask,Pendekar Esports,2:55
+MDL_mid2024,8/6/2024,mdl_gr1d2_m1,1,Group Stage,71.72%,61.10%,Death Jungler-line,Death,Jungler-line,Vival,Roger,Team Vitality,2:55
+MDL_mid2024,8/6/2024,mdl_gr1d2_m1,1,Group Stage,71.02%,63.70%,Kill Mid-lane,Kill,Mid-lane,Speechless,Zhask,Pendekar Esports,2:57
+MDL_mid2024,8/6/2024,mdl_gr1d2_m1,1,Group Stage,71.72%,63.77%,Death Roamer-lane,Death,Roamer-lane,Vivian,Minotaur,Team Vitality,2:57
+MDL_mid2024,8/6/2024,mdl_gr1d2_m1,1,Group Stage,47.02%,43.10%,Kill Jungler-line,Kill,Jungler-line,Vlosee,Julian,Pendekar Esports,4:38
+MDL_mid2024,8/6/2024,mdl_gr1d2_m1,1,Group Stage,47.72%,42.30%,Death Roamer-lane,Death,Roamer-lane,Vivian,Minotaur,Team Vitality,4:38
+MDL_mid2024,8/6/2024,mdl_gr1d2_m1,1,Group Stage,60.69%,40.70%,Kill Mid-lane,Kill,Mid-lane,Speechless,Zhask,Pendekar Esports,4:46
+MDL_mid2024,8/6/2024,mdl_gr1d2_m1,1,Group Stage,60.39%,42.37%,Death Mid-lane,Death,Mid-lane,Cinny,Faramis,Team Vitality,4:46
+MDL_mid2024,8/6/2024,mdl_gr1d2_m1,1,Group Stage,26.69%,6.37%,Kill Jungler-line,Kill,Jungler-line,Vlosee,Julian,Pendekar Esports,5:23
+MDL_mid2024,8/6/2024,mdl_gr1d2_m1,1,Group Stage,28.39%,3.97%,Death Roamer-lane,Death,Roamer-lane,Vivian,Minotaur,Team Vitality,5:23
+MDL_mid2024,8/6/2024,mdl_gr1d2_m1,1,Group Stage,29.02%,7.37%,Kill Jungler-line,Kill,Jungler-line,Vlosee,Julian,Pendekar Esports,5:25
+MDL_mid2024,8/6/2024,mdl_gr1d2_m1,1,Group Stage,27.72%,5.63%,Death gold-lane,Death,gold-lane,Chell,Karrie,Team Vitality,5:25
+MDL_mid2024,8/6/2024,mdl_gr1d2_m1,1,Group Stage,75.69%,64.10%,Kill gold-lane,Kill,gold-lane,Bottle,Moskov,Pendekar Esports,6:25
+MDL_mid2024,8/6/2024,mdl_gr1d2_m1,1,Group Stage,75.39%,64.10%,Death Exp-lane,Death,Exp-lane,Fumi,Terizla,Team Vitality,6:25
+MDL_mid2024,8/6/2024,mdl_gr1d2_m1,1,Group Stage,61.35%,34.10%,Kill Mid-lane,Kill,Mid-lane,Speechless,Zhask,Pendekar Esports,6:51
+MDL_mid2024,8/6/2024,mdl_gr1d2_m1,1,Group Stage,63.39%,34.43%,Death Jungler-line,Death,Jungler-line,Vival,Roger,Team Vitality,6:51
+MDL_mid2024,8/6/2024,mdl_gr1d2_m1,1,Group Stage,76.02%,35.10%,Kill Jungler-line,Kill,Jungler-line,Vlosee,Julian,Pendekar Esports,6:59
+MDL_mid2024,8/6/2024,mdl_gr1d2_m1,1,Group Stage,77.05%,34.77%,Death Mid-lane,Death,Mid-lane,Cinny,Faramis,Team Vitality,6:59
+MDL_mid2024,8/6/2024,mdl_gr1d2_m1,1,Group Stage,59.35%,2.77%,Kill Exp-lane,Kill,Exp-lane,JayySkie,Cici,Pendekar Esports,7:46
+MDL_mid2024,8/6/2024,mdl_gr1d2_m1,1,Group Stage,58.72%,2.77%,Death Exp-lane,Death,Exp-lane,Fumi,Terizla,Team Vitality,7:46
+MDL_mid2024,8/6/2024,mdl_gr1d2_m1,1,Group Stage,68.69%,33.37%,Kill Jungler-line,Kill,Jungler-line,Vlosee,Julian,Pendekar Esports,10:40
+MDL_mid2024,8/6/2024,mdl_gr1d2_m1,1,Group Stage,69.72%,32.03%,Death Jungler-line,Death,Jungler-line,Vival,Roger,Team Vitality,10:40
+MDL_mid2024,8/6/2024,mdl_gr1d2_m1,1,Group Stage,69.69%,31.30%,Death Roamer-lane,Death,Roamer-lane,Druu,Chou,Pendekar Esports,10:41
+MDL_mid2024,8/6/2024,mdl_gr1d2_m1,1,Group Stage,66.39%,31.57%,Kill Roamer-lane,Kill,Roamer-lane,Vivian,Minotaur,Team Vitality,10:41
+MDL_mid2024,8/6/2024,mdl_gr1d2_m1,1,Group Stage,72.69%,38.37%,Death Jungler-line,Death,Jungler-line,Vlosee,Julian,Pendekar Esports,10:44
+MDL_mid2024,8/6/2024,mdl_gr1d2_m1,1,Group Stage,73.72%,38.70%,Kill gold-lane,Kill,gold-lane,Chell,Karrie,Team Vitality,10:44
+MDL_mid2024,8/6/2024,mdl_gr1d2_m1,1,Group Stage,69.02%,48.03%,Death gold-lane,Death,gold-lane,Bottle,Moskov,Pendekar Esports,10:55
+MDL_mid2024,8/6/2024,mdl_gr1d2_m1,1,Group Stage,70.39%,46.03%,Kill Exp-lane,Kill,Exp-lane,Fumi,Terizla,Team Vitality,10:55
+MDL_mid2024,8/6/2024,mdl_gr1d2_m1,1,Group Stage,85.02%,21.70%,Death Roamer-lane,Death,Roamer-lane,Druu,Chou,Pendekar Esports,14:25
+MDL_mid2024,8/6/2024,mdl_gr1d2_m1,1,Group Stage,85.05%,22.37%,Kill Mid-lane,Kill,Mid-lane,Cinny,Faramis,Team Vitality,14:25
+MDL_mid2024,8/6/2024,mdl_gr1d2_m1,1,Group Stage,76.02%,14.03%,Kill Mid-lane,Kill,Mid-lane,Speechless,Zhask,Pendekar Esports,14:31
+MDL_mid2024,8/6/2024,mdl_gr1d2_m1,1,Group Stage,76.39%,15.97%,Death Jungler-line,Death,Jungler-line,Vival,Roger,Team Vitality,14:31
+MDL_mid2024,8/6/2024,mdl_gr1d2_m1,1,Group Stage,76.69%,12.03%,Kill Exp-lane,Kill,Exp-lane,JayySkie,Cici,Pendekar Esports,16:24
+MDL_mid2024,8/6/2024,mdl_gr1d2_m1,1,Group Stage,74.39%,15.37%,Death Exp-lane,Death,Exp-lane,Fumi,Terizla,Team Vitality,16:24
+MDL_mid2024,8/6/2024,mdl_gr1d2_m1,1,Group Stage,79.69%,14.70%,Kill Mid-lane,Kill,Mid-lane,Speechless,Zhask,Pendekar Esports,16:28
+MDL_mid2024,8/6/2024,mdl_gr1d2_m1,1,Group Stage,81.35%,9.30%,Death Roamer-lane,Death,Roamer-lane,Druu,Chou,Pendekar Esports,16:28
+MDL_mid2024,8/6/2024,mdl_gr1d2_m1,1,Group Stage,77.39%,9.97%,Death Roamer-lane,Death,Roamer-lane,Vivian,Minotaur,Team Vitality,16:28
+MDL_mid2024,8/6/2024,mdl_gr1d2_m1,1,Group Stage,79.39%,10.30%,Kill Jungler-line,Kill,Jungler-line,Vival,Roger,Team Vitality,16:28
+MDL_mid2024,8/6/2024,mdl_gr1d2_m1,1,Group Stage,84.02%,17.63%,Kill gold-lane,Kill,gold-lane,Bottle,Moskov,Pendekar Esports,16:30
+MDL_mid2024,8/6/2024,mdl_gr1d2_m1,1,Group Stage,85.05%,19.30%,Death Mid-lane,Death,Mid-lane,Cinny,Faramis,Team Vitality,16:30
+MDL_mid2024,8/6/2024,mdl_gr1d2_m1,1,Group Stage,82.02%,14.97%,Kill gold-lane,Kill,gold-lane,Bottle,Moskov,Pendekar Esports,16:32
+MDL_mid2024,8/6/2024,mdl_gr1d2_m1,1,Group Stage,83.05%,14.30%,Death Jungler-line,Death,Jungler-line,Vival,Roger,Team Vitality,16:32
+MDL_mid2024,8/6/2024,mdl_gr1d2_m1,1,Group Stage,93.69%,9.97%,Kill Jungler-line,Kill,Jungler-line,Vlosee,Julian,Pendekar Esports,16:34
+MDL_mid2024,8/6/2024,mdl_gr1d2_m1,1,Group Stage,91.39%,6.30%,Death gold-lane,Death,gold-lane,Chell,Karrie,Team Vitality,16:34
+MDL_mid2024,8/6/2024,mdl_gr1d2_m1,2,Group Stage,57.69%,61.37%,Death Jungler-line,Death,Jungler-line,Vival,Julian,Team Vitality,10:57
+MDL_mid2024,8/6/2024,mdl_gr1d2_m1,2,Group Stage,60.39%,60.37%,Kill Mid-lane,Kill,Mid-lane,Speechless,Aurora,Pendekar Esports,10:57
+MDL_mid2024,8/6/2024,mdl_gr1d2_m1,2,Group Stage,47.02%,55.70%,Death Mid-lane,Death,Mid-lane,Cinny,Zhuxin,Team Vitality,11:29
+MDL_mid2024,8/6/2024,mdl_gr1d2_m1,2,Group Stage,46.39%,56.77%,Kill Mid-lane,Kill,Mid-lane,Speechless,Aurora,Pendekar Esports,11:29
+MDL_mid2024,8/6/2024,mdl_gr1d2_m1,2,Group Stage,75.69%,86.70%,Kill Jungler-line,Kill,Jungler-line,Vival,Julian,Team Vitality,11:56
+MDL_mid2024,8/6/2024,mdl_gr1d2_m1,2,Group Stage,72.72%,87.70%,Death Exp-lane,Death,Exp-lane,JayySkie,Lapu-Lapu,Pendekar Esports,11:56
+MDL_mid2024,8/6/2024,mdl_gr1d2_m1,2,Group Stage,18.69%,5.70%,Kill Mid-lane,Kill,Mid-lane,Cinny,Zhuxin,Team Vitality,12:33
+MDL_mid2024,8/6/2024,mdl_gr1d2_m1,2,Group Stage,17.72%,4.37%,Death Roamer-lane,Death,Roamer-lane,Druu,Ruby,Pendekar Esports,12:35
+MDL_mid2024,8/6/2024,mdl_gr1d2_m1,2,Group Stage,39.69%,55.70%,Death Jungler-line,Death,Jungler-line,Vival,Julian,Team Vitality,13:01
+MDL_mid2024,8/6/2024,mdl_gr1d2_m1,2,Group Stage,40.39%,55.37%,Kill Jungler-line,Kill,Jungler-line,Vlosee,Hayabusa,Pendekar Esports,13:01
+MDL_mid2024,8/6/2024,mdl_gr1d2_m1,2,Group Stage,9.69%,22.03%,Death gold-lane,Death,gold-lane,Chell,Ixia,Team Vitality,13:21
+MDL_mid2024,8/6/2024,mdl_gr1d2_m1,2,Group Stage,11.05%,22.03%,Kill gold-lane,Kill,gold-lane,Bottle,Claude,Pendekar Esports,13:21
+MDL_mid2024,8/6/2024,mdl_gr1d2_m1,2,Group Stage,11.02%,24.90%,Death Roamer-lane,Death,Roamer-lane,Vivian,Khufra,Team Vitality,13:24
+MDL_mid2024,8/6/2024,mdl_gr1d2_m1,2,Group Stage,46.69%,91.90%,Death Roamer-lane,Death,Roamer-lane,Vivian,Khufra,Team Vitality,13:24
+MDL_mid2024,8/6/2024,mdl_gr1d2_m1,2,Group Stage,12.72%,22.37%,Kill Mid-lane,Kill,Mid-lane,Speechless,Aurora,Pendekar Esports,13:24
+MDL_mid2024,8/6/2024,mdl_gr1d2_m1,2,Group Stage,37.02%,58.03%,Death Mid-lane,Death,Mid-lane,Cinny,Zhuxin,Team Vitality,14:21
+MDL_mid2024,8/6/2024,mdl_gr1d2_m1,2,Group Stage,36.72%,60.03%,Kill Jungler-line,Kill,Jungler-line,Vlosee,Hayabusa,Pendekar Esports,14:21
+MDL_mid2024,8/6/2024,mdl_gr1d2_m1,2,Group Stage,71.69%,91.70%,Death Exp-lane,Death,Exp-lane,Fumi,Hylos,Team Vitality,14:23
+MDL_mid2024,8/6/2024,mdl_gr1d2_m1,2,Group Stage,71.72%,95.70%,Kill Exp-lane,Kill,Exp-lane,JayySkie,Lapu-Lapu,Pendekar Esports,14:23
+MDL_mid2024,8/6/2024,mdl_gr1d2_m1,2,Group Stage,43.02%,54.37%,Death gold-lane,Death,gold-lane,Chell,Ixia,Team Vitality,14:42
+MDL_mid2024,8/6/2024,mdl_gr1d2_m1,2,Group Stage,43.05%,54.30%,Kill Mid-lane,Kill,Mid-lane,Speechless,Aurora,Pendekar Esports,14:42
+MDL_mid2024,8/6/2024,mdl_gr1d2_m1,2,Group Stage,37.35%,62.70%,Death Jungler-line,Death,Jungler-line,Vival,Julian,Team Vitality,14:57
+MDL_mid2024,8/6/2024,mdl_gr1d2_m1,2,Group Stage,37.72%,63.37%,Kill Mid-lane,Kill,Mid-lane,Speechless,Aurora,Pendekar Esports,14:57
+MDL_mid2024,8/6/2024,mdl_gr1d2_m1,2,Group Stage,29.35%,72.70%,Death Mid-lane,Death,Mid-lane,Cinny,Zhuxin,Team Vitality,15:01
+MDL_mid2024,8/6/2024,mdl_gr1d2_m1,2,Group Stage,30.39%,71.70%,Kill Jungler-line,Kill,Jungler-line,Vlosee,Hayabusa,Pendekar Esports,15:01
+MDL_mid2024,8/6/2024,mdl_gr1d2_m1,2,Group Stage,30.69%,90.37%,Death Mid-lane,Death,Mid-lane,Cinny,Zhuxin,Team Vitality,15:38
+MDL_mid2024,8/6/2024,mdl_gr1d2_m1,2,Group Stage,29.72%,88.03%,Kill Jungler-line,Kill,Jungler-line,Vlosee,Hayabusa,Pendekar Esports,15:38
+MDL_mid2024,8/6/2024,mdl_gr1d2_m1,2,Group Stage,37.69%,88.03%,Death Roamer-lane,Death,Roamer-lane,Vivian,Khufra,Team Vitality,15:39
+MDL_mid2024,8/6/2024,mdl_gr1d2_m1,2,Group Stage,37.39%,84.37%,Kill Jungler-line,Kill,Jungler-line,Vlosee,Hayabusa,Pendekar Esports,15:39
+MDL_mid2024,8/6/2024,mdl_gr1d2_m1,2,Group Stage,43.02%,95.37%,Death Jungler-line,Death,Jungler-line,Vival,Julian,Team Vitality,15:44
+MDL_mid2024,8/6/2024,mdl_gr1d2_m1,2,Group Stage,42.72%,94.70%,Kill Exp-lane,Kill,Exp-lane,JayySkie,Lapu-Lapu,Pendekar Esports,15:44
+MDL_mid2024,8/6/2024,mdl_gr1d2_m1,2,Group Stage,24.02%,77.37%,Death Roamer-lane,Death,Roamer-lane,Vivian,Khufra,Team Vitality,17:28
+MDL_mid2024,8/6/2024,mdl_gr1d2_m1,2,Group Stage,24.72%,77.63%,Kill Exp-lane,Kill,Exp-lane,JayySkie,Lapu-Lapu,Pendekar Esports,17:28
+MDL_mid2024,8/6/2024,mdl_gr1d2_m1,2,Group Stage,20.02%,76.97%,Death gold-lane,Death,gold-lane,Chell,Ixia,Team Vitality,17:31
+MDL_mid2024,8/6/2024,mdl_gr1d2_m1,2,Group Stage,20.39%,75.70%,Kill Exp-lane,Kill,Exp-lane,JayySkie,Lapu-Lapu,Pendekar Esports,17:31
+MDL_mid2024,8/6/2024,mdl_gr1d2_m1,2,Group Stage,21.02%,81.70%,Death Jungler-line,Death,Jungler-line,Vival,Julian,Team Vitality,17:33
+MDL_mid2024,8/6/2024,mdl_gr1d2_m1,2,Group Stage,20.39%,81.63%,Kill gold-lane,Kill,gold-lane,Bottle,Claude,Pendekar Esports,17:33
+MDL_mid2024,8/6/2024,mdl_gr1d2_m1,2,Group Stage,19.02%,75.57%,Kill Mid-lane,Kill,Mid-lane,Cinny,Zhuxin,Team Vitality,17:34
+MDL_mid2024,8/6/2024,mdl_gr1d2_m1,2,Group Stage,23.05%,75.57%,Death Roamer-lane,Death,Roamer-lane,Druu,Ruby,Pendekar Esports,17:34
+MDL_mid2024,8/6/2024,mdl_gr1d2_m1,2,Group Stage,28.02%,91.90%,Death Exp-lane,Death,Exp-lane,Fumi,Hylos,Team Vitality,17:37
+MDL_mid2024,8/6/2024,mdl_gr1d2_m1,2,Group Stage,25.35%,91.70%,Kill Exp-lane,Kill,Exp-lane,Fumi,Hylos,Team Vitality,17:39
+MDL_mid2024,8/6/2024,mdl_gr1d2_m1,2,Group Stage,17.39%,95.30%,Death Exp-lane,Death,Exp-lane,JayySkie,Lapu-Lapu,Pendekar Esports,17:39
+MDL_mid2024,8/6/2024,mdl_gr1d2_m1,2,Group Stage,14.69%,89.37%,Death Mid-lane,Death,Mid-lane,Cinny,Zhuxin,Team Vitality,17:41
+MDL_mid2024,8/6/2024,mdl_gr1d2_m1,2,Group Stage,15.05%,89.23%,Kill Jungler-line,Kill,Jungler-line,Vlosee,Hayabusa,Pendekar Esports,17:41
+MDL_mid2024,8/6/2024,mdl_gr1d2_m2,1,Group Stage,64.02%,56.70%,Death Roamer-lane,Death,Roamer-lane,Naksu,Minotaur,Bigetron Beta,2:26
+MDL_mid2024,8/6/2024,mdl_gr1d2_m2,1,Group Stage,60.02%,56.70%,Death Jungler-line,Death,Jungler-line,Lynchhh,Guinevere,Bigetron Beta,2:26
+MDL_mid2024,8/6/2024,mdl_gr1d2_m2,1,Group Stage,67.39%,58.10%,Kill Mid-lane,Kill,Mid-lane,Meepola,Faramis,Rebellion Blitz,2:26
+MDL_mid2024,8/6/2024,mdl_gr1d2_m2,1,Group Stage,61.39%,56.03%,Kill Roamer-lane,Kill,Roamer-lane,Beryl,Carmilla,Rebellion Blitz,2:26
+MDL_mid2024,8/6/2024,mdl_gr1d2_m2,1,Group Stage,57.02%,67.37%,Death Mid-lane,Death,Mid-lane,Xryuzii,Zhask,Bigetron Beta,2:30
+MDL_mid2024,8/6/2024,mdl_gr1d2_m2,1,Group Stage,57.72%,69.57%,Kill Jungler-line,Kill,Jungler-line,Vazehard,Fanny,Rebellion Blitz,2:30
+MDL_mid2024,8/6/2024,mdl_gr1d2_m2,1,Group Stage,7.69%,24.37%,Death gold-lane,Death,gold-lane,Pinnn,Moskov,Bigetron Beta,4:04
+MDL_mid2024,8/6/2024,mdl_gr1d2_m2,1,Group Stage,9.39%,22.57%,Kill Jungler-line,Kill,Jungler-line,Vazehard,Fanny,Rebellion Blitz,4:04
+MDL_mid2024,8/6/2024,mdl_gr1d2_m2,1,Group Stage,6.69%,26.03%,Death Jungler-line,Death,Jungler-line,Lynchhh,Guinevere,Bigetron Beta,4:07
+MDL_mid2024,8/6/2024,mdl_gr1d2_m2,1,Group Stage,5.72%,24.03%,Kill Jungler-line,Kill,Jungler-line,Vazehard,Fanny,Rebellion Blitz,4:07
+MDL_mid2024,8/6/2024,mdl_gr1d2_m2,1,Group Stage,10.02%,26.37%,Death Roamer-lane,Death,Roamer-lane,Naksu,Minotaur,Bigetron Beta,4:09
+MDL_mid2024,8/6/2024,mdl_gr1d2_m2,1,Group Stage,9.39%,24.37%,Kill Exp-lane,Kill,Exp-lane,BQ,Edith,Rebellion Blitz,4:09
+MDL_mid2024,8/6/2024,mdl_gr1d2_m2,1,Group Stage,69.35%,94.03%,Death gold-lane,Death,gold-lane,Pinnn,Moskov,Bigetron Beta,5:18
+MDL_mid2024,8/6/2024,mdl_gr1d2_m2,1,Group Stage,68.72%,93.30%,Kill Roamer-lane,Kill,Roamer-lane,Beryl,Carmilla,Rebellion Blitz,5:18
+MDL_mid2024,8/6/2024,mdl_gr1d2_m2,1,Group Stage,41.69%,57.37%,Death Mid-lane,Death,Mid-lane,Xryuzii,Zhask,Bigetron Beta,6:08
+MDL_mid2024,8/6/2024,mdl_gr1d2_m2,1,Group Stage,41.39%,58.10%,Kill Jungler-line,Kill,Jungler-line,Vazehard,Fanny,Rebellion Blitz,6:08
+MDL_mid2024,8/6/2024,mdl_gr1d2_m2,1,Group Stage,36.69%,58.37%,Death Mid-lane,Death,Mid-lane,Xryuzii,Zhask,Bigetron Beta,7:59
+MDL_mid2024,8/6/2024,mdl_gr1d2_m2,1,Group Stage,35.05%,60.37%,Kill Jungler-line,Kill,Jungler-line,Vazehard,Fanny,Rebellion Blitz,7:59
+MDL_mid2024,8/6/2024,mdl_gr1d2_m2,1,Group Stage,27.69%,72.70%,Kill Jungler-line,Kill,Jungler-line,Lynchhh,Guinevere,Bigetron Beta,8:13
+MDL_mid2024,8/6/2024,mdl_gr1d2_m2,1,Group Stage,26.39%,73.77%,Death Exp-lane,Death,Exp-lane,BQ,Edith,Rebellion Blitz,8:13
+MDL_mid2024,8/6/2024,mdl_gr1d2_m2,1,Group Stage,73.69%,87.70%,Kill gold-lane,Kill,gold-lane,Pinnn,Moskov,Bigetron Beta,8:15
+MDL_mid2024,8/6/2024,mdl_gr1d2_m2,1,Group Stage,73.39%,86.77%,Death Jungler-line,Death,Jungler-line,Vazehard,Fanny,Rebellion Blitz,8:15
+MDL_mid2024,8/6/2024,mdl_gr1d2_m2,1,Group Stage,7.69%,46.03%,Death Roamer-lane,Death,Roamer-lane,Naksu,Minotaur,Bigetron Beta,9:16
+MDL_mid2024,8/6/2024,mdl_gr1d2_m2,1,Group Stage,7.72%,46.03%,Kill Exp-lane,Kill,Exp-lane,BQ,Edith,Rebellion Blitz,9:16
+MDL_mid2024,8/6/2024,mdl_gr1d2_m2,1,Group Stage,62.02%,67.70%,Death Exp-lane,Death,Exp-lane,Marzyyy,Chou,Bigetron Beta,10:10
+MDL_mid2024,8/6/2024,mdl_gr1d2_m2,1,Group Stage,65.72%,66.70%,Kill Mid-lane,Kill,Mid-lane,Meepola,Faramis,Rebellion Blitz,10:10
+MDL_mid2024,8/6/2024,mdl_gr1d2_m2,1,Group Stage,72.02%,79.70%,Death Mid-lane,Death,Mid-lane,Xryuzii,Zhask,Bigetron Beta,10:15
+MDL_mid2024,8/6/2024,mdl_gr1d2_m2,1,Group Stage,70.39%,79.90%,Kill gold-lane,Kill,gold-lane,Zenn,Roger,Rebellion Blitz,10:15
+MDL_mid2024,8/6/2024,mdl_gr1d2_m2,1,Group Stage,48.69%,81.37%,Death Roamer-lane,Death,Roamer-lane,Naksu,Minotaur,Bigetron Beta,10:17
+MDL_mid2024,8/6/2024,mdl_gr1d2_m2,1,Group Stage,48.39%,81.37%,Kill Exp-lane,Kill,Exp-lane,BQ,Edith,Rebellion Blitz,10:17
+MDL_mid2024,8/6/2024,mdl_gr1d2_m2,1,Group Stage,7.02%,67.70%,Death Jungler-line,Death,Jungler-line,Lynchhh,Guinevere,Bigetron Beta,11:04
+MDL_mid2024,8/6/2024,mdl_gr1d2_m2,1,Group Stage,7.05%,69.30%,Kill Jungler-line,Kill,Jungler-line,Vazehard,Fanny,Rebellion Blitz,11:04
+MDL_mid2024,8/6/2024,mdl_gr1d2_m2,1,Group Stage,9.35%,70.03%,Kill gold-lane,Kill,gold-lane,Pinnn,Moskov,Bigetron Beta,11:08
+MDL_mid2024,8/6/2024,mdl_gr1d2_m2,1,Group Stage,9.05%,69.90%,Death Roamer-lane,Death,Roamer-lane,Beryl,Carmilla,Rebellion Blitz,11:08
+MDL_mid2024,8/6/2024,mdl_gr1d2_m2,1,Group Stage,9.69%,78.70%,Death Roamer-lane,Death,Roamer-lane,Naksu,Minotaur,Bigetron Beta,11:13
+MDL_mid2024,8/6/2024,mdl_gr1d2_m2,1,Group Stage,11.39%,76.70%,Kill gold-lane,Kill,gold-lane,Zenn,Roger,Rebellion Blitz,11:13
+MDL_mid2024,8/6/2024,mdl_gr1d2_m2,1,Group Stage,16.02%,74.37%,Kill gold-lane,Kill,gold-lane,Pinnn,Moskov,Bigetron Beta,11:16
+MDL_mid2024,8/6/2024,mdl_gr1d2_m2,1,Group Stage,15.39%,73.90%,Death Exp-lane,Death,Exp-lane,BQ,Edith,Rebellion Blitz,11:16
+MDL_mid2024,8/6/2024,mdl_gr1d2_m2,1,Group Stage,11.69%,77.37%,Death gold-lane,Death,gold-lane,Pinnn,Moskov,Bigetron Beta,11:20
+MDL_mid2024,8/6/2024,mdl_gr1d2_m2,1,Group Stage,11.72%,75.57%,Kill gold-lane,Kill,gold-lane,Zenn,Roger,Rebellion Blitz,11:20
+MDL_mid2024,8/6/2024,mdl_gr1d2_m2,1,Group Stage,15.69%,84.37%,Kill Mid-lane,Kill,Mid-lane,Xryuzii,Zhask,Bigetron Beta,11:38
+MDL_mid2024,8/6/2024,mdl_gr1d2_m2,1,Group Stage,21.72%,77.37%,Death Mid-lane,Death,Mid-lane,Meepola,Faramis,Rebellion Blitz,11:38
+MDL_mid2024,8/6/2024,mdl_gr1d2_m2,2,Group Stage,20.02%,34.70%,Kill gold-lane,Kill,gold-lane,Pinnn,Roger,Bigetron Beta,2:15
+MDL_mid2024,8/6/2024,mdl_gr1d2_m2,2,Group Stage,19.05%,34.37%,Death gold-lane,Death,gold-lane,Zenn,Ruby,Rebellion Blitz,2:15
+MDL_mid2024,8/6/2024,mdl_gr1d2_m2,2,Group Stage,69.35%,68.37%,Death Exp-lane,Death,Exp-lane,Marzyyy,Cici,Bigetron Beta,2:32
+MDL_mid2024,8/6/2024,mdl_gr1d2_m2,2,Group Stage,67.39%,65.30%,Kill Exp-lane,Kill,Exp-lane,BQ,X.Borg,Rebellion Blitz,2:32
+MDL_mid2024,8/6/2024,mdl_gr1d2_m2,2,Group Stage,55.35%,73.70%,Death Jungler-line,Death,Jungler-line,Lynchhh,Alpha,Bigetron Beta,2:37
+MDL_mid2024,8/6/2024,mdl_gr1d2_m2,2,Group Stage,54.72%,72.30%,Kill Jungler-line,Kill,Jungler-line,Vazehard,Julian,Rebellion Blitz,2:37
+MDL_mid2024,8/6/2024,mdl_gr1d2_m2,2,Group Stage,95.69%,73.70%,Kill Jungler-line,Kill,Jungler-line,Lynchhh,Alpha,Bigetron Beta,3:56
+MDL_mid2024,8/6/2024,mdl_gr1d2_m2,2,Group Stage,93.72%,73.37%,Death Exp-lane,Death,Exp-lane,BQ,X.Borg,Rebellion Blitz,3:56
+MDL_mid2024,8/6/2024,mdl_gr1d2_m2,2,Group Stage,94.69%,78.03%,Death Jungler-line,Death,Jungler-line,Lynchhh,Alpha,Bigetron Beta,3:58
+MDL_mid2024,8/6/2024,mdl_gr1d2_m2,2,Group Stage,94.39%,72.77%,Kill Exp-lane,Kill,Exp-lane,BQ,X.Borg,Rebellion Blitz,3:58
+MDL_mid2024,8/6/2024,mdl_gr1d2_m2,2,Group Stage,66.69%,68.03%,Death Jungler-line,Death,Jungler-line,Lynchhh,Alpha,Bigetron Beta,4:41
+MDL_mid2024,8/6/2024,mdl_gr1d2_m2,2,Group Stage,65.72%,68.03%,Kill Jungler-line,Kill,Jungler-line,Vazehard,Julian,Rebellion Blitz,4:41
+MDL_mid2024,8/6/2024,mdl_gr1d2_m2,2,Group Stage,65.35%,68.03%,Death Roamer-lane,Death,Roamer-lane,Naksu,Mathilda,Bigetron Beta,4:42
+MDL_mid2024,8/6/2024,mdl_gr1d2_m2,2,Group Stage,63.72%,64.37%,Kill Mid-lane,Kill,Mid-lane,Meepola,Yve,Rebellion Blitz,4:42
+MDL_mid2024,8/6/2024,mdl_gr1d2_m2,2,Group Stage,45.02%,70.03%,Death Exp-lane,Death,Exp-lane,Marzyyy,Cici,Bigetron Beta,6:09
+MDL_mid2024,8/6/2024,mdl_gr1d2_m2,2,Group Stage,46.72%,68.70%,Kill Exp-lane,Kill,Exp-lane,BQ,X.Borg,Rebellion Blitz,6:09
+MDL_mid2024,8/6/2024,mdl_gr1d2_m2,2,Group Stage,38.69%,82.77%,Death Mid-lane,Death,Mid-lane,Xryuzii,Angela,Bigetron Beta,6:12
+MDL_mid2024,8/6/2024,mdl_gr1d2_m2,2,Group Stage,39.05%,81.10%,Kill Exp-lane,Kill,Exp-lane,BQ,X.Borg,Rebellion Blitz,6:12
+MDL_mid2024,8/6/2024,mdl_gr1d2_m2,2,Group Stage,47.69%,96.03%,Death Jungler-line,Death,Jungler-line,Lynchhh,Alpha,Bigetron Beta,6:21
+MDL_mid2024,8/6/2024,mdl_gr1d2_m2,2,Group Stage,44.72%,94.97%,Kill Mid-lane,Kill,Mid-lane,Meepola,Yve,Rebellion Blitz,6:21
+MDL_mid2024,8/6/2024,mdl_gr1d2_m3,1,Group Stage,78.02%,64.37%,Kill Jungler-line,Kill,Jungler-line,Reyynn,Fanny,Yasbih Esports,1:05
+MDL_mid2024,8/6/2024,mdl_gr1d2_m3,1,Group Stage,75.72%,64.37%,Death Jungler-line,Death,Jungler-line,Ronn,Hayabusa,Kagendra,1:05
+MDL_mid2024,8/6/2024,mdl_gr1d2_m3,1,Group Stage,50.02%,45.70%,Death Roamer-lane,Death,Roamer-lane,Kiyyy,Edith,Yasbih Esports,1:22
+MDL_mid2024,8/6/2024,mdl_gr1d2_m3,1,Group Stage,49.72%,43.70%,Kill Roamer-lane,Kill,Roamer-lane,HanafiTzy,Hylos,Kagendra,1:22
+MDL_mid2024,8/6/2024,mdl_gr1d2_m3,1,Group Stage,35.69%,37.37%,Kill Exp-lane,Kill,Exp-lane,Chewy,Ruby,Yasbih Esports,2:15
+MDL_mid2024,8/6/2024,mdl_gr1d2_m3,1,Group Stage,35.72%,35.70%,Death Roamer-lane,Death,Roamer-lane,HanafiTzy,Hylos,Kagendra,2:15
+MDL_mid2024,8/6/2024,mdl_gr1d2_m3,1,Group Stage,37.02%,35.37%,Death Exp-lane,Death,Exp-lane,Chewy,Ruby,Yasbih Esports,2:17
+MDL_mid2024,8/6/2024,mdl_gr1d2_m3,1,Group Stage,35.72%,35.37%,Kill Jungler-line,Kill,Jungler-line,Ronn,Hayabusa,Kagendra,2:17
+MDL_mid2024,8/6/2024,mdl_gr1d2_m3,1,Group Stage,39.02%,37.70%,Kill Mid-lane,Kill,Mid-lane,Joey,Zhuxin,Yasbih Esports,2:21
+MDL_mid2024,8/6/2024,mdl_gr1d2_m3,1,Group Stage,39.05%,36.37%,Death Jungler-line,Death,Jungler-line,Ronn,Hayabusa,Kagendra,2:21
+MDL_mid2024,8/6/2024,mdl_gr1d2_m3,1,Group Stage,24.69%,58.37%,Death Roamer-lane,Death,Roamer-lane,Kiyyy,Edith,Yasbih Esports,5:26
+MDL_mid2024,8/6/2024,mdl_gr1d2_m3,1,Group Stage,24.72%,59.37%,Kill Jungler-line,Kill,Jungler-line,Ronn,Hayabusa,Kagendra,5:26
+MDL_mid2024,8/6/2024,mdl_gr1d2_m3,1,Group Stage,21.35%,56.03%,Death Jungler-line,Death,Jungler-line,Reyynn,Fanny,Yasbih Esports,5:31
+MDL_mid2024,8/6/2024,mdl_gr1d2_m3,1,Group Stage,21.39%,54.37%,Kill Roamer-lane,Kill,Roamer-lane,HanafiTzy,Hylos,Kagendra,5:31
+MDL_mid2024,8/6/2024,mdl_gr1d2_m3,1,Group Stage,34.02%,63.10%,Death Exp-lane,Death,Exp-lane,Chewy,Ruby,Yasbih Esports,6:05
+MDL_mid2024,8/6/2024,mdl_gr1d2_m3,1,Group Stage,34.72%,59.77%,Kill gold-lane,Kill,gold-lane,KennzyySkie,Harith,Kagendra,6:05
+MDL_mid2024,8/6/2024,mdl_gr1d2_m3,1,Group Stage,20.02%,42.43%,Death Roamer-lane,Death,Roamer-lane,Kiyyy,Edith,Yasbih Esports,7:05
+MDL_mid2024,8/6/2024,mdl_gr1d2_m3,1,Group Stage,19.39%,42.10%,Kill gold-lane,Kill,gold-lane,KennzyySkie,Harith,Kagendra,7:05
+MDL_mid2024,8/6/2024,mdl_gr1d2_m3,1,Group Stage,17.69%,50.03%,Death Exp-lane,Death,Exp-lane,Chewy,Ruby,Yasbih Esports,7:08
+MDL_mid2024,8/6/2024,mdl_gr1d2_m3,1,Group Stage,17.05%,49.57%,Kill gold-lane,Kill,gold-lane,KennzyySkie,Harith,Kagendra,7:08
+MDL_mid2024,8/6/2024,mdl_gr1d2_m3,1,Group Stage,27.69%,67.90%,Death Exp-lane,Death,Exp-lane,Chewy,Ruby,Yasbih Esports,8:57
+MDL_mid2024,8/6/2024,mdl_gr1d2_m3,1,Group Stage,28.72%,67.23%,Kill Jungler-line,Kill,Jungler-line,Ronn,Hayabusa,Kagendra,8:57
+MDL_mid2024,8/6/2024,mdl_gr1d2_m3,1,Group Stage,28.02%,66.57%,Kill Roamer-lane,Kill,Roamer-lane,Kiyyy,Edith,Yasbih Esports,8:58
+MDL_mid2024,8/6/2024,mdl_gr1d2_m3,1,Group Stage,27.39%,66.90%,Death Roamer-lane,Death,Roamer-lane,HanafiTzy,Hylos,Kagendra,8:58
+MDL_mid2024,8/6/2024,mdl_gr1d2_m3,1,Group Stage,25.69%,69.37%,Death Roamer-lane,Death,Roamer-lane,Kiyyy,Edith,Yasbih Esports,9:00
+MDL_mid2024,8/6/2024,mdl_gr1d2_m3,1,Group Stage,27.05%,68.57%,Kill Jungler-line,Kill,Jungler-line,Ronn,Hayabusa,Kagendra,9:00
+MDL_mid2024,8/6/2024,mdl_gr1d2_m3,1,Group Stage,32.02%,76.37%,Death Jungler-line,Death,Jungler-line,Reyynn,Fanny,Yasbih Esports,9:01
+MDL_mid2024,8/6/2024,mdl_gr1d2_m3,1,Group Stage,32.72%,77.57%,Kill Exp-lane,Kill,Exp-lane,Shogun,Chou,Kagendra,9:01
+MDL_mid2024,8/6/2024,mdl_gr1d2_m3,1,Group Stage,27.02%,39.57%,Death Roamer-lane,Death,Roamer-lane,Kiyyy,Edith,Yasbih Esports,9:58
+MDL_mid2024,8/6/2024,mdl_gr1d2_m3,1,Group Stage,27.39%,38.97%,Kill Jungler-line,Kill,Jungler-line,Ronn,Hayabusa,Kagendra,9:58
+MDL_mid2024,8/6/2024,mdl_gr1d2_m3,1,Group Stage,22.02%,32.70%,Kill Jungler-line,Kill,Jungler-line,Reyynn,Fanny,Yasbih Esports,10:00
+MDL_mid2024,8/6/2024,mdl_gr1d2_m3,1,Group Stage,22.39%,34.57%,Death Jungler-line,Death,Jungler-line,Ronn,Hayabusa,Kagendra,10:00
+MDL_mid2024,8/6/2024,mdl_gr1d2_m3,1,Group Stage,3.02%,56.03%,Death Exp-lane,Death,Exp-lane,Chewy,Ruby,Yasbih Esports,10:09
+MDL_mid2024,8/6/2024,mdl_gr1d2_m3,1,Group Stage,3.72%,55.90%,Kill Mid-lane,Kill,Mid-lane,Daniel,Valentina,Kagendra,10:09
+MDL_mid2024,8/6/2024,mdl_gr1d2_m3,1,Group Stage,6.69%,71.37%,Death Jungler-line,Death,Jungler-line,Reyynn,Fanny,Yasbih Esports,12:02
+MDL_mid2024,8/6/2024,mdl_gr1d2_m3,1,Group Stage,6.39%,70.70%,Kill Jungler-line,Kill,Jungler-line,Ronn,Hayabusa,Kagendra,12:02
+MDL_mid2024,8/6/2024,mdl_gr1d2_m3,1,Group Stage,21.02%,77.57%,Kill gold-lane,Kill,gold-lane,Mikazuee,Karrie,Yasbih Esports,12:04
+MDL_mid2024,8/6/2024,mdl_gr1d2_m3,1,Group Stage,22.39%,75.70%,Death Roamer-lane,Death,Roamer-lane,HanafiTzy,Hylos,Kagendra,12:04
+MDL_mid2024,8/6/2024,mdl_gr1d2_m3,1,Group Stage,25.02%,82.70%,Kill Exp-lane,Kill,Exp-lane,Chewy,Ruby,Yasbih Esports,12:08
+MDL_mid2024,8/6/2024,mdl_gr1d2_m3,1,Group Stage,27.05%,83.37%,Death Mid-lane,Death,Mid-lane,Daniel,Valentina,Kagendra,12:08
+MDL_mid2024,8/6/2024,mdl_gr1d2_m3,1,Group Stage,45.69%,55.37%,Death Exp-lane,Death,Exp-lane,Chewy,Ruby,Yasbih Esports,12:56
+MDL_mid2024,8/6/2024,mdl_gr1d2_m3,1,Group Stage,44.39%,57.37%,Kill gold-lane,Kill,gold-lane,KennzyySkie,Harith,Kagendra,12:56
+MDL_mid2024,8/6/2024,mdl_gr1d2_m3,1,Group Stage,43.35%,56.70%,Death Roamer-lane,Death,Roamer-lane,Kiyyy,Edith,Yasbih Esports,13:01
+MDL_mid2024,8/6/2024,mdl_gr1d2_m3,1,Group Stage,39.39%,58.03%,Kill gold-lane,Kill,gold-lane,KennzyySkie,Harith,Kagendra,13:01
+MDL_mid2024,8/6/2024,mdl_gr1d2_m3,1,Group Stage,8.02%,84.03%,Death gold-lane,Death,gold-lane,Mikazuee,Karrie,Yasbih Esports,13:23
+MDL_mid2024,8/6/2024,mdl_gr1d2_m3,1,Group Stage,7.39%,82.70%,Kill gold-lane,Kill,gold-lane,KennzyySkie,Harith,Kagendra,13:23
+MDL_mid2024,8/6/2024,mdl_gr1d2_m3,1,Group Stage,17.69%,85.70%,Kill Mid-lane,Kill,Mid-lane,Joey,Zhuxin,Yasbih Esports,13:25
+MDL_mid2024,8/6/2024,mdl_gr1d2_m3,1,Group Stage,19.39%,86.37%,Death Roamer-lane,Death,Roamer-lane,HanafiTzy,Hylos,Kagendra,13:25
+MDL_mid2024,8/6/2024,mdl_gr1d2_m3,1,Group Stage,13.02%,79.70%,Kill Mid-lane,Kill,Mid-lane,Joey,Zhuxin,Yasbih Esports,13:27
+MDL_mid2024,8/6/2024,mdl_gr1d2_m3,1,Group Stage,13.39%,81.37%,Death gold-lane,Death,gold-lane,KennzyySkie,Harith,Kagendra,13:27
+MDL_mid2024,8/6/2024,mdl_gr1d2_m3,1,Group Stage,51.02%,78.70%,Death Exp-lane,Death,Exp-lane,Chewy,Ruby,Yasbih Esports,15:29
+MDL_mid2024,8/6/2024,mdl_gr1d2_m3,1,Group Stage,51.39%,77.70%,Kill Jungler-line,Kill,Jungler-line,Ronn,Hayabusa,Kagendra,15:29
+MDL_mid2024,8/6/2024,mdl_gr1d2_m3,1,Group Stage,44.69%,79.70%,Death Roamer-lane,Death,Roamer-lane,Kiyyy,Edith,Yasbih Esports,15:32
+MDL_mid2024,8/6/2024,mdl_gr1d2_m3,1,Group Stage,45.72%,80.37%,Kill Roamer-lane,Kill,Roamer-lane,HanafiTzy,Hylos,Kagendra,15:32
+MDL_mid2024,8/6/2024,mdl_gr1d2_m3,1,Group Stage,46.69%,86.37%,Death Jungler-line,Death,Jungler-line,Reyynn,Fanny,Yasbih Esports,15:37
+MDL_mid2024,8/6/2024,mdl_gr1d2_m3,1,Group Stage,44.39%,88.37%,Kill Jungler-line,Kill,Jungler-line,Ronn,Hayabusa,Kagendra,15:37
+MDL_mid2024,8/6/2024,mdl_gr1d2_m3,1,Group Stage,36.69%,90.70%,Kill gold-lane,Kill,gold-lane,Mikazuee,Karrie,Yasbih Esports,15:39
+MDL_mid2024,8/6/2024,mdl_gr1d2_m3,1,Group Stage,37.05%,91.70%,Death Exp-lane,Death,Exp-lane,Shogun,Chou,Kagendra,15:39
+MDL_mid2024,8/6/2024,mdl_gr1d2_m3,1,Group Stage,30.02%,90.03%,Kill Mid-lane,Kill,Mid-lane,Joey,Zhuxin,Yasbih Esports,15:44
+MDL_mid2024,8/6/2024,mdl_gr1d2_m3,1,Group Stage,31.72%,90.03%,Death Roamer-lane,Death,Roamer-lane,HanafiTzy,Hylos,Kagendra,15:44
+MDL_mid2024,8/6/2024,mdl_gr1d2_m3,1,Group Stage,22.69%,83.70%,Death gold-lane,Death,gold-lane,Mikazuee,Karrie,Yasbih Esports,15:57
+MDL_mid2024,8/6/2024,mdl_gr1d2_m3,1,Group Stage,27.39%,86.37%,Kill Mid-lane,Kill,Mid-lane,Daniel,Valentina,Kagendra,15:57
+MDL_mid2024,8/6/2024,mdl_gr1d2_m3,2,Group Stage,53.02%,67.70%,Death Jungler-line,Death,Jungler-line,Reyynn,Roger,Yasbih Esports,1:05
+MDL_mid2024,8/6/2024,mdl_gr1d2_m3,2,Group Stage,52.72%,67.70%,Kill Jungler-line,Kill,Jungler-line,Ronn,Alpha,Kagendra,1:05
+MDL_mid2024,8/6/2024,mdl_gr1d2_m3,2,Group Stage,39.69%,43.70%,Kill Jungler-line,Kill,Jungler-line,Reyynn,Roger,Yasbih Esports,3:11
+MDL_mid2024,8/6/2024,mdl_gr1d2_m3,2,Group Stage,42.72%,41.70%,Death Roamer-lane,Death,Roamer-lane,HanafiTzy,Edith,Kagendra,3:11
+MDL_mid2024,8/6/2024,mdl_gr1d2_m3,2,Group Stage,41.35%,47.10%,Kill Jungler-line,Kill,Jungler-line,Reyynn,Roger,Yasbih Esports,3:15
+MDL_mid2024,8/6/2024,mdl_gr1d2_m3,2,Group Stage,42.72%,47.77%,Death Jungler-line,Death,Jungler-line,Ronn,Alpha,Kagendra,3:15
+MDL_mid2024,8/6/2024,mdl_gr1d2_m3,2,Group Stage,17.02%,19.77%,Death Jungler-line,Death,Jungler-line,Reyynn,Roger,Yasbih Esports,4:00
+MDL_mid2024,8/6/2024,mdl_gr1d2_m3,2,Group Stage,21.72%,20.10%,Kill Roamer-lane,Kill,Roamer-lane,HanafiTzy,Edith,Kagendra,4:00
+MDL_mid2024,8/6/2024,mdl_gr1d2_m3,2,Group Stage,65.35%,70.03%,Kill Mid-lane,Kill,Mid-lane,Joey,Aurora,Yasbih Esports,5:14
+MDL_mid2024,8/6/2024,mdl_gr1d2_m3,2,Group Stage,66.39%,67.37%,Death Roamer-lane,Death,Roamer-lane,HanafiTzy,Edith,Kagendra,5:14
+MDL_mid2024,8/6/2024,mdl_gr1d2_m3,2,Group Stage,69.02%,58.37%,Kill Jungler-line,Kill,Jungler-line,Reyynn,Roger,Yasbih Esports,5:16
+MDL_mid2024,8/6/2024,mdl_gr1d2_m3,2,Group Stage,65.72%,56.37%,Death Mid-lane,Death,Mid-lane,Daniel,Faramis,Kagendra,5:16
+MDL_mid2024,8/6/2024,mdl_gr1d2_m3,2,Group Stage,66.02%,54.70%,Kill Jungler-line,Kill,Jungler-line,Reyynn,Roger,Yasbih Esports,5:17
+MDL_mid2024,8/6/2024,mdl_gr1d2_m3,2,Group Stage,65.05%,55.37%,Death Jungler-line,Death,Jungler-line,Ronn,Alpha,Kagendra,5:17
+MDL_mid2024,8/6/2024,mdl_gr1d2_m3,2,Group Stage,55.02%,52.37%,Kill Mid-lane,Kill,Mid-lane,Joey,Aurora,Yasbih Esports,5:19
+MDL_mid2024,8/6/2024,mdl_gr1d2_m3,2,Group Stage,58.39%,48.37%,Death Exp-lane,Death,Exp-lane,Shogun,Terizla,Kagendra,5:19
+MDL_mid2024,8/6/2024,mdl_gr1d2_m3,2,Group Stage,66.02%,84.70%,Death gold-lane,Death,gold-lane,Mikazuee,Claude,Yasbih Esports,7:15
+MDL_mid2024,8/6/2024,mdl_gr1d2_m3,2,Group Stage,65.05%,84.70%,Kill gold-lane,Kill,gold-lane,KennzyySkie,Moskov,Kagendra,7:15
+MDL_mid2024,8/6/2024,mdl_gr1d2_m3,2,Group Stage,89.02%,76.70%,Kill Mid-lane,Kill,Mid-lane,Joey,Aurora,Yasbih Esports,7:41
+MDL_mid2024,8/6/2024,mdl_gr1d2_m3,2,Group Stage,89.05%,79.70%,Death Roamer-lane,Death,Roamer-lane,HanafiTzy,Edith,Kagendra,7:41
+MDL_mid2024,8/6/2024,mdl_gr1d2_m3,2,Group Stage,55.02%,81.70%,Death Exp-lane,Death,Exp-lane,Chewy,Barats,Yasbih Esports,7:58
+MDL_mid2024,8/6/2024,mdl_gr1d2_m3,2,Group Stage,56.39%,82.70%,Kill Jungler-line,Kill,Jungler-line,Ronn,Alpha,Kagendra,7:58
+MDL_mid2024,8/6/2024,mdl_gr1d2_m3,2,Group Stage,68.69%,90.70%,Kill gold-lane,Kill,gold-lane,Mikazuee,Claude,Yasbih Esports,8:07
+MDL_mid2024,8/6/2024,mdl_gr1d2_m3,2,Group Stage,70.39%,90.37%,Death Exp-lane,Death,Exp-lane,Shogun,Terizla,Kagendra,8:07
+MDL_mid2024,8/6/2024,mdl_gr1d2_m3,2,Group Stage,89.35%,68.37%,Kill Jungler-line,Kill,Jungler-line,Reyynn,Roger,Yasbih Esports,8:15
+MDL_mid2024,8/6/2024,mdl_gr1d2_m3,2,Group Stage,91.72%,67.70%,Death Jungler-line,Death,Jungler-line,Ronn,Alpha,Kagendra,8:15
+MDL_mid2024,8/6/2024,mdl_gr1d2_m3,2,Group Stage,63.35%,59.70%,Death Exp-lane,Death,Exp-lane,Chewy,Barats,Yasbih Esports,10:01
+MDL_mid2024,8/6/2024,mdl_gr1d2_m3,2,Group Stage,65.05%,58.03%,Kill gold-lane,Kill,gold-lane,KennzyySkie,Moskov,Kagendra,10:01
+MDL_mid2024,8/6/2024,mdl_gr1d2_m3,2,Group Stage,72.02%,60.03%,Death Jungler-line,Death,Jungler-line,Reyynn,Roger,Yasbih Esports,10:03
+MDL_mid2024,8/6/2024,mdl_gr1d2_m3,2,Group Stage,69.72%,58.70%,Death Roamer-lane,Death,Roamer-lane,HanafiTzy,Edith,Kagendra,10:04
+MDL_mid2024,8/6/2024,mdl_gr1d2_m3,2,Group Stage,73.02%,54.03%,Kill Jungler-line,Kill,Jungler-line,Reyynn,Roger,Yasbih Esports,10:05
+MDL_mid2024,8/6/2024,mdl_gr1d2_m3,2,Group Stage,73.39%,53.70%,Death Exp-lane,Death,Exp-lane,Shogun,Terizla,Kagendra,10:05
+MDL_mid2024,8/6/2024,mdl_gr1d2_m3,2,Group Stage,77.69%,51.37%,Kill Jungler-line,Kill,Jungler-line,Reyynn,Roger,Yasbih Esports,10:07
+MDL_mid2024,8/6/2024,mdl_gr1d2_m3,2,Group Stage,78.39%,51.70%,Death Jungler-line,Death,Jungler-line,Ronn,Alpha,Kagendra,10:07
+MDL_mid2024,8/6/2024,mdl_gr1d2_m3,2,Group Stage,66.02%,10.37%,Death Roamer-lane,Death,Roamer-lane,Kiyyy,Minotaur,Yasbih Esports,11:36
+MDL_mid2024,8/6/2024,mdl_gr1d2_m3,2,Group Stage,64.39%,9.37%,Kill gold-lane,Kill,gold-lane,KennzyySkie,Moskov,Kagendra,11:36
+MDL_mid2024,8/6/2024,mdl_gr1d2_m3,2,Group Stage,38.02%,27.37%,Kill Roamer-lane,Kill,Roamer-lane,Kiyyy,Minotaur,Yasbih Esports,13:49
+MDL_mid2024,8/6/2024,mdl_gr1d2_m3,2,Group Stage,39.05%,28.03%,Death Exp-lane,Death,Exp-lane,Shogun,Terizla,Kagendra,13:49
+MDL_mid2024,8/6/2024,mdl_gr1d2_m3,2,Group Stage,43.02%,37.37%,Kill Mid-lane,Kill,Mid-lane,Joey,Aurora,Yasbih Esports,13:51
+MDL_mid2024,8/6/2024,mdl_gr1d2_m3,2,Group Stage,44.72%,34.37%,Death gold-lane,Death,gold-lane,KennzyySkie,Moskov,Kagendra,13:51
+MDL_mid2024,8/6/2024,mdl_gr1d2_m3,2,Group Stage,51.69%,27.70%,Kill Mid-lane,Kill,Mid-lane,Joey,Aurora,Yasbih Esports,13:55
+MDL_mid2024,8/6/2024,mdl_gr1d2_m3,2,Group Stage,51.05%,28.37%,Death Roamer-lane,Death,Roamer-lane,HanafiTzy,Edith,Kagendra,13:55
+MDL_mid2024,8/6/2024,mdl_gr1d2_m3,2,Group Stage,78.02%,4.37%,Kill Jungler-line,Kill,Jungler-line,Reyynn,Roger,Yasbih Esports,14:14
+MDL_mid2024,8/6/2024,mdl_gr1d2_m3,2,Group Stage,80.72%,4.70%,Death Mid-lane,Death,Mid-lane,Daniel,Faramis,Kagendra,14:14
+MDL_mid2024,8/6/2024,mdl_gr1d2_m3,2,Group Stage,83.35%,17.70%,Kill gold-lane,Kill,gold-lane,Mikazuee,Claude,Yasbih Esports,14:18
+MDL_mid2024,8/6/2024,mdl_gr1d2_m3,2,Group Stage,83.39%,18.03%,Death Jungler-line,Death,Jungler-line,Ronn,Alpha,Kagendra,14:18
+MDL_mid2024,8/6/2024,mdl_gr1d2_m3,2,Group Stage,81.35%,18.03%,Death Exp-lane,Death,Exp-lane,Chewy,Barats,Yasbih Esports,14:21
+MDL_mid2024,8/6/2024,mdl_gr1d2_m3,2,Group Stage,81.39%,16.70%,Kill Jungler-line,Kill,Jungler-line,Ronn,Alpha,Kagendra,14:21
+MDL_mid2024,8/6/2024,mdl_gr1d2_m3,2,Group Stage,80.69%,16.37%,Kill gold-lane,Kill,gold-lane,Mikazuee,Claude,Yasbih Esports,14:24
+MDL_mid2024,8/6/2024,mdl_gr1d2_m3,2,Group Stage,80.72%,14.37%,Death Mid-lane,Death,Mid-lane,Daniel,Faramis,Kagendra,14:24
+MDL_mid2024,8/6/2024,mdl_gr1d2_m3,2,Group Stage,83.02%,16.37%,Death Roamer-lane,Death,Roamer-lane,Kiyyy,Minotaur,Yasbih Esports,14:26
+MDL_mid2024,8/6/2024,mdl_gr1d2_m3,2,Group Stage,81.39%,16.03%,Kill Mid-lane,Kill,Mid-lane,Daniel,Faramis,Kagendra,14:26
+MDL_mid2024,8/6/2024,mdl_gr1d2_m3,3,Group Stage,72.02%,46.70%,Death Jungler-line,Death,Jungler-line,Ronn,Fanny,Kagendra,2:33
+MDL_mid2024,8/6/2024,mdl_gr1d2_m3,3,Group Stage,72.39%,45.37%,Kill gold-lane,Kill,gold-lane,Mikazuee,Moskov,Yasbih Esports,2:33
+MDL_mid2024,8/6/2024,mdl_gr1d2_m3,3,Group Stage,71.69%,92.70%,Death Exp-lane,Death,Exp-lane,Shogun,Arlott,Kagendra,3:00
+MDL_mid2024,8/6/2024,mdl_gr1d2_m3,3,Group Stage,71.72%,92.30%,Kill Jungler-line,Kill,Jungler-line,Reyynn,Alpha,Yasbih Esports,3:00
+MDL_mid2024,8/6/2024,mdl_gr1d2_m3,3,Group Stage,46.69%,55.70%,Death Mid-lane,Death,Mid-lane,Daniel,Zhask,Kagendra,3:25
+MDL_mid2024,8/6/2024,mdl_gr1d2_m3,3,Group Stage,47.05%,56.97%,Kill Mid-lane,Kill,Mid-lane,Joey,Vexana,Yasbih Esports,3:25
+MDL_mid2024,8/6/2024,mdl_gr1d2_m3,3,Group Stage,67.69%,55.10%,Kill Jungler-line,Kill,Jungler-line,Ronn,Fanny,Kagendra,4:39
+MDL_mid2024,8/6/2024,mdl_gr1d2_m3,3,Group Stage,66.72%,53.10%,Death Mid-lane,Death,Mid-lane,Joey,Vexana,Yasbih Esports,4:39
+MDL_mid2024,8/6/2024,mdl_gr1d2_m3,3,Group Stage,53.69%,32.03%,Kill Jungler-line,Kill,Jungler-line,Ronn,Fanny,Kagendra,5:45
+MDL_mid2024,8/6/2024,mdl_gr1d2_m3,3,Group Stage,51.39%,31.37%,Death Jungler-line,Death,Jungler-line,Reyynn,Alpha,Yasbih Esports,5:45
+MDL_mid2024,8/6/2024,mdl_gr1d2_m3,3,Group Stage,77.35%,82.03%,Death Jungler-line,Death,Jungler-line,Ronn,Fanny,Kagendra,6:42
+MDL_mid2024,8/6/2024,mdl_gr1d2_m3,3,Group Stage,78.72%,81.70%,Kill Jungler-line,Kill,Jungler-line,Reyynn,Alpha,Yasbih Esports,6:42
+MDL_mid2024,8/6/2024,mdl_gr1d2_m3,3,Group Stage,18.02%,14.37%,Death Exp-lane,Death,Exp-lane,Shogun,Arlott,Kagendra,6:54
+MDL_mid2024,8/6/2024,mdl_gr1d2_m3,3,Group Stage,15.05%,15.37%,Kill gold-lane,Kill,gold-lane,Mikazuee,Moskov,Yasbih Esports,6:54
+MDL_mid2024,8/6/2024,mdl_gr1d2_m3,3,Group Stage,25.35%,21.70%,Death Exp-lane,Death,Exp-lane,Shogun,Arlott,Kagendra,8:20
+MDL_mid2024,8/6/2024,mdl_gr1d2_m3,3,Group Stage,25.72%,20.57%,Kill Jungler-line,Kill,Jungler-line,Reyynn,Alpha,Yasbih Esports,8:20
+MDL_mid2024,8/6/2024,mdl_gr1d2_m3,3,Group Stage,20.02%,20.37%,Death Mid-lane,Death,Mid-lane,Daniel,Zhask,Kagendra,8:23
+MDL_mid2024,8/6/2024,mdl_gr1d2_m3,3,Group Stage,21.39%,20.37%,Kill Exp-lane,Kill,Exp-lane,Chewy,Grock,Yasbih Esports,8:23
+MDL_mid2024,8/6/2024,mdl_gr1d2_m3,3,Group Stage,66.69%,69.77%,Kill Exp-lane,Kill,Exp-lane,Shogun,Arlott,Kagendra,10:04
+MDL_mid2024,8/6/2024,mdl_gr1d2_m3,3,Group Stage,67.05%,70.03%,Death Exp-lane,Death,Exp-lane,Chewy,Grock,Yasbih Esports,10:04
+MDL_mid2024,8/6/2024,mdl_gr1d2_m3,3,Group Stage,66.69%,77.37%,Kill Exp-lane,Kill,Exp-lane,Shogun,Arlott,Kagendra,10:07
+MDL_mid2024,8/6/2024,mdl_gr1d2_m3,3,Group Stage,67.72%,78.03%,Death Jungler-line,Death,Jungler-line,Reyynn,Alpha,Yasbih Esports,10:07
+MDL_mid2024,8/6/2024,mdl_gr1d2_m3,3,Group Stage,79.02%,66.70%,Kill gold-lane,Kill,gold-lane,KennzyySkie,Karrie,Kagendra,10:11
+MDL_mid2024,8/6/2024,mdl_gr1d2_m3,3,Group Stage,77.39%,66.37%,Death Roamer-lane,Death,Roamer-lane,Kiyyy,Mathilda,Yasbih Esports,10:11
+MDL_mid2024,8/6/2024,mdl_gr1d2_m3,3,Group Stage,79.02%,62.70%,Kill Jungler-line,Kill,Jungler-line,Ronn,Fanny,Kagendra,10:13
+MDL_mid2024,8/6/2024,mdl_gr1d2_m3,3,Group Stage,78.72%,62.37%,Death gold-lane,Death,gold-lane,Mikazuee,Moskov,Yasbih Esports,10:13
+MDL_mid2024,8/6/2024,mdl_gr1d2_m3,3,Group Stage,87.69%,58.70%,Kill Jungler-line,Kill,Jungler-line,Ronn,Fanny,Kagendra,10:15
+MDL_mid2024,8/6/2024,mdl_gr1d2_m3,3,Group Stage,88.72%,58.03%,Death Mid-lane,Death,Mid-lane,Joey,Vexana,Yasbih Esports,10:15
+MDL_mid2024,8/6/2024,mdl_gr1d2_m3,3,Group Stage,87.02%,18.37%,Kill gold-lane,Kill,gold-lane,KennzyySkie,Karrie,Kagendra,11:57
+MDL_mid2024,8/6/2024,mdl_gr1d2_m3,3,Group Stage,84.72%,19.70%,Death Jungler-line,Death,Jungler-line,Reyynn,Alpha,Yasbih Esports,11:57
+MDL_mid2024,8/6/2024,mdl_gr1d2_m3,3,Group Stage,81.35%,11.37%,Death Exp-lane,Death,Exp-lane,Shogun,Arlott,Kagendra,12:08
+MDL_mid2024,8/6/2024,mdl_gr1d2_m3,3,Group Stage,79.72%,13.70%,Kill gold-lane,Kill,gold-lane,Mikazuee,Moskov,Yasbih Esports,12:08
+MDL_mid2024,8/6/2024,mdl_gr1d2_m3,3,Group Stage,85.69%,64.37%,Death Jungler-line,Death,Jungler-line,Ronn,Fanny,Kagendra,12:36
+MDL_mid2024,8/6/2024,mdl_gr1d2_m3,3,Group Stage,77.39%,23.70%,Kill Mid-lane,Kill,Mid-lane,Joey,Vexana,Yasbih Esports,12:36
+MDL_mid2024,8/6/2024,mdl_gr1d2_m3,3,Group Stage,34.02%,24.03%,Kill Exp-lane,Kill,Exp-lane,Shogun,Arlott,Kagendra,14:25
+MDL_mid2024,8/6/2024,mdl_gr1d2_m3,3,Group Stage,34.72%,25.37%,Death Roamer-lane,Death,Roamer-lane,Kiyyy,Mathilda,Yasbih Esports,14:25
+MDL_mid2024,8/6/2024,mdl_gr1d2_m3,3,Group Stage,32.69%,23.23%,Death Roamer-lane,Death,Roamer-lane,HanafiTzy,Khufra,Kagendra,14:26
+MDL_mid2024,8/6/2024,mdl_gr1d2_m3,3,Group Stage,29.72%,19.70%,Kill gold-lane,Kill,gold-lane,Mikazuee,Moskov,Yasbih Esports,14:26
+MDL_mid2024,8/6/2024,mdl_gr1d2_m3,3,Group Stage,33.02%,22.57%,Death Exp-lane,Death,Exp-lane,Shogun,Arlott,Kagendra,14:28
+MDL_mid2024,8/6/2024,mdl_gr1d2_m3,3,Group Stage,32.72%,23.57%,Kill Jungler-line,Kill,Jungler-line,Reyynn,Alpha,Yasbih Esports,14:28
+MDL_mid2024,8/6/2024,mdl_gr1d2_m3,3,Group Stage,31.35%,32.03%,Death Mid-lane,Death,Mid-lane,Daniel,Zhask,Kagendra,14:30
+MDL_mid2024,8/6/2024,mdl_gr1d2_m3,3,Group Stage,31.72%,34.57%,Kill Mid-lane,Kill,Mid-lane,Joey,Vexana,Yasbih Esports,14:30
+MDL_mid2024,8/6/2024,mdl_gr1d2_m3,3,Group Stage,66.69%,46.37%,Kill gold-lane,Kill,gold-lane,KennzyySkie,Karrie,Kagendra,16:42
+MDL_mid2024,8/6/2024,mdl_gr1d2_m3,3,Group Stage,67.72%,46.70%,Death Jungler-line,Death,Jungler-line,Reyynn,Alpha,Yasbih Esports,16:42
+MDL_mid2024,8/6/2024,mdl_gr1d2_m3,3,Group Stage,25.02%,28.37%,Kill gold-lane,Kill,gold-lane,KennzyySkie,Karrie,Kagendra,18:25
+MDL_mid2024,8/6/2024,mdl_gr1d2_m3,3,Group Stage,25.05%,26.37%,Death Jungler-line,Death,Jungler-line,Reyynn,Alpha,Yasbih Esports,18:25
+MDL_mid2024,8/6/2024,mdl_gr1d2_m3,3,Group Stage,82.69%,16.70%,Kill Mid-lane,Kill,Mid-lane,Daniel,Zhask,Kagendra,19:05
+MDL_mid2024,8/6/2024,mdl_gr1d2_m3,3,Group Stage,80.39%,17.30%,Death gold-lane,Death,gold-lane,Mikazuee,Moskov,Yasbih Esports,19:05
+MDL_mid2024,8/6/2024,mdl_gr1d2_m3,3,Group Stage,80.69%,13.37%,Kill Mid-lane,Kill,Mid-lane,Daniel,Zhask,Kagendra,19:09
+MDL_mid2024,8/6/2024,mdl_gr1d2_m3,3,Group Stage,80.72%,16.37%,Death Exp-lane,Death,Exp-lane,Chewy,Grock,Yasbih Esports,19:09
