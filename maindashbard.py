@@ -98,7 +98,7 @@ pages = {
     "Homepage": homepage,
     "Team Map": homepage1,
     "Player Map": main,
-    "ResulstPlayer": results 
+    "Resulst Player": results 
     # Add the new page here
 }
 
