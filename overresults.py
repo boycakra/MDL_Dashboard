@@ -15,13 +15,15 @@ def results():
     # Streamlit UI
     st.title('MLBB Match Radar Chart')
 
-    # Dropdowns for Date, Match ID, and Round
+    # Dropdown for Date
     selected_date = st.selectbox('Select Date', sorted(data['Date'].unique()))
     filtered_data_by_date = data[data['Date'] == selected_date]
 
+    # Dropdown for Match ID
     selected_match_id = st.selectbox('Select Match ID', sorted(filtered_data_by_date['Match_id'].unique()))
     filtered_data_by_match_id = filtered_data_by_date[filtered_data_by_date['Match_id'] == selected_match_id]
 
+    # Dropdown for Round
     selected_round = st.selectbox('Select Round', sorted(filtered_data_by_match_id['Round'].unique()))
     filtered_data = filtered_data_by_match_id[filtered_data_by_match_id['Round'] == selected_round]
 
@@ -143,8 +145,8 @@ def results():
         file_name=f"{team2}_radar_chart.svg",
         mime="image/svg+xml"
     )
-
-    st.title('All Data Comparison')
+    
+    st.title('All Players Match Result ')
     st.write(f'<embed type="image/svg+xml" src="data:image/svg+xml;base64,{base64.b64encode(radar_svg_all_players.getvalue()).decode("utf-8")}" />', unsafe_allow_html=True)
     st.download_button(
         label="Download All Players Radar Chart",
@@ -153,5 +155,5 @@ def results():
         mime="image/svg+xml"
     )
 
-if __name__ == "__main__":
-    results()
+# Run the function
+results()
