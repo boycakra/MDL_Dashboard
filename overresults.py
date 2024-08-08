@@ -117,7 +117,8 @@ def results():
     raw_team2_data = [team_averages[team2][metric] for metric in metrics]
     radar_chart_all_players.add(f'Avg Team: {team2}', [{'value': team2_data[i], 'label': f'{metrics[i]}: {team2_data[i]:.2f} (Raw: {raw_team2_data[i]})'} for i in range(len(metrics))], fill=True)
 
-    # Render the radar charts as SVG
+    # Render the radar charts as SVGsae
+
     def render_chart_as_img(chart):
         img_data = chart.render()
         img_bytes = BytesIO(img_data)
