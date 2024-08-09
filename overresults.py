@@ -7,7 +7,7 @@ import pandas as pd
 import base64
 from io import BytesIO
 
-# Load data from CSV
+# Upload data
 file_path = "Results.csv"
 data = pd.read_csv(file_path)
 
